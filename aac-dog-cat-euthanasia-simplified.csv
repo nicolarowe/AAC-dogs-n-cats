@@ -1,0 +1,3194 @@
+,animal_id,name,animal_type,outcome_subtype,sex_upon_outcome,age_upon_outcome
+676,A673611,Blackie,Dog,Aggressive,Male,2 years
+1774,A701992,Tau,Dog,Aggressive,Male,5 years
+883,A679533,Star,Dog,Aggressive,Female,3 years
+520,A669416,Espana,Dog,Aggressive,Female,1 year
+1707,A700027,,Dog,Aggressive,Female,1 year
+2333,A721573,Squirt,Dog,Aggressive,Male,1 year
+508,A669105,*Roscoe,Dog,Aggressive,Male,2 years
+509,A669130,Benjaman,Dog,Aggressive,Male,5 years
+510,A669133,*Q,Dog,Aggressive,Male,4 years
+2332,A721565,Arthur,Dog,Aggressive,Male,9 years
+2115,A710763,Ralph,Dog,Aggressive,Male,5 years
+1778,A702065,Kush,Dog,Aggressive,Male,1 year
+2338,A721777,Luna,Dog,Aggressive,Female,4 years
+514,A669240,,Dog,Aggressive,Male,4 years
+2588,A737358,Bear,Dog,Aggressive,Male,1 year
+1776,A702006,,Dog,Aggressive,Female,5 years
+483,A668438,,Dog,Aggressive,Male,2 years
+1773,A701991,Ursa,Dog,Aggressive,Female,5 years
+485,A668440,,Dog,Aggressive,Male,< 1 year
+2330,A721442,,Dog,Aggressive,Female,1 year
+523,A669485,Shades,Dog,Aggressive,Male,2 years
+2116,A710853,Oso,Dog,Aggressive,Male,2 years
+2112,A710720,Honey,Dog,Aggressive,Female,2 years
+502,A668912,Bella,Dog,Aggressive,Female,3 years
+501,A668893,Axel,Dog,Aggressive,Male,2 years
+474,A668210,Hazel,Dog,Aggressive,Female,2 years
+2546,A734221,Dro,Dog,Aggressive,Male,2 years
+2104,A710451,Henry,Dog,Aggressive,Male,4 years
+481,A668421,Babaloo,Dog,Aggressive,Male,2 years
+1096,A684871,Boomer,Dog,Aggressive,Male,1 year
+482,A668433,*Hoop,Dog,Aggressive,Male,2 years
+1120,A685301,Brandie,Dog,Aggressive,Female,2 years
+1731,A700769,Max,Dog,Aggressive,Male,1 year
+570,A670477,*Mika,Dog,Aggressive,Female,1 year
+562,A670331,,Dog,Aggressive,Female,2 years
+1486,A694167,Zeus,Dog,Aggressive,Male,1 year
+2105,A710453,Spawn,Dog,Aggressive,Male,3 years
+492,A668586,Marley,Dog,Aggressive,Female,1 year
+1451,A693517,*Chelsea,Dog,Aggressive,Female,2 years
+496,A668674,*Ernie,Dog,Aggressive,Male,< 1 year
+497,A668675,*Bert,Dog,Aggressive,Male,< 1 year
+1132,A685595,Gabriel,Dog,Aggressive,Male,1 year
+524,A669535,*Malachi,Dog,Aggressive,Male,5 years
+1140,A685760,,Dog,Aggressive,Male,3 years
+2329,A721441,,Dog,Aggressive,Female,2 years
+1470,A693856,Jizzle,Dog,Aggressive,Male,1 year
+486,A668441,,Dog,Aggressive,Female,< 1 year
+2582,A737070,Taz,Dog,Aggressive,Male,1 year
+484,A668439,,Dog,Aggressive,Male,1 year
+1747,A701187,*Tandie,Dog,Aggressive,Female,2 years
+487,A668493,,Dog,Aggressive,Female,2 years
+1488,A694181,Gorilla,Dog,Aggressive,Male,2 years
+582,A670821,Dekota,Dog,Aggressive,Female,4 years
+2317,A720802,Diesel,Dog,Aggressive,Male,1 year
+584,A670925,Charlie,Dog,Aggressive,Male,2 years
+1491,A694215,Travis,Dog,Aggressive,Male,2 years
+2310,A720388,Precious,Dog,Aggressive,Female,2 years
+1076,A684321,Snoop Dog,Dog,Aggressive,Female,2 years
+592,A671161,Cash,Dog,Aggressive,Male,2 years
+1075,A684320,Missy,Dog,Aggressive,Female,2 years
+1074,A684319,Kisses,Dog,Aggressive,Female,2 years
+490,A668530,,Dog,Aggressive,Female,2 years
+1426,A692855,*Nero,Dog,Aggressive,Male,2 years
+585,A670952,Tiger,Dog,Aggressive,Male,8 years
+1418,A692500,Kayo,Dog,Aggressive,Male,6 years
+1104,A684980,Gyula,Dog,Aggressive,Male,3 years
+448,A667284,,Dog,Aggressive,Male,2 years
+2127,A711339,Sadie Rose,Dog,Aggressive,Female,2 years
+1764,A701731,Buster,Dog,Aggressive,Male,8 years
+1763,A701728,Chico,Dog,Aggressive,Male,2 years
+538,A669749,*Boxer,Dog,Aggressive,Male,2 years
+539,A669784,*Precious,Dog,Aggressive,Female,1 year
+2124,A711079,Phoebe,Dog,Aggressive,Female,6 years
+1761,A701691,Shadow,Dog,Aggressive,Male,2 years
+2928,A761428,Willie,Dog,Aggressive,Male,2 years
+1474,A693989,Lobo,Dog,Aggressive,Male,4 years
+547,A669934,Cookie,Dog,Aggressive,Female,2 years
+548,A669960,*Fiona,Dog,Aggressive,Female,3 years
+1754,A701345,,Dog,Aggressive,Female,3 years
+1475,A693991,Oso,Dog,Aggressive,Male,4 years
+1193,A687302,Rusty,Dog,Aggressive,Male,3 years
+1102,A684975,Harley,Dog,Aggressive,Male,6 years
+2517,A731618,Bodie,Dog,Aggressive,Male,4 years
+2327,A721435,,Dog,Aggressive,Female,2 years
+1071,A684292,,Dog,Aggressive,Male,2 years
+1141,A685761,,Dog,Aggressive,Female,1 year
+2101,A710357,Gator,Dog,Aggressive,Male,2 years
+1192,A687296,,Dog,Aggressive,Female,4 years
+371,A665281,Marley,Dog,Aggressive,Male,2 years
+373,A665393,Maddie,Cat,Aggressive,Female,4 years
+1191,A687295,,Dog,Aggressive,Male,3 years
+1425,A692819,Spider,Dog,Aggressive,Male,3 years
+1189,A687223,*Michael,Dog,Aggressive,Male,3 years
+534,A669646,Beagle,Dog,Aggressive,Female,1 year
+1444,A693319,,Dog,Aggressive,Male,2 years
+1755,A701346,,Dog,Aggressive,Female,3 years
+399,A666173,Cece,Dog,Aggressive,Female,2 years
+341,A664812,Blue,Dog,Aggressive,Male,2 years
+1804,A702486,Hennesy,Dog,Aggressive,Male,2 years
+2503,A730809,Chichi Boy,Cat,Aggressive,Male,2 years
+2079,A709342,Gaston,Dog,Aggressive,Male,5 years
+1179,A686958,Ace,Dog,Aggressive,Male,6 years
+2520,A731828,Milo,Dog,Aggressive,Male,1 year
+1429,A692909,Zana,Dog,Aggressive,Female,1 year
+2358,A723766,Colonel,Dog,Aggressive,Male,2 years
+1195,A687453,,Dog,Aggressive,Male,2 years
+366,A665204,Africano,Dog,Aggressive,Male,4 years
+335,A664714,*Bruce,Dog,Aggressive,Male,4 years
+1212,A688028,*Maximus,Dog,Aggressive,Male,2 years
+1211,A688009,Junior,Dog,Aggressive,Male,1 year
+387,A665807,Toby,Dog,Aggressive,Male,3 years
+339,A664778,Brutus,Dog,Aggressive,Male,4 years
+533,A669645,Cookie,Dog,Aggressive,Female,< 1 year
+342,A664824,Bella,Dog,Aggressive,Female,5 years
+388,A665808,*Cooter,Dog,Aggressive,Male,2 years
+348,A664940,Laika,Dog,Aggressive,Female,1 year
+1420,A692632,Nala,Dog,Aggressive,Female,5 years
+1198,A687590,Rocco,Dog,Aggressive,Male,4 years
+1844,A703431,,Dog,Aggressive,Male,1 year
+2359,A723767,Princess,Dog,Aggressive,Female,2 years
+1840,A703334,*Gonzo,Dog,Aggressive,Male,2 years
+2065,A708862,*Valejo,Dog,Aggressive,Male,3 years
+394,A666092,,Dog,Aggressive,Male,6 years
+470,A668166,Bear,Dog,Aggressive,Male,< 1 year
+3009,A768345,Gunner,Dog,Aggressive,Male,5 years
+1180,A686962,Chikis,Dog,Aggressive,Female,1 year
+1831,A703057,Charles,Dog,Aggressive,Male,1 year
+2063,A708786,,Dog,Aggressive,Male,2 years
+901,A680081,Coqueta,Dog,Aggressive,Female,3 years
+1158,A686297,Boss,Dog,Aggressive,Male,< 1 year
+443,A667177,Tigre,Dog,Aggressive,Male,5 years
+2344,A722056,Eddie,Dog,Aggressive,Male,3 years
+1580,A696520,*Skunky,Dog,Aggressive,Female,2 years
+446,A667251,Delilah,Dog,Aggressive,Female,3 years
+1447,A693394,Kini,Dog,Aggressive,Female,2 years
+457,A667534,Big Mack,Dog,Aggressive,Male,7 years
+460,A667616,Arctic,Dog,Aggressive,Male,4 years
+1799,A702351,Spike,Dog,Aggressive,Male,2 years
+1146,A685845,Sabo,Dog,Aggressive,Male,2 years
+2543,A733591,Jordan,Dog,Aggressive,Female,6 years
+466,A668001,Jack,Dog,Aggressive,Male,2 years
+467,A668002,Zeva,Dog,Aggressive,Female,2 years
+433,A666870,*Bambi,Dog,Aggressive,Female,2 years
+456,A667532,Buzz,Dog,Aggressive,Male,2 years
+1155,A686293,Cali,Dog,Aggressive,Female,3 years
+1160,A686371,Taker,Dog,Aggressive,Male,1 year
+400,A666175,Cookie,Dog,Aggressive,Female,3 years
+1173,A686842,*Herman,Dog,Aggressive,Male,2 years
+451,A667363,Peluchin,Dog,Aggressive,Male,2 years
+1000,A682707,*Jake,Dog,Aggressive,Male,2 years
+2529,A732625,Arthur,Dog,Aggressive,Male,2 years
+2087,A709649,Zeus,Dog,Aggressive,Male,1 year
+1814,A702705,*Adrianna,Dog,Aggressive,Female,1 year
+1440,A693256,Shadow,Dog,Aggressive,Male,< 1 year
+421,A666534,,Dog,Aggressive,Male,1 year
+1812,A702590,Negra,Dog,Aggressive,Female,2 years
+1162,A686510,Smokey,Dog,Aggressive,Male,6 years
+1443,A693318,,Dog,Aggressive,Male,2 years
+430,A666852,*Bonnie,Dog,Aggressive,Female,1 year
+405,A666261,*Emmit,Dog,Aggressive,Male,6 years
+754,A675687,Sintex,Dog,Aggressive,Female,1 year
+397,A666166,*Elroy,Dog,Aggressive,Male,2 years
+972,A681827,Quincy,Dog,Aggressive,Male,3 years
+2893,A759097,Kash,Dog,Aggressive,Male,2 years
+1070,A684290,Lefty,Dog,Aggressive,Male,< 1 year
+786,A676680,Hero,Dog,Aggressive,Female,2 years
+1644,A698220,Chikita,Dog,Aggressive,Female,2 years
+2270,A718308,*Osiris,Dog,Aggressive,Male,2 years
+1728,A700646,Lady,Dog,Aggressive,Female,2 years
+800,A677046,,Cat,Aggressive,Male,2 years
+2663,A742786,Tiny,Dog,Aggressive,Female,3 years
+2657,A742592,Danny,Dog,Aggressive,Male,6 years
+799,A677001,Yeti,Dog,Aggressive,Male,1 year
+1156,A686294,Lady,Dog,Aggressive,Female,3 years
+755,A675789,*Willis,Dog,Aggressive,Male,2 years
+1553,A695799,Minion,Dog,Aggressive,Male,3 years
+807,A677222,,Dog,Aggressive,Male,2 years
+1634,A697856,Black,Dog,Aggressive,Male,8 years
+960,A681449,Buster,Dog,Aggressive,Male,4 years
+1630,A697794,*Trent,Dog,Aggressive,Male,3 years
+958,A681388,Blue,Dog,Aggressive,Male,1 year
+819,A677749,,Dog,Aggressive,Male,2 years
+1554,A695883,,Dog,Aggressive,Male,5 years
+809,A677277,*Pedro,Dog,Aggressive,Male,1 year
+783,A676615,Capone,Dog,Aggressive,Male,2 years
+1435,A693144,Troy,Dog,Aggressive,Male,3 years
+1157,A686296,Zoe,Dog,Aggressive,Female,< 1 year
+1534,A695488,Zuko,Dog,Aggressive,Male,6 years
+751,A675597,Gorda,Dog,Aggressive,Female,1 year
+782,A676585,Molly,Dog,Aggressive,Female,1 year
+1583,A696541,,Dog,Aggressive,Female,4 years
+781,A676571,Apple,Dog,Aggressive,Female,3 years
+756,A675818,Beethoven,Dog,Aggressive,Male,2 years
+777,A676434,*Buddy,Dog,Aggressive,Male,2 years
+872,A679298,Debo,Dog,Aggressive,Male,6 years
+1574,A696390,Roswell,Dog,Aggressive,Male,6 years
+2238,A716606,Tanner,Dog,Aggressive,Male,10 years
+997,A682664,*Ocho,Dog,Aggressive,Male,2 years
+995,A682618,,Dog,Aggressive,Male,5 years
+1537,A695504,Coco,Dog,Aggressive,Female,3 years
+771,A676234,,Dog,Aggressive,Female,3 years
+772,A676236,,Dog,Aggressive,Male,3 years
+986,A682248,,Dog,Aggressive,Male,2 years
+1197,A687580,Chocolate,Dog,Aggressive,Male,2 years
+776,A676355,*Farley,Dog,Aggressive,Male,2 years
+450,A667300,*Jones,Dog,Aggressive,Male,2 years
+871,A679271,*Nero,Dog,Aggressive,Male,5 years
+2266,A718214,Chad,Dog,Aggressive,Male,5 years
+826,A677918,Buddy,Dog,Aggressive,Male,7 years
+830,A677960,Bungee,Dog,Aggressive,Male,3 years
+876,A679396,Blitz,Dog,Aggressive,Male,3 years
+914,A680290,Chino,Dog,Aggressive,Male,1 year
+877,A679419,*Hoppin' Jon,Dog,Aggressive,Male,2 years
+882,A679529,,Dog,Aggressive,Male,2 years
+886,A679611,,Dog,Aggressive,Male,3 years
+1598,A696941,Dottie,Dog,Aggressive,Female,2 years
+1573,A696381,Tiger,Dog,Aggressive,Male,5 years
+921,A680501,Blu,Dog,Aggressive,Male,4 years
+2719,A747733,Hustler,Dog,Aggressive,Male,2 years
+898,A680016,,Dog,Aggressive,Female,4 years
+917,A680366,*Stacey,Dog,Aggressive,Female,2 years
+2282,A718654,Goliath,Dog,Aggressive,Male,3 years
+774,A676345,Parker,Dog,Aggressive,Male,3 years
+1506,A694552,Kila,Dog,Aggressive,Female,15 years
+2300,A719918,*Linus,Dog,Aggressive,Male,2 years
+998,A682676,Tucker,Dog,Aggressive,Male,7 years
+764,A676112,Trouble,Dog,Aggressive,Female,1 year
+1599,A696954,*Collin,Dog,Aggressive,Male,1 year
+1622,A697490,,Dog,Aggressive,Female,1 year
+836,A678099,Spartacus,Dog,Aggressive,Male,2 years
+838,A678266,Sonny,Dog,Aggressive,Male,1 year
+945,A681067,*Summer,Dog,Aggressive,Female,3 years
+843,A678428,,Dog,Aggressive,Male,1 year
+844,A678433,Roscoe,Dog,Aggressive,Male,2 years
+1564,A696120,Mousie,Dog,Aggressive,Female,2 years
+1566,A696264,Chocolate,Dog,Aggressive,Male,2 years
+854,A678788,Doc,Dog,Aggressive,Male,7 years
+856,A678920,Frank,Dog,Aggressive,Male,6 years
+1605,A697092,Rocky,Dog,Aggressive,Male,3 years
+858,A678976,Major,Dog,Aggressive,Male,1 year
+1568,A696276,*Rubix,Dog,Aggressive,Male,2 years
+865,A679098,Lola,Dog,Aggressive,Female,1 year
+866,A679154,Buddy,Dog,Aggressive,Male,5 years
+1569,A696278,,Dog,Aggressive,Male,2 years
+2236,A716542,Charlie,Dog,Aggressive,Male,4 years
+1623,A697531,,Dog,Aggressive,Female,2 years
+2188,A714003,Alexander,Dog,Aggressive,Male,2 years
+1666,A698793,Rocky,Dog,Aggressive,Male,4 years
+743,A675338,*Carlton,Dog,Aggressive,Male,8 years
+637,A672542,Levi,Dog,Aggressive,Male,5 years
+1712,A700192,Star,Dog,Aggressive,Female,2 years
+1502,A694357,Achilles,Dog,Aggressive,Male,4 years
+2871,A757670,Minnie,Dog,Aggressive,Female,3 years
+646,A672744,Oso,Dog,Aggressive,Male,3 years
+1713,A700194,Hershey,Dog,Aggressive,Female,2 years
+2257,A717600,*Crosby,Dog,Aggressive,Male,1 year
+650,A672982,King,Dog,Aggressive,Male,3 years
+656,A673245,Brownie,Dog,Aggressive,Female,3 years
+1509,A694606,,Dog,Aggressive,Female,4 years
+1047,A683886,Toby,Dog,Aggressive,Male,2 years
+634,A672492,*Ray,Dog,Aggressive,Male,3 years
+631,A672383,Yayo,Dog,Aggressive,Male,1 year
+1714,A700196,Cookie,Dog,Aggressive,Female,4 years
+603,A671452,*Rainer,Dog,Aggressive,Male,2 years
+605,A671474,Princess,Dog,Aggressive,Female,6 years
+606,A671478,Buddy,Dog,Aggressive,Male,2 years
+1069,A684282,Cheyenne,Dog,Aggressive,Female,< 1 year
+609,A671547,*Shelby,Dog,Aggressive,Female,2 years
+652,A673005,Bella,Dog,Aggressive,Female,2 years
+611,A671636,Rocky,Dog,Aggressive,Male,3 years
+1705,A699974,Caine,Dog,Aggressive,Male,1 year
+691,A674042,Rocko,Dog,Aggressive,Male,4 years
+1723,A700426,*Marco,Dog,Aggressive,Male,1 year
+614,A671706,,Dog,Aggressive,Female,2 years
+1067,A684274,Oreo,Dog,Aggressive,Female,< 1 year
+1066,A684272,,Dog,Aggressive,Female,< 1 year
+1064,A684265,Heartbreaker,Dog,Aggressive,Male,2 years
+622,A672128,Bentley,Dog,Aggressive,Male,6 years
+2304,A720232,Tucker,Dog,Aggressive,Male,1 year
+1055,A684041,*Bree,Dog,Aggressive,Female,4 years
+658,A673275,Prince,Dog,Aggressive,Male,3 years
+1039,A683692,,Dog,Aggressive,Female,3 years
+685,A673851,*Lily,Dog,Aggressive,Female,1 year
+1068,A684277,Shorty,Dog,Aggressive,Male,1 year
+1531,A695350,Simba,Dog,Aggressive,Male,1 year
+2151,A712059,*Hector,Dog,Aggressive,Male,3 years
+2015,A707037,*Cassie,Dog,Aggressive,Female,3 years
+1038,A683672,Oso,Dog,Aggressive,Male,2 years
+1726,A700536,Junior,Dog,Aggressive,Male,2 years
+1679,A699175,Mojo,Dog,Aggressive,Male,4 years
+719,A674659,,Dog,Aggressive,Male,2 years
+2632,A739779,Capone,Dog,Aggressive,Male,2 years
+2286,A718886,Shelton,Dog,Aggressive,Male,2 years
+724,A674847,Chichio,Dog,Aggressive,Male,4 years
+729,A675038,Coco,Dog,Aggressive,Female,2 years
+1673,A698938,Cocoa,Dog,Aggressive,Female,4 years
+1530,A695345,*Lacey,Dog,Aggressive,Female,3 years
+1669,A698858,Zoe,Dog,Aggressive,Female,3 years
+1668,A698857,Doobie,Dog,Aggressive,Male,4 years
+742,A675337,Princess,Dog,Aggressive,Female,8 years
+2173,A713430,Leo,Dog,Aggressive,Male,2 years
+1414,A692449,*Daisy,Dog,Aggressive,Female,2 years
+191,A623883,Ghost,Dog,Aggressive,Male,5 years
+664,A673422,Cujo,Dog,Aggressive,Male,1 year
+1524,A695056,Nala,Dog,Aggressive,Female,3 years
+665,A673436,Lucky,Dog,Aggressive,Male,4 years
+666,A673466,*Guinness,Dog,Aggressive,Male,4 years
+1700,A699870,Perro,Dog,Aggressive,Female,2 years
+1513,A694739,*Johnny,Dog,Aggressive,Male,3 years
+671,A673540,Doc,Dog,Aggressive,Male,7 years
+677,A673670,Lola,Dog,Aggressive,Female,1 year
+682,A673774,Charlie,Dog,Aggressive,Male,5 years
+683,A673810,Callie,Dog,Aggressive,Female,< 1 year
+684,A673830,*Seth,Dog,Aggressive,Male,2 years
+715,A674568,Porkchop,Dog,Aggressive,Male,3 years
+712,A674511,Lady,Dog,Aggressive,Female,2 years
+717,A674628,,Dog,Aggressive,Female,2 years
+709,A674489,Boo,Dog,Aggressive,Female,2 years
+1681,A699297,*Ruben,Dog,Aggressive,Male,2 years
+1045,A683862,Kayla,Dog,Aggressive,Female,6 years
+150,A606788,*Brock,Dog,Aggressive,Male,4 years
+703,A674347,,Dog,Aggressive,Male,1 year
+707,A674472,,Cat,Aggressive,Unknown,3 years
+329,A664519,,Dog,Aggressive,Male,6 years
+1802,A702373,Mane,Dog,Aggressive,Male,3 years
+2366,A724120,Candy,Dog,Aggressive,Female,3 years
+180,A619157,Zebra,Dog,Aggressive,Female,3 years
+179,A619150,Bruno,Dog,Aggressive,Male,6 years
+178,A619134,Bullett,Dog,Aggressive,Male,6 years
+3105,A774325,Mateo,Dog,Aggressive,Male,2 years
+2385,A724758,*Growler,Dog,Aggressive,Male,1 year
+2386,A724857,Chico,Dog,Aggressive,Male,4 years
+697,A674158,Zoey,Dog,Aggressive,Female,1 year
+168,A615008,*Thauti,Dog,Aggressive,Male,2 years
+2178,A713622,Kiki,Dog,Aggressive,Female,2 years
+236,A647098,Butch,Dog,Aggressive,Male,4 years
+164,A613650,Diamond,Dog,Aggressive,Female,6 years
+163,A613553,Beast,Dog,Aggressive,Male,4 years
+162,A613536,Titus,Dog,Aggressive,Male,6 years
+161,A613290,Boy,Dog,Aggressive,Male,4 years
+159,A611931,Sexy,Dog,Aggressive,Female,4 years
+158,A611929,Bam Bam,Dog,Aggressive,Male,4 years
+156,A610772,Max,Dog,Aggressive,Male,4 years
+1279,A689821,Cookie,Dog,Aggressive,Female,1 year
+135,A596356,Sophia,Dog,Aggressive,Female,4 years
+137,A597415,Bock,Dog,Aggressive,Male,4 years
+209,A632814,King,Dog,Aggressive,Male,4 years
+169,A615165,Duke,Dog,Aggressive,Male,2 years
+202,A629706,Patron,Dog,Aggressive,Male,5 years
+165,A613785,Casper,Dog,Aggressive,Male,3 years
+140,A598335,Jack,Dog,Aggressive,Male,6 years
+138,A597665,Asawan,Dog,Aggressive,Female,5 years
+175,A616487,Jack,Dog,Aggressive,Male,4 years
+151,A607074,Nala,Dog,Aggressive,Female,2 years
+152,A607543,Pitty,Dog,Aggressive,Male,5 years
+153,A608475,Wicked,Dog,Aggressive,Male,3 years
+154,A609717,Baby,Dog,Aggressive,Female,3 years
+144,A601488,Apollo,Dog,Aggressive,Male,3 years
+132,A590629,Leonard,Dog,Aggressive,Male,6 years
+2463,A728789,King,Dog,Aggressive,Male,2 years
+190,A622978,Sugar,Dog,Aggressive,Female,5 years
+239,A647492,Bueller,Dog,Aggressive,Male,6 years
+238,A647355,Lemur,Dog,Aggressive,Male,7 years
+235,A646686,Blue,Dog,Aggressive,Male,1 year
+2177,A713621,Killa,Dog,Aggressive,Male,2 years
+1883,A704247,,Dog,Aggressive,Female,1 year
+699,A674162,Marley,Dog,Aggressive,Male,4 years
+139,A598308,Getzy,Dog,Aggressive,Female,4 years
+1245,A689039,Bruno,Dog,Aggressive,Male,1 year
+1885,A704264,*Sophie,Dog,Aggressive,Female,5 years
+1246,A689062,Lita,Dog,Aggressive,Female,5 years
+224,A641036,Tug,Dog,Aggressive,Male,4 years
+222,A640789,Cupulin,Dog,Aggressive,Male,2 years
+1889,A704303,Koko,Dog,Aggressive,Female,1 year
+218,A637670,Shadow,Dog,Aggressive,Female,4 years
+217,A637506,Molly,Dog,Aggressive,Female,2 years
+215,A636900,Kountry,Dog,Aggressive,Male,4 years
+214,A636828,Boss,Dog,Aggressive,Male,2 years
+2019,A707148,*Tonka,Dog,Aggressive,Male,2 years
+232,A645075,Bear,Dog,Aggressive,Male,6 years
+2459,A728564,,Dog,Aggressive,Female,3 years
+230,A643090,Shiner,Dog,Aggressive,Male,2 years
+1706,A699976,Smokey,Dog,Aggressive,Female,2 years
+1670,A698859,Shadow,Dog,Aggressive,Female,3 years
+197,A628159,Delgado,Dog,Aggressive,Male,4 years
+200,A629162,Red,Dog,Aggressive,Female,4 years
+1265,A689422,*Belle,Dog,Aggressive,Female,7 years
+201,A629207,*Teddy Bear,Dog,Aggressive,Male,8 years
+203,A630068,Princess,Dog,Aggressive,Female,5 years
+204,A630172,Hazel,Dog,Aggressive,Female,3 years
+206,A631538,Equinox,Dog,Aggressive,Male,2 years
+208,A632584,*Liberty,Dog,Aggressive,Female,2 years
+213,A636667,Spark,Dog,Aggressive,Male,2 years
+131,A590089,Chino,Dog,Aggressive,Female,5 years
+130,A586665,Pichin,Dog,Aggressive,Male,4 years
+127,A585940,Brolli,Dog,Aggressive,Male,5 years
+67,A525938,Rocky,Dog,Aggressive,Male,6 years
+66,A523396,Star,Dog,Aggressive,Female,6 years
+1997,A706731,Lucky,Dog,Aggressive,Male,2 years
+63,A519888,Luke,Dog,Aggressive,Male,6 years
+1304,A690423,Lolly,Dog,Aggressive,Female,4 years
+1305,A690435,*Portia,Dog,Aggressive,Female,5 years
+192,A624949,Axle,Dog,Aggressive,Male,3 years
+58,A507614,Madaket,Dog,Aggressive,Male,6 years
+732,A675120,,Dog,Aggressive,Female,1 year
+55,A498842,Shine,Dog,Aggressive,Male,8 years
+1308,A690456,Bonnie,Dog,Aggressive,Female,4 years
+1935,A705299,Dexter,Dog,Aggressive,Male,2 years
+2398,A725440,Bonbon,Dog,Aggressive,Female,2 years
+1373,A691828,Lily,Dog,Aggressive,Female,2 years
+47,A487470,Midnight,Dog,Aggressive,Male,9 years
+43,A476706,Rocky,Dog,Aggressive,Male,8 years
+125,A584452,Tuck,Dog,Aggressive,Male,7 years
+42,A473179,Rodeo,Dog,Aggressive,Male,7 years
+1932,A705211,Charlie,Dog,Aggressive,Male,2 years
+1351,A691337,Pup,Dog,Aggressive,Female,2 years
+1355,A691405,Angel,Dog,Aggressive,Female,3 years
+1969,A705995,Sasha,Dog,Aggressive,Female,5 years
+1347,A691306,Kane,Dog,Aggressive,Male,4 years
+1345,A691292,,Dog,Aggressive,Male,2 years
+2426,A727426,Jj,Dog,Aggressive,Male,2 years
+1302,A690405,Parker,Dog,Aggressive,Male,4 years
+1332,A691012,Pj,Dog,Aggressive,Male,4 years
+1326,A690820,Honey,Dog,Aggressive,Female,5 years
+1369,A691719,Georgia,Dog,Aggressive,Female,2 years
+28,A380320,Scooby,Dog,Aggressive,Male,9 years
+1322,A690794,Lennon,Dog,Aggressive,Male,1 year
+1321,A690790,,Dog,Aggressive,Male,3 years
+36,A448750,Odie,Dog,Aggressive,Male,9 years
+1329,A690845,*Big Red,Dog,Aggressive,Male,3 years
+70,A529890,Vegas,Dog,Aggressive,Male,9 years
+71,A530190,Tyco,Dog,Aggressive,Male,9 years
+69,A527170,Olive,Dog,Aggressive,Female,6 years
+99,A560718,Coco,Dog,Aggressive,Female,5 years
+100,A562220,Scooby,Dog,Aggressive,Male,5 years
+101,A562221,Silver,Dog,Aggressive,Female,6 years
+103,A563010,Nikki,Dog,Aggressive,Female,8 years
+106,A565312,Bella,Dog,Aggressive,Female,5 years
+107,A565498,Dukey,Dog,Aggressive,Male,7 years
+1292,A690146,Tiger,Dog,Aggressive,Male,4 years
+111,A568219,Max,Dog,Aggressive,Male,5 years
+1911,A704771,*Isaac,Dog,Aggressive,Male,1 year
+1281,A689827,Hulk,Dog,Aggressive,Male,3 years
+119,A577780,Brandie,Dog,Aggressive,Female,7 years
+122,A580685,Bella,Dog,Aggressive,Female,4 years
+123,A582002,Rocky,Dog,Aggressive,Male,6 years
+113,A569147,Blou,Dog,Aggressive,Male,4 years
+315,A664105,*Dodger,Dog,Aggressive,Male,3 years
+56,A500002,Bruce Lee,Dog,Aggressive,Male,7 years
+273,A657708,*Jolene,Dog,Aggressive,Female,2 years
+89,A548939,Leo,Dog,Aggressive,Male,7 years
+2394,A725175,Junior,Dog,Aggressive,Male,5 years
+3141,A780441,Junior,Dog,Aggressive,Male,2 years
+75,A537247,Ambrot,Dog,Aggressive,Male,6 years
+1381,A691902,Chichita,Dog,Aggressive,Female,1 year
+77,A539388,Chloe,Dog,Aggressive,Female,6 years
+78,A539485,Chuny,Dog,Aggressive,Male,6 years
+1293,A690147,Bruiser,Dog,Aggressive,Male,11 years
+193,A625197,Chloe,Dog,Aggressive,Female,3 years
+1257,A689194,*Nimby,Dog,Aggressive,Male,3 years
+1297,A690256,*Mimi,Dog,Aggressive,Female,1 year
+84,A545127,Ittybitty,Dog,Aggressive,Female,6 years
+85,A547472,Guerra,Dog,Aggressive,Female,5 years
+87,A548112,Grimm,Dog,Aggressive,Male,5 years
+1295,A690217,Moose,Dog,Aggressive,Male,1 year
+81,A543178,Ernest T,Dog,Aggressive,Male,8 years
+245,A649385,*Dusty,Dog,Aggressive,Female,4 years
+148,A605804,Shayla,Dog,Aggressive,Female,4 years
+255,A651249,Blackie,Dog,Aggressive,Female,3 years
+303,A663546,*Gage,Dog,Aggressive,Male,2 years
+275,A657753,Wiz,Dog,Aggressive,Male,1 year
+295,A663299,Jedi,Dog,Aggressive,Male,4 years
+1870,A704085,Red,Dog,Aggressive,Male,4 years
+274,A657709,*Roy,Dog,Aggressive,Male,2 years
+321,A664270,Champ,Dog,Aggressive,Male,3 years
+264,A654483,Chocolate,Dog,Aggressive,Male,2 years
+254,A650905,Bella,Dog,Aggressive,Female,3 years
+311,A663962,Terra,Dog,Aggressive,Female,2 years
+240,A647538,Rocky,Dog,Aggressive,Male,4 years
+96,A558566,Honey,Dog,Aggressive,Female,5 years
+1924,A705015,Corona,Dog,Aggressive,Female,1 year
+305,A663692,Austin,Dog,Aggressive,Male,6 years
+257,A651299,Fiona,Dog,Aggressive,Female,2 years
+299,A663346,*July,Dog,Aggressive,Female,1 year
+1238,A688768,*Tiffany,Dog,Aggressive,Female,1 year
+2371,A724509,Trooper,Dog,Aggressive,Male,1 year
+1925,A705016,Max,Dog,Aggressive,Male,1 year
+263,A654355,Kilo,Dog,Aggressive,Male,1 year
+251,A650073,Blackberry,Dog,Aggressive,Female,3 years
+1239,A688785,,Dog,Aggressive,Male,2 years
+261,A652513,Peaches,Dog,Aggressive,Female,3 years
+1876,A704143,Puppy,Dog,Aggressive,Male,2 years
+281,A660156,Big Boy,Dog,Aggressive,Male,4 years
+287,A661916,Bella,Dog,Aggressive,Female,2 years
+324,A664326,*Wilbur,Dog,Aggressive,Male,1 year
+2488,A729683,Jax,Dog,Aggressive,Male,4 years
+300,A663347,Crash,Dog,Aggressive,Male,6 years
+320,A664259,*Petunia,Dog,Aggressive,Female,5 years
+297,A663328,*Jimmy,Dog,Aggressive,Male,5 years
+282,A660295,Blue,Dog,Aggressive,Male,2 years
+269,A656967,Homer,Dog,Aggressive,Male,3 years
+291,A662657,*Gabe,Dog,Aggressive,Male,3 years
+1869,A704082,Diamond,Dog,Aggressive,Female,2 years
+283,A661676,Chori,Dog,Aggressive,Female,7 years
+267,A656567,Sumo,Dog,Aggressive,Male,5 years
+278,A658199,*Marley,Dog,Aggressive,Male,2 years
+250,A650069,Luke,Dog,Aggressive,Male,2 years
+270,A656968,Litle Girl,Dog,Aggressive,Female,3 years
+1240,A688820,Freckles,Dog,Aggressive,Female,8 years
+279,A658515,Barkley,Dog,Aggressive,Male,3 years
+1220,A688160,*Freddie,Dog,Aggressive,Male,2 years
+3037,A769952,,Dog,At Vet,Unknown,5 years
+2852,A756447,Pachuco Jr.,Dog,At Vet,Male,1 year
+3003,A767582,*Cherry,Cat,At Vet,Female,< 1 year
+2826,A754057,,Cat,At Vet,Unknown,2 years
+3006,A767845,,Dog,At Vet,Male,< 1 year
+2921,A761021,,Cat,At Vet,Unknown,1 year
+2638,A740561,*Klaus,Cat,At Vet,Male,9 years
+2808,A752942,*Chirp,Cat,At Vet,Female,< 1 year
+2710,A747063,,Dog,At Vet,Female,4 years
+2986,A766562,Cubby,Dog,At Vet,Male,15 years
+2841,A755725,,Cat,At Vet,Unknown,< 1 year
+3096,A773330,*Rigatoni,Cat,At Vet,Male,< 1 year
+2284,A718795,*Emerald,Cat,At Vet,Female,16 years
+2832,A754578,,Dog,At Vet,Male,1 year
+2452,A728315,*Frannie,Dog,At Vet,Female,13 years
+2993,A766851,,Cat,At Vet,Unknown,< 1 year
+2891,A758902,,Dog,At Vet,Female,1 year
+95,A554674,Chloe,Dog,At Vet,Female,11 years
+2830,A754385,,Dog,At Vet,Unknown,2 years
+3007,A767942,,Cat,At Vet,Unknown,< 1 year
+2992,A766850,,Cat,At Vet,Unknown,8 years
+2983,A766527,,Cat,At Vet,Unknown,2 years
+2809,A752946,*Tweet,Cat,At Vet,Female,< 1 year
+2997,A767025,,Cat,At Vet,Male,1 year
+2231,A716005,Indio,Dog,At Vet,Male,2 years
+2674,A743890,,Cat,At Vet,Unknown,1 year
+2976,A765697,,Cat,At Vet,Unknown,1 year
+2867,A757464,,Cat,At Vet,Male,2 years
+2312,A720532,*Ellie,Cat,At Vet,Female,2 years
+3173,A784617,Milo,Dog,At Vet,Male,< 1 year
+3087,A772549,,Cat,At Vet,Unknown,1 year
+3074,A771701,,Cat,At Vet,Unknown,5 years
+3077,A771770,,Cat,At Vet,Unknown,< 1 year
+3184,A787571,,Cat,At Vet,Unknown,6 years
+37,A458233,Cinnamon,Dog,At Vet,Female,12 years
+3162,A782197,*Boop,Cat,At Vet,Female,< 1 year
+3042,A770067,,Cat,At Vet,Male,2 years
+2819,A753607,,Cat,At Vet,Female,1 year
+3079,A771889,,Cat,At Vet,Female,< 1 year
+3063,A771080,*Twilight,Cat,At Vet,Female,< 1 year
+3064,A771204,,Dog,At Vet,Unknown,2 years
+2687,A745046,,Cat,At Vet,Male,7 years
+2963,A764601,Cooper,Dog,At Vet,Male,4 years
+2741,A749656,,Cat,At Vet,Unknown,< 1 year
+2706,A746905,,Cat,At Vet,Male,2 years
+248,A649704,Dot,Dog,At Vet,Female,9 years
+2747,A750051,*Mia,Cat,At Vet,Female,< 1 year
+2705,A746777,,Cat,At Vet,Male,1 year
+293,A663158,*Preston,Dog,Behavior,Male,4 years
+879,A679459,Major,Dog,Behavior,Male,3 years
+888,A679645,*Calvin,Dog,Behavior,Male,1 year
+978,A682020,King,Dog,Behavior,Male,2 years
+12,A279920,Carry,Dog,Behavior,Male,12 years
+1334,A691049,*Ridley,Dog,Behavior,Male,3 years
+695,A674141,Zak,Dog,Behavior,Male,2 years
+704,A674402,*Delilah,Dog,Behavior,Female,1 year
+933,A680780,Mei Mei,Dog,Behavior,Female,2 years
+1691,A699558,Zuester,Dog,Behavior,Male,2 years
+294,A663273,Diamond,Dog,Behavior,Female,2 years
+922,A680527,*Shadow,Dog,Behavior,Male,1 year
+885,A679591,*Quinne,Dog,Behavior,Female,2 years
+701,A674216,*Akhom,Dog,Behavior,Male,2 years
+108,A565562,Bubbles,Dog,Behavior,Female,5 years
+669,A673506,*Briggs,Dog,Behavior,Male,3 years
+1020,A683309,,Dog,Behavior,Female,7 years
+124,A583357,Pom Pom,Dog,Behavior,Female,6 years
+1587,A696683,Cooper,Dog,Behavior,Female,3 years
+659,A673319,Coco,Dog,Behavior,Female,3 years
+647,A672745,*Dottie,Dog,Behavior,Female,2 years
+2455,A728445,King Max,Dog,Behavior,Male,1 year
+285,A661789,Tank,Dog,Behavior,Male,2 years
+3132,A779002,Zeus,Dog,Behavior,Male,3 years
+1515,A694798,*Dixie,Dog,Behavior,Female,2 years
+1694,A699604,Molly,Dog,Behavior,Female,2 years
+680,A673761,*Esme,Dog,Behavior,Female,4 years
+2721,A748009,Snoop,Dog,Behavior,Male,2 years
+330,A664608,Rosco,Dog,Behavior,Male,3 years
+1023,A683394,*Redford,Dog,Behavior,Male,1 year
+290,A662603,*Tucker,Dog,Behavior,Male,2 years
+907,A680158,*Cole,Dog,Behavior,Male,1 year
+298,A663342,Deco,Dog,Behavior,Male,1 year
+292,A663026,*Percy,Dog,Behavior,Male,2 years
+849,A678634,Champion,Dog,Behavior,Male,4 years
+1036,A683654,,Dog,Behavior,Male,1 year
+2643,A741436,Springer,Dog,Behavior,Male,5 years
+1226,A688309,*Bambi,Dog,Behavior,Female,2 years
+820,A677786,Potter,Dog,Behavior,Male,3 years
+1315,A690696,*Leia,Dog,Behavior,Female,5 years
+721,A674708,Lucky,Dog,Behavior,Male,2 years
+73,A533557,Jake,Dog,Behavior,Male,5 years
+313,A664034,*Mallory,Dog,Behavior,Female,2 years
+762,A676105,*Munch,Dog,Behavior,Male,2 years
+359,A665137,*Willie,Dog,Behavior,Male,1 year
+961,A681541,,Dog,Behavior,Male,2 years
+1636,A697909,*Fergie,Dog,Behavior,Female,1 year
+402,A666197,*Leroy,Dog,Behavior,Male,2 years
+959,A681431,*Deltadawn,Dog,Behavior,Female,5 years
+312,A664027,*Tessa,Dog,Behavior,Female,2 years
+1843,A703415,*Cooper,Dog,Behavior,Male,2 years
+775,A676352,*Byron,Dog,Behavior,Male,1 year
+1222,A688176,*Paloma,Dog,Behavior,Female,2 years
+1311,A690525,*Trenton,Dog,Behavior,Male,1 year
+1659,A698597,Thiago,Dog,Behavior,Male,2 years
+778,A676460,* Mario,Dog,Behavior,Male,2 years
+1001,A682726,Rocky,Dog,Behavior,Male,1 year
+1626,A697573,Gucci,Dog,Behavior,Male,2 years
+1015,A683197,*Herbie,Dog,Behavior,Male,2 years
+793,A676916,*Lexie,Dog,Behavior,Female,3 years
+1233,A688448,*Chauncy,Dog,Behavior,Male,1 year
+92,A551426,Lluvia,Dog,Behavior,Female,8 years
+286,A661911,*Oz,Dog,Behavior,Male,2 years
+1294,A690216,*Luigi,Dog,Behavior,Male,1 year
+2357,A723756,Leo,Dog,Behavior,Male,2 years
+2756,A750530,Pepper,Dog,Behavior,Male,4 years
+806,A677201,*Milton,Dog,Behavior,Male,2 years
+706,A674455,Calypso,Dog,Behavior,Female,3 years
+1204,A687845,Lala,Dog,Behavior,Female,2 years
+710,A674490,Princess,Dog,Behavior,Female,< 1 year
+2187,A713954,Baby,Dog,Behavior,Female,2 years
+686,A673912,*Edward,Dog,Behavior,Male,3 years
+1320,A690765,Magnum Pi,Dog,Behavior,Male,5 years
+79,A540495,Country,Dog,Behavior,Male,5 years
+304,A663667,*Cody,Dog,Behavior,Male,2 years
+41,A467387,Princess,Dog,Behavior,Female,9 years
+543,A669859,*Mack,Dog,Behavior,Male,2 years
+35,A443085,Shadow,Dog,Behavior,Male,8 years
+265,A656477,Bowser,Dog,Behavior,Male,4 years
+1316,A690705,Roxy,Dog,Behavior,Female,1 year
+1283,A689961,Max,Dog,Behavior,Male,1 year
+583,A670923,Kayna,Dog,Behavior,Female,1 year
+1235,A688582,*Caramel,Dog,Behavior,Female,3 years
+1739,A701001,Skit,Dog,Behavior,Male,5 years
+363,A665175,*Stan,Dog,Behavior,Male,1 year
+172,A616295,Baby,Dog,Behavior,Female,6 years
+1734,A700795,Teddy,Dog,Behavior,Male,1 year
+438,A667090,Rex,Dog,Behavior,Male,3 years
+344,A664869,*Ollie,Dog,Behavior,Male,3 years
+307,A663861,,Dog,Behavior,Female,1 year
+210,A633633,Ben,Dog,Behavior,Male,2 years
+440,A667102,Sherlock,Dog,Behavior,Male,< 1 year
+1147,A685931,Boss,Dog,Behavior,Male,1 year
+1272,A689731,,Dog,Behavior,Male,1 year
+276,A657764,Peyton,Dog,Behavior,Female,1 year
+1454,A693562,,Dog,Behavior,Male,2 years
+420,A666522,*Sonia,Dog,Behavior,Female,2 years
+207,A632020,Rocky,Dog,Behavior,Male,8 years
+1271,A689728,,Dog,Behavior,Female,3 years
+2032,A707570,,Dog,Behavior,Male,2 years
+1161,A686415,Kobi,Dog,Behavior,Male,2 years
+576,A670655,Brick,Dog,Behavior,Male,4 years
+277,A658013,*Marcos,Dog,Behavior,Male,7 years
+437,A667081,Tyson,Dog,Behavior,Male,2 years
+166,A614177,Diamond,Dog,Behavior,Female,2 years
+1453,A693551,Pepper,Dog,Behavior,Male,13 years
+174,A616456,Star,Dog,Behavior,Female,3 years
+1770,A701910,Maia,Dog,Behavior,Female,1 year
+424,A666599,*Allaster,Dog,Behavior,Male,3 years
+1056,A684054,Frank,Dog,Behavior,Male,2 years
+1100,A684913,Jack,Dog,Behavior,Male,1 year
+1095,A684862,*Kennedy,Dog,Behavior,Male,2 years
+558,A670285,,Dog,Behavior,Male,2 years
+3104,A773947,Bruno,Dog,Behavior,Male,2 years
+1114,A685210,Chico,Dog,Behavior,Male,5 years
+738,A675215,Benjamin,Dog,Behavior,Male,2 years
+1893,A704421,Abel,Dog,Behavior,Male,4 years
+832,A677997,Rocky,Dog,Behavior,Male,8 years
+574,A670631,,Dog,Behavior,Female,1 year
+429,A666850,Angel,Dog,Behavior,Female,1 year
+432,A666859,Conan,Dog,Behavior,Male,4 years
+488,A668495,,Dog,Behavior,Male,3 years
+1393,A692125,,Dog,Behavior,Male,2 years
+1477,A694012,Zorro,Dog,Behavior,Male,11 years
+626,A672210,Cochise,Dog,Behavior,Female,2 years
+1110,A685182,,Dog,Behavior,Male,1 year
+1459,A693687,Major,Dog,Behavior,Male,1 year
+1092,A684752,*Liam,Dog,Behavior,Male,2 years
+1497,A694251,,Dog,Behavior,Female,2 years
+1108,A685133,*Trudy,Dog,Behavior,Female,1 year
+477,A668337,*Tony,Dog,Behavior,Male,1 year
+489,A668497,,Dog,Behavior,Female,5 years
+465,A667976,Crystal,Dog,Behavior,Female,2 years
+234,A645673,Precious,Dog,Behavior,Female,5 years
+478,A668356,Ricardo,Dog,Behavior,Male,3 years
+147,A605772,*Hector,Dog,Behavior,Male,2 years
+1053,A683997,Knight,Dog,Behavior,Male,2 years
+149,A606120,Archie,Dog,Behavior,Male,4 years
+1243,A688883,,Dog,Behavior,Male,1 year
+407,A666273,*Jasmine,Dog,Behavior,Female,2 years
+1063,A684209,*Stitch,Dog,Behavior,Male,1 year
+633,A672449,,Dog,Behavior,Male,1 year
+635,A672497,Lady,Dog,Behavior,Female,1 year
+1277,A689794,*Lyle,Dog,Behavior,Male,2 years
+146,A601863,Tyson,Dog,Court/Investigation,Male,5 years
+241,A647578,Bella,Dog,Court/Investigation,Female,4 years
+268,A656761,Gotti,Dog,Court/Investigation,Male,7 years
+1386,A692033,Brick,Dog,Court/Investigation,Male,3 years
+2658,A742639,Cowboy,Dog,Court/Investigation,Male,2 years
+2464,A728792,Odin,Dog,Court/Investigation,Male,4 years
+2218,A715627,Damu,Dog,Court/Investigation,Male,5 years
+2474,A729300,Mocha,Dog,Court/Investigation,Female,9 years
+173,A616374,Sasha,Dog,Court/Investigation,Female,4 years
+2659,A742640,Bella,Dog,Court/Investigation,Female,< 1 year
+2476,A729303,Rusty,Dog,Court/Investigation,Male,3 years
+1361,A691587,King,Dog,Court/Investigation,Male,2 years
+271,A657286,Chako,Dog,Court/Investigation,Male,1 year
+2477,A729304,Baby,Dog,Court/Investigation,Female,5 years
+2475,A729302,Buddy,Dog,Court/Investigation,Male,3 years
+1570,A696283,Princess,Dog,Court/Investigation,Female,3 years
+532,A669640,Sissy,Dog,Court/Investigation,Female,1 year
+468,A668079,King,Dog,Court/Investigation,Male,8 years
+280,A658843,Rudy,Dog,Court/Investigation,Male,4 years
+323,A664308,Bruce,Dog,Court/Investigation,Male,10 years
+2660,A742641,Cocoa,Dog,Court/Investigation,Female,3 years
+411,A666352,Coco,Dog,Court/Investigation,Male,3 years
+199,A628417,Coby,Dog,Court/Investigation,Male,5 years
+1609,A697158,*Max,Dog,Medical,Male,1 year
+506,A669066,,Dog,Medical,Female,3 years
+3187,A788270,,Dog,Medical,Male,< 1 year
+2267,A718270,Rocky,Dog,Medical,Male,2 years
+2418,A726867,,Cat,Medical,Male,10 years
+2784,A751867,,Dog,Medical,Female,5 years
+2544,A733646,*Chrissy,Cat,Medical,Female,< 1 year
+1947,A705561,,Cat,Medical,Female,< 1 year
+1578,A696502,Buddy,Dog,Medical,Male,4 years
+2262,A717901,*Lily,Cat,Medical,Female,8 years
+927,A680623,Lovely Boy,Cat,Medical,Male,12 years
+2981,A766248,,Cat,Medical,Male,5 years
+2716,A747545,,Cat,Medical,Unknown,8 years
+1937,A705357,,Cat,Medical,Unknown,< 1 year
+237,A647210,Tank,Dog,Medical,Male,3 years
+3179,A786582,,Cat,Medical,Female,< 1 year
+2662,A742769,,Cat,Medical,Male,3 years
+2789,A752146,*Biscuit,Cat,Medical,Male,< 1 year
+2600,A737793,Fifi,Dog,Medical,Female,2 years
+1645,A698256,*Gertie,Cat,Medical,Female,3 years
+2102,A710405,Peanut,Dog,Medical,Male,16 years
+336,A664716,*Harvey,Dog,Medical,Male,3 years
+2695,A745946,*Toodles,Dog,Medical,Male,13 years
+1209,A687995,,Cat,Medical,Male,1 year
+944,A681037,,Dog,Medical,Male,3 years
+1350,A691336,Lilipop,Dog,Medical,Female,5 years
+48,A489376,Buster,Dog,Medical,Male,11 years
+1946,A705555,,Cat,Medical,Male,3 years
+2502,A730733,,Dog,Medical,Female,10 years
+2233,A716088,,Cat,Medical,Male,< 1 year
+1850,A703477,,Cat,Medical,Male,< 1 year
+3106,A774411,,Cat,Medical,Female,< 1 year
+2675,A743911,Chester,Cat,Medical,Male,< 1 year
+971,A681769,Pixie,Dog,Medical,Female,8 years
+319,A664238,,Cat,Medical,Unknown,< 1 year
+2412,A726450,Knight,Dog,Medical,Male,13 years
+1563,A696070,Katie,Dog,Medical,Female,9 years
+1613,A697288,Lina,Dog,Medical,Female,8 years
+951,A681157,,Cat,Medical,Male,< 1 year
+242,A647886,Lucy,Dog,Medical,Female,10 years
+2478,A729339,,Cat,Medical,Male,2 years
+2727,A748769,*Pancakes,Cat,Medical,Female,< 1 year
+2734,A749256,,Cat,Medical,Female,< 1 year
+479,A668396,,Cat,Medical,Male,8 years
+2254,A717387,*Sarita,Cat,Medical,Female,7 years
+884,A679565,Diamond,Dog,Medical,Female,1 year
+957,A681379,Coffee,Dog,Medical,Male,4 years
+1131,A685579,,Cat,Medical,Female,< 1 year
+943,A681005,,Dog,Medical,Female,< 1 year
+2442,A728008,,Cat,Medical,Female,< 1 year
+2930,A761557,,Cat,Medical,Unknown,6 years
+2901,A759710,,Cat,Medical,Unknown,< 1 year
+11,A271790,Grant,Dog,Medical,Male,12 years
+45,A478579,Natasha,Dog,Medical,Female,12 years
+1768,A701779,*Graham,Cat,Medical,Male,5 years
+963,A681605,,Dog,Medical,Female,5 years
+6,A251095,Beauty,Dog,Medical,Female,14 years
+1709,A700081,,Dog,Medical,Male,10 years
+2287,A718958,,Cat,Medical,Female,12 years
+3020,A769126,,Cat,Medical,Female,1 year
+1919,A704927,,Dog,Medical,Female,< 1 year
+833,A678047,*Abigail,Dog,Medical,Female,5 years
+1214,A688070,*Tangelo,Cat,Medical,Male,< 1 year
+2989,A766764,,Dog,Medical,Male,8 years
+1276,A689789,,Dog,Medical,Male,2 years
+2592,A737429,,Cat,Medical,Male,1 year
+1933,A705231,*Yoga,Dog,Medical,Male,< 1 year
+1676,A699047,,Dog,Medical,Unknown,< 1 year
+623,A672193,*Hickory,Cat,Medical,Male,< 1 year
+3119,A776021,*Hope,Dog,Medical,Female,8 years
+2857,A756627,,Cat,Medical,Male,< 1 year
+118,A577602,Rhino,Dog,Medical,Male,7 years
+2011,A706958,,Dog,Medical,Male,3 years
+1024,A683403,*Koko,Cat,Medical,Female,< 1 year
+1809,A702553,,Dog,Medical,Female,< 1 year
+1012,A683024,*Ruby,Dog,Medical,Female,13 years
+1354,A691391,,Cat,Medical,Female,3 years
+309,A663887,Hooch,Dog,Medical,Male,3 years
+3018,A769020,Max,Dog,Medical,Male,< 1 year
+1025,A683433,*Vera,Cat,Medical,Female,< 1 year
+2999,A767240,,Dog,Medical,Male,< 1 year
+121,A578374,Rocky,Dog,Medical,Male,6 years
+1287,A690002,,Cat,Medical,Male,8 years
+578,A670698,Nestle,Cat,Medical,Female,3 years
+2460,A728569,*Zoe,Dog,Medical,Female,10 years
+3121,A776232,,Cat,Medical,Female,2 years
+157,A611573,Riri,Dog,Medical,Female,8 years
+1521,A694923,*Amos,Dog,Medical,Male,10 years
+604,A671469,,Cat,Medical,Male,< 1 year
+702,A674236,*Renee,Dog,Medical,Female,10 years
+1413,A692444,,Cat,Medical,Male,< 1 year
+1018,A683259,X,Dog,Medical,Female,10 years
+2040,A707918,,Cat,Medical,Male,1 year
+2883,A758292,,Cat,Medical,Female,10 years
+1682,A699350,,Dog,Medical,Female,< 1 year
+1165,A686616,,Dog,Medical,Male,5 years
+2449,A728151,Zeke,Cat,Medical,Male,2 years
+2007,A706953,,Dog,Medical,Female,< 1 year
+616,A671877,Kinda,Dog,Medical,Female,6 years
+1485,A694165,,Cat,Medical,Female,< 1 year
+1827,A702927,*Gretchen,Dog,Medical,Female,2 years
+1881,A704219,,Dog,Medical,Female,< 1 year
+1268,A689624,*Frank,Dog,Medical,Male,3 years
+2196,A714484,*Chaucer,Dog,Medical,Male,10 years
+1653,A698522,Major,Dog,Medical,Male,4 years
+129,A586304,Ginger,Dog,Medical,Female,3 years
+1898,A704484,,Cat,Medical,Female,< 1 year
+2444,A728064,,Cat,Medical,Unknown,< 1 year
+2869,A757592,,Cat,Medical,Unknown,< 1 year
+2470,A729119,,Cat,Medical,Unknown,< 1 year
+985,A682201,*Buzz,Cat,Medical,Male,3 years
+1565,A696154,,Cat,Medical,Male,< 1 year
+2044,A708042,*Irene,Dog,Medical,Female,2 years
+2647,A741754,,Cat,Medical,Female,10 years
+1749,A701246,*Elsie,Cat,Medical,Female,7 years
+308,A663886,Trudy,Dog,Medical,Female,2 years
+1280,A689823,,Dog,Medical,Male,< 1 year
+758,A675935,Kane,Dog,Medical,Male,5 years
+2012,A706961,,Dog,Medical,Female,2 years
+2134,A711572,*Candy,Dog,Medical,Female,2 years
+1716,A700228,,Dog,Medical,Female,2 years
+2069,A709007,,Cat,Medical,Female,< 1 year
+2387,A724888,Vivienne,Cat,Medical,Female,7 years
+431,A666854,*Julian,Cat,Medical,Male,< 1 year
+2314,A720583,Jaguar,Cat,Medical,Male,< 1 year
+2041,A707923,Little Man,Cat,Medical,Male,15 years
+2642,A741403,,Cat,Medical,Male,4 years
+2810,A752985,*Jasmine,Dog,Medical,Female,1 year
+2082,A709379,,Dog,Medical,Female,4 years
+2408,A726227,,Cat,Rabies Risk,Male,< 1 year
+2486,A729634,Missy,Dog,Rabies Risk,Female,< 1 year
+1336,A691106,,Cat,Rabies Risk,Female,< 1 year
+2518,A731735,*Benetta,Cat,Rabies Risk,Female,1 year
+1512,A694710,,Cat,Rabies Risk,Female,12 years
+918,A680367,Bear,Dog,Rabies Risk,Male,9 years
+2388,A724895,,Cat,Rabies Risk,Female,1 year
+2365,A724099,,Cat,Rabies Risk,Male,4 years
+2290,A719076,,Cat,Rabies Risk,Female,< 1 year
+1043,A683833,,Dog,Rabies Risk,Female,2 years
+1433,A693082,Diesel,Dog,Rabies Risk,Male,2 years
+2273,A718378,,Cat,Rabies Risk,Male,< 1 year
+2938,A762283,,Cat,Rabies Risk,Unknown,< 1 year
+1518,A694880,*Sallie,Dog,Rabies Risk,Female,3 years
+1516,A694829,Fawn,Dog,Rabies Risk,Female,2 years
+1217,A688115,Duke,Dog,Rabies Risk,Male,1 year
+1033,A683619,,Cat,Rabies Risk,Male,< 1 year
+2404,A726063,Jackie,Cat,Rabies Risk,Female,2 years
+1101,A684967,*Superman,Dog,Rabies Risk,Male,3 years
+1405,A692369,Jack,Dog,Rabies Risk,Male,1 year
+2375,A724603,,Dog,Rabies Risk,Male,< 1 year
+2315,A720692,,Dog,Rabies Risk,Female,< 1 year
+1481,A694062,Bandit,Dog,Rabies Risk,Male,2 years
+2485,A729631,Damu,Dog,Rabies Risk,Male,< 1 year
+2436,A727869,,Cat,Rabies Risk,Unknown,< 1 year
+2563,A735468,,Cat,Rabies Risk,Female,1 year
+932,A680779,Casper,Dog,Rabies Risk,Male,3 years
+1549,A695777,Zulu,Dog,Rabies Risk,Male,1 year
+973,A681837,,Cat,Rabies Risk,Male,< 1 year
+1007,A682897,Porthos,Dog,Rabies Risk,Male,3 years
+1254,A689146,,Cat,Rabies Risk,Female,< 1 year
+2331,A721501,Lola Rey,Dog,Rabies Risk,Female,1 year
+1318,A690757,Beans,Dog,Rabies Risk,Female,1 year
+2384,A724744,,Cat,Rabies Risk,Male,6 years
+2507,A730888,Kaly,Dog,Rabies Risk,Female,1 year
+1544,A695709,Hobie,Dog,Rabies Risk,Male,3 years
+2361,A723905,,Cat,Rabies Risk,Male,2 years
+2525,A732136,,Cat,Rabies Risk,Male,< 1 year
+962,A681593,,Cat,Rabies Risk,Male,< 1 year
+3113,A775745,,Cat,Rabies Risk,Male,< 1 year
+1250,A689099,*Cherry,Dog,Rabies Risk,Female,2 years
+2679,A744070,,Cat,Rabies Risk,Female,3 years
+1560,A696004,Lucy,Dog,Rabies Risk,Female,5 years
+2376,A724611,,Cat,Rabies Risk,Male,5 years
+3107,A774484,,Cat,Rabies Risk,Female,1 year
+1186,A687099,Chop,Dog,Rabies Risk,Male,< 1 year
+1333,A691020,,Cat,Rabies Risk,Unknown,< 1 year
+171,A616257,Grayson,Dog,Rabies Risk,Male,3 years
+1353,A691355,Jonny Cash,Dog,Rabies Risk,Male,3 years
+1205,A687866,Gray,Cat,Rabies Risk,Male,2 years
+1371,A691813,Oso,Dog,Rabies Risk,Male,2 years
+2311,A720463,,Cat,Rabies Risk,Male,3 years
+1185,A687090,Brownie,Dog,Rabies Risk,Male,1 year
+1291,A690108,Ruffy,Dog,Rabies Risk,Male,4 years
+2540,A733307,,Cat,Rabies Risk,Male,2 years
+1401,A692274,Charlie,Dog,Rabies Risk,Male,4 years
+2711,A747136,,Dog,Rabies Risk,Male,4 years
+2597,A737566,,Cat,Rabies Risk,Female,< 1 year
+2429,A727628,Benji,Dog,Rabies Risk,Male,4 years
+714,A674550,Chico,Dog,Rabies Risk,Male,1 year
+136,A597023,Rusty,Dog,Rabies Risk,Male,2 years
+1667,A698811,,Dog,Rabies Risk,Male,< 1 year
+2817,A753483,Eli James,Dog,Rabies Risk,Male,< 1 year
+3115,A775790,,Cat,Rabies Risk,Female,2 years
+2018,A707097,Lily,Cat,Rabies Risk,Female,1 year
+761,A676097,Murphy,Dog,Rabies Risk,Male,12 years
+2016,A707046,Jameson,Dog,Rabies Risk,Male,3 years
+301,A663488,Rocky,Dog,Rabies Risk,Male,2 years
+116,A575211,Chico,Dog,Rabies Risk,Male,7 years
+2932,A761730,,Cat,Rabies Risk,Female,1 year
+2548,A734397,,Cat,Rabies Risk,Male,1 year
+88,A548770,Firecat,Cat,Rabies Risk,Male,6 years
+553,A670085,,Cat,Rabies Risk,Male,5 years
+1903,A704669,,Cat,Rabies Risk,Unknown,< 1 year
+2179,A713642,,Cat,Rabies Risk,Female,1 year
+551,A670009,Delilah,Dog,Rabies Risk,Female,3 years
+105,A565221,Prieto,Dog,Rabies Risk,Male,8 years
+1842,A703396,,Dog,Rabies Risk,Male,< 1 year
+1242,A688843,*Jesse,Cat,Rabies Risk,Male,< 1 year
+779,A676507,,Cat,Rabies Risk,Female,2 years
+785,A676661,Callie,Dog,Rabies Risk,Female,3 years
+62,A516260,Skye,Dog,Rabies Risk,Female,10 years
+550,A669977,*Zeppo,Dog,Rabies Risk,Male,1 year
+176,A617429,Jun,Dog,Rabies Risk,Male,5 years
+632,A672409,Bruce,Dog,Rabies Risk,Male,3 years
+521,A669450,,Cat,Rabies Risk,Unknown,< 1 year
+789,A676745,Astro,Dog,Rabies Risk,Male,2 years
+2113,A710733,,Cat,Rabies Risk,Female,4 years
+692,A674072,*Jacob,Dog,Rabies Risk,Male,2 years
+1718,A700335,*Dorchester,Dog,Rabies Risk,Male,2 years
+246,A649445,Blue,Dog,Rabies Risk,Male,5 years
+628,A672271,,Dog,Rabies Risk,Male,10 years
+244,A648086,Yogottie,Dog,Rabies Risk,Male,1 year
+617,A671913,*Joe,Dog,Rabies Risk,Male,1 year
+272,A657375,Bella,Dog,Rabies Risk,Female,2 years
+306,A663822,Bluto,Dog,Rabies Risk,Male,1 year
+259,A652358,Buddy,Dog,Rabies Risk,Male,8 years
+243,A648065,Kerubin,Dog,Rabies Risk,Male,3 years
+2792,A752308,Paxton,Cat,Rabies Risk,Female,6 years
+1711,A700189,,Cat,Rabies Risk,Female,1 year
+186,A620900,Roswell,Dog,Rabies Risk,Male,5 years
+184,A620379,Blackie,Dog,Rabies Risk,Male,3 years
+223,A640924,Loco,Dog,Rabies Risk,Male,2 years
+228,A642830,Django,Dog,Rabies Risk,Male,3 years
+661,A673359,,Dog,Rabies Risk,Female,< 1 year
+653,A673191,Max,Dog,Rabies Risk,Male,3 years
+1742,A701111,*Nytrox,Dog,Rabies Risk,Male,1 year
+649,A672970,Calliope,Cat,Rabies Risk,Female,11 years
+651,A673000,,Dog,Rabies Risk,Male,1 year
+2915,A760558,,Cat,Rabies Risk,Unknown,2 years
+1752,A701321,Big Foot,Cat,Rabies Risk,Male,5 years
+2174,A713473,,Cat,Rabies Risk,Male,5 years
+2141,A711707,Mojo,Dog,Rabies Risk,Male,5 years
+567,A670417,Spot,Dog,Rabies Risk,Male,5 years
+189,A622215,*Herk,Dog,Rabies Risk,Male,5 years
+598,A671344,,Dog,Rabies Risk,Male,2 years
+1895,A704454,,Cat,Rabies Risk,Female,1 year
+1861,A703795,Trax,Cat,Rabies Risk,Male,14 years
+367,A665219,Sox,Dog,Rabies Risk,Male,< 1 year
+559,A670308,,Dog,Rabies Risk,Female,2 years
+906,A680127,,Cat,Rabies Risk,Female,< 1 year
+1618,A697424,Pepper,Dog,Rabies Risk,Male,6 years
+1792,A702282,,Cat,Rabies Risk,Female,< 1 year
+3168,A783174,,Cat,Rabies Risk,Female,1 year
+57,A503376,Lobo,Dog,Rabies Risk,Male,7 years
+1974,A706201,,Cat,Rabies Risk,Male,2 years
+2764,A750998,Queen,Dog,Rabies Risk,Female,< 1 year
+3176,A785584,,Cat,Rabies Risk,Unknown,2 years
+3011,A768409,,Cat,Rabies Risk,Unknown,1 year
+2967,A764722,,Dog,Rabies Risk,Male,< 1 year
+455,A667524,*Pookie,Dog,Rabies Risk,Male,1 year
+2241,A716795,,Cat,Rabies Risk,Unknown,< 1 year
+3015,A768782,Loki,Cat,Rabies Risk,Male,8 years
+2228,A715860,,Cat,Rabies Risk,Male,< 1 year
+2229,A715868,,Dog,Rabies Risk,Female,< 1 year
+3163,A782393,,Cat,Rabies Risk,Female,< 1 year
+853,A678778,Cowboy,Dog,Rabies Risk,Male,12 years
+1607,A697142,Red Girl,Dog,Rabies Risk,Female,1 year
+3000,A767323,,Cat,Rabies Risk,Female,5 years
+2977,A765702,,Cat,Rabies Risk,Male,< 1 year
+441,A667118,,Cat,Rabies Risk,Unknown,1 year
+796,A676940,Ace,Dog,Rabies Risk,Male,7 years
+3169,A783388,,Cat,Rabies Risk,Unknown,< 1 year
+2247,A716940,,Cat,Rabies Risk,Female,9 years
+3017,A769007,,Dog,Rabies Risk,Female,< 1 year
+3185,A788160,,Cat,Rabies Risk,Female,< 1 year
+442,A667153,,Cat,Rabies Risk,Male,< 1 year
+2213,A715302,,Cat,Rabies Risk,Male,1 year
+38,A464652,Buddy,Dog,Rabies Risk,Male,11 years
+2772,A751424,,Cat,Rabies Risk,Male,< 1 year
+1637,A697930,,Dog,Rabies Risk,Female,12 years
+1928,A705033,Jet,Cat,Rabies Risk,Male,2 years
+2210,A715264,,Dog,Rabies Risk,Male,2 years
+815,A677564,,Cat,Rabies Risk,Male,< 1 year
+2767,A751051,,Cat,Rabies Risk,Unknown,1 year
+1781,A702163,,Cat,Rabies Risk,Unknown,1 year
+2250,A717038,,Cat,Rabies Risk,Female,2 years
+504,A668972,Mufasa,Dog,Rabies Risk,Male,4 years
+2066,A708863,,Cat,Suffering,Unknown,< 1 year
+2046,A708089,,Cat,Suffering,Female,< 1 year
+2084,A709478,Larry,Dog,Suffering,Male,< 1 year
+2372,A724525,,Dog,Suffering,Female,2 years
+2348,A723108,,Cat,Suffering,Female,5 years
+2370,A724435,,Cat,Suffering,Female,1 year
+2045,A708078,,Cat,Suffering,Female,9 years
+2350,A723274,,Cat,Suffering,Male,2 years
+2064,A708799,,Cat,Suffering,Male,15 years
+2068,A708938,,Cat,Suffering,Male,< 1 year
+2043,A708004,,Cat,Suffering,Female,< 1 year
+2351,A723432,,Cat,Suffering,Unknown,< 1 year
+2368,A724334,Becky,Dog,Suffering,Female,2 years
+2367,A724328,,Dog,Suffering,Male,< 1 year
+2067,A708922,Ruby,Dog,Suffering,Female,14 years
+2349,A723148,,Cat,Suffering,Male,1 year
+2075,A709217,,Cat,Suffering,Male,1 year
+2054,A708497,,Cat,Suffering,Female,< 1 year
+2047,A708092,,Cat,Suffering,Female,1 year
+2071,A709075,,Cat,Suffering,Male,< 1 year
+2086,A709642,,Cat,Suffering,Male,13 years
+2369,A724403,Pedro,Dog,Suffering,Male,2 years
+2042,A708003,,Cat,Suffering,Male,< 1 year
+2070,A709053,,Dog,Suffering,Female,5 years
+2048,A708173,,Dog,Suffering,Female,1 year
+2049,A708341,,Cat,Suffering,Unknown,< 1 year
+2005,A706866,,Cat,Suffering,Male,8 years
+2128,A711340,,Dog,Suffering,Female,2 years
+2055,A708546,,Cat,Suffering,Unknown,< 1 year
+2085,A709516,,Cat,Suffering,Male,< 1 year
+2364,A723993,Videl,Dog,Suffering,Female,16 years
+2050,A708369,,Cat,Suffering,Male,1 year
+2057,A708630,Chloe,Dog,Suffering,Female,< 1 year
+2056,A708583,Lucky,Dog,Suffering,Unknown,4 years
+2073,A709171,,Cat,Suffering,Female,1 year
+2078,A709339,,Cat,Suffering,Female,< 1 year
+2058,A708665,,Cat,Suffering,Female,4 years
+2362,A723963,Bite Cat,Cat,Suffering,Unknown,2 years
+2355,A723529,*Simba,Cat,Suffering,Male,1 year
+2080,A709353,Corazon,Cat,Suffering,Female,8 years
+2352,A723449,,Cat,Suffering,Female,1 year
+2363,A723967,,Cat,Suffering,Male,< 1 year
+2060,A708753,,Cat,Suffering,Male,< 1 year
+2061,A708757,Scooter,Cat,Suffering,Male,16 years
+2074,A709184,,Cat,Suffering,Female,5 years
+2354,A723478,*Joan Jett,Dog,Suffering,Female,8 years
+2052,A708445,,Cat,Suffering,Male,8 years
+2053,A708461,,Cat,Suffering,Unknown,2 years
+2077,A709333,Mary Jane,Dog,Suffering,Female,5 years
+2062,A708774,Chiquita,Dog,Suffering,Female,6 years
+2081,A709373,Mojo,Dog,Suffering,Male,4 years
+2083,A709468,,Cat,Suffering,Unknown,3 years
+2356,A723715,,Cat,Suffering,Male,8 years
+2059,A708715,,Cat,Suffering,Male,2 years
+1979,A706262,*Honorina,Cat,Suffering,Female,< 1 year
+2051,A708437,,Cat,Suffering,Female,2 years
+2360,A723848,,Cat,Suffering,Male,12 years
+2379,A724682,Bear,Cat,Suffering,Male,10 years
+2373,A724540,,Cat,Suffering,Male,15 years
+2401,A725779,,Cat,Suffering,Female,1 year
+1985,A706442,,Dog,Suffering,Male,2 years
+1986,A706453,,Dog,Suffering,Male,7 years
+1987,A706455,,Dog,Suffering,Female,12 years
+2400,A725747,*Phoebe,Dog,Suffering,Female,2 years
+2072,A709076,*Roo,Cat,Suffering,Female,< 1 year
+1981,A706270,,Dog,Suffering,Male,< 1 year
+1991,A706553,Chyna,Dog,Suffering,Female,< 1 year
+2004,A706859,,Cat,Suffering,Male,5 years
+1998,A706808,,Cat,Suffering,Female,< 1 year
+1992,A706577,,Dog,Suffering,Female,9 years
+1993,A706595,,Cat,Suffering,Male,< 1 year
+2397,A725313,,Cat,Suffering,Female,< 1 year
+1994,A706682,,Cat,Suffering,Male,< 1 year
+2396,A725294,,Cat,Suffering,Unknown,< 1 year
+1995,A706694,,Cat,Suffering,Unknown,< 1 year
+1996,A706695,,Cat,Suffering,Unknown,< 1 year
+2395,A725287,,Cat,Suffering,Male,3 years
+2399,A725736,,Cat,Suffering,Unknown,1 year
+2402,A725888,,Cat,Suffering,Female,13 years
+1983,A706415,,Dog,Suffering,Male,2 years
+2403,A725915,Snagglepuss,Cat,Suffering,Male,19 years
+1970,A706106,,Cat,Suffering,Female,2 years
+1971,A706134,,Cat,Suffering,Female,< 1 year
+2413,A726452,Sofia,Dog,Suffering,Female,< 1 year
+1972,A706151,,Cat,Suffering,Unknown,< 1 year
+1973,A706173,*Ford,Cat,Suffering,Male,10 years
+1975,A706214,*Bernice,Dog,Suffering,Female,13 years
+2411,A726340,*Sammy,Cat,Suffering,Male,< 1 year
+2410,A726299,Oscar,Cat,Suffering,Male,12 years
+2409,A726246,,Cat,Suffering,Male,9 years
+1976,A706229,Elvis,Dog,Suffering,Male,15 years
+1977,A706232,,Cat,Suffering,Male,< 1 year
+2407,A726145,Lucky,Dog,Suffering,Male,8 years
+2406,A726099,Sparky,Dog,Suffering,Male,3 years
+1978,A706238,*Alice,Cat,Suffering,Female,< 1 year
+2353,A723456,,Dog,Suffering,Male,16 years
+2003,A706850,,Cat,Suffering,Male,< 1 year
+1990,A706529,,Cat,Suffering,Male,4 years
+2030,A707551,,Cat,Suffering,Male,< 1 year
+2002,A706832,,Cat,Suffering,Unknown,2 years
+1989,A706501,Randy,Dog,Suffering,Male,9 years
+2377,A724626,,Cat,Suffering,Male,2 years
+2031,A707564,,Cat,Suffering,Male,< 1 year
+2393,A725158,*Oscar,Cat,Suffering,Male,< 1 year
+1999,A706809,,Cat,Suffering,Female,< 1 year
+2000,A706810,,Cat,Suffering,Female,< 1 year
+2380,A724688,Princess,Cat,Suffering,Female,1 year
+2088,A709673,,Dog,Suffering,Female,15 years
+2024,A707412,,Dog,Suffering,Female,6 years
+2025,A707422,,Cat,Suffering,Female,< 1 year
+2026,A707429,,Dog,Suffering,Unknown,< 1 year
+2027,A707498,,Cat,Suffering,Unknown,1 year
+2028,A707507,,Cat,Suffering,Male,1 year
+2029,A707518,,Dog,Suffering,Male,3 years
+2076,A709236,,Cat,Suffering,Female,1 year
+2378,A724641,*Scotty,Dog,Suffering,Male,3 years
+2033,A707649,,Dog,Suffering,Male,10 years
+2405,A726064,,Dog,Suffering,Female,2 years
+1984,A706422,,Cat,Suffering,Female,< 1 year
+2034,A707696,,Dog,Suffering,Male,< 1 year
+2035,A707714,,Cat,Suffering,Male,4 years
+2374,A724598,,Cat,Suffering,Unknown,< 1 year
+2036,A707747,,Dog,Suffering,Male,2 years
+2037,A707786,Comino,Dog,Suffering,Male,6 years
+2038,A707879,,Cat,Suffering,Female,9 years
+2023,A707401,,Cat,Suffering,Female,13 years
+2039,A707882,,Cat,Suffering,Female,12 years
+2381,A724702,,Cat,Suffering,Male,1 year
+2383,A724742,,Cat,Suffering,Unknown,< 1 year
+2001,A706818,,Cat,Suffering,Female,< 1 year
+1988,A706483,Monkey,Cat,Suffering,Female,3 years
+2121,A710963,,Dog,Suffering,Female,1 year
+1980,A706263,*Houston,Cat,Suffering,Male,< 1 year
+2091,A709803,Gremlin,Dog,Suffering,Female,16 years
+2110,A710658,,Cat,Suffering,Male,< 1 year
+2390,A724897,,Cat,Suffering,Male,< 1 year
+2389,A724896,,Cat,Suffering,Male,< 1 year
+2008,A706954,,Cat,Suffering,Male,< 1 year
+2009,A706955,,Cat,Suffering,Female,< 1 year
+2010,A706957,,Dog,Suffering,Female,9 years
+2013,A706963,,Cat,Suffering,Unknown,< 1 year
+2014,A706970,Colby,Dog,Suffering,Male,7 years
+2017,A707060,,Cat,Suffering,Male,< 1 year
+2020,A707159,,Dog,Suffering,Male,< 1 year
+2021,A707255,Cheyenne,Dog,Suffering,Female,13 years
+2022,A707269,,Cat,Suffering,Unknown,5 years
+2382,A724728,,Cat,Suffering,Unknown,2 years
+2089,A709694,,Cat,Suffering,Female,1 year
+2006,A706938,,Dog,Suffering,Male,9 years
+2391,A724898,,Cat,Suffering,Male,< 1 year
+2201,A714628,,Cat,Suffering,Female,< 1 year
+2194,A714273,,Cat,Suffering,Female,3 years
+2195,A714275,,Cat,Suffering,Male,5 years
+2197,A714497,,Dog,Suffering,Male,1 year
+2281,A718575,,Cat,Suffering,Male,2 years
+2198,A714557,,Cat,Suffering,Unknown,< 1 year
+2280,A718566,*Eleonora,Cat,Suffering,Female,10 years
+2199,A714611,Bodacious,Dog,Suffering,Male,11 years
+2200,A714618,,Dog,Suffering,Female,8 years
+2192,A714168,,Dog,Suffering,Male,< 1 year
+2279,A718535,,Cat,Suffering,Female,3 years
+2277,A718498,Snoop Dog,Dog,Suffering,Male,1 year
+2276,A718478,,Dog,Suffering,Male,2 years
+2275,A718448,,Cat,Suffering,Female,2 years
+2274,A718442,,Cat,Suffering,Male,3 years
+2193,A714198,Andre,Cat,Suffering,Male,2 years
+2202,A714715,,Cat,Suffering,Male,2 years
+2176,A713613,,Cat,Suffering,Female,< 1 year
+2289,A719033,Kio,Dog,Suffering,Male,12 years
+2204,A714873,,Cat,Suffering,Female,< 1 year
+2278,A718518,*Dame,Dog,Suffering,Female,12 years
+2205,A714977,,Cat,Suffering,Male,< 1 year
+2191,A714131,*Emma,Cat,Suffering,Female,5 years
+2283,A718738,,Dog,Suffering,Female,12 years
+2168,A713207,,Cat,Suffering,Male,< 1 year
+2293,A719278,,Cat,Suffering,Unknown,2 years
+2169,A713224,,Cat,Suffering,Male,< 1 year
+2292,A719188,,Cat,Suffering,Male,3 years
+2291,A719089,,Cat,Suffering,Male,3 years
+2170,A713240,,Dog,Suffering,Male,16 years
+2171,A713284,,Cat,Suffering,Unknown,< 1 year
+2175,A713600,Koda,Cat,Suffering,Male,7 years
+2190,A714067,Sophie,Dog,Suffering,Female,17 years
+2272,A718361,,Cat,Suffering,Male,< 1 year
+2230,A715954,,Dog,Suffering,Male,1 year
+2288,A719004,,Dog,Suffering,Male,2 years
+2181,A713739,Lazzie,Dog,Suffering,Female,2 years
+2182,A713756,,Cat,Suffering,Unknown,2 years
+2183,A713782,,Cat,Suffering,Female,< 1 year
+2184,A713927,,Cat,Suffering,Male,< 1 year
+2285,A718874,,Cat,Suffering,Unknown,5 years
+1982,A706310,Zora,Cat,Suffering,Female,16 years
+2186,A713944,Gorda,Dog,Suffering,Female,< 1 year
+2189,A714010,,Cat,Suffering,Male,< 1 year
+2180,A713700,,Cat,Suffering,Female,1 year
+2167,A713158,Lucerito,Dog,Suffering,Female,14 years
+2271,A718309,*Lynessa,Cat,Suffering,Female,< 1 year
+2207,A715049,Jordan,Dog,Suffering,Male,3 years
+2203,A714784,,Cat,Suffering,Male,< 1 year
+2185,A713935,,Cat,Suffering,Female,< 1 year
+2392,A724942,,Cat,Suffering,Male,< 1 year
+2234,A716132,Silver,Cat,Suffering,Male,17 years
+2253,A717276,*Mimi,Dog,Suffering,Female,2 years
+2237,A716571,,Cat,Suffering,Male,4 years
+2239,A716661,,Cat,Suffering,Male,< 1 year
+2258,A717678,,Cat,Suffering,Unknown,2 years
+2240,A716683,,Cat,Suffering,Male,< 1 year
+2227,A715834,*Turkey,Cat,Suffering,Male,3 years
+2242,A716817,*Rosie,Dog,Suffering,Female,8 years
+2256,A717538,,Dog,Suffering,Female,10 years
+2244,A716851,,Cat,Suffering,Male,< 1 year
+2245,A716906,,Dog,Suffering,Male,< 1 year
+2255,A717428,Sweety,Dog,Suffering,Female,< 1 year
+2246,A716916,,Cat,Suffering,Female,2 years
+2248,A716961,,Dog,Suffering,Female,< 1 year
+2249,A717007,,Dog,Suffering,Male,16 years
+2232,A716039,Dirty,Cat,Suffering,Male,1 year
+2265,A718133,,Dog,Suffering,Unknown,16 years
+2243,A716847,,Cat,Suffering,Unknown,< 1 year
+2206,A715028,Sasha,Cat,Suffering,Female,1 year
+2260,A717757,,Cat,Suffering,Female,1 year
+2226,A715833,Squirt,Dog,Suffering,Female,1 year
+2208,A715226,,Cat,Suffering,Unknown,< 1 year
+2209,A715235,,Cat,Suffering,Male,1 year
+2211,A715271,,Cat,Suffering,Female,3 years
+2269,A718304,,Cat,Suffering,Male,2 years
+2268,A718274,Princess,Cat,Suffering,Female,3 years
+2212,A715292,*Nymeria,Cat,Suffering,Female,< 1 year
+2214,A715327,,Dog,Suffering,Female,1 year
+2215,A715553,Mr. Spring,Cat,Suffering,Male,1 year
+2216,A715567,,Dog,Suffering,Female,2 years
+2261,A717767,,Cat,Suffering,Male,1 year
+2251,A717094,Cookie,Dog,Suffering,Female,9 years
+2259,A717716,,Dog,Suffering,Male,3 years
+2264,A718070,,Dog,Suffering,Female,1 year
+2126,A711323,,Cat,Suffering,Unknown,< 1 year
+2220,A715684,,Cat,Suffering,Female,2 years
+2114,A710751,,Cat,Suffering,Male,< 1 year
+2221,A715687,,Dog,Suffering,Female,2 years
+2263,A717971,,Cat,Suffering,Male,< 1 year
+2222,A715701,,Cat,Suffering,Female,8 years
+2223,A715739,Rupert,Dog,Suffering,Male,17 years
+2224,A715751,Tiger,Dog,Suffering,Female,< 1 year
+2225,A715803,,Cat,Suffering,Male,< 1 year
+2219,A715679,,Cat,Suffering,Male,3 years
+2166,A712876,,Cat,Suffering,Male,< 1 year
+2294,A719317,,Dog,Suffering,Male,7 years
+2165,A712770,,Cat,Suffering,Male,5 years
+2337,A721673,Stack,Dog,Suffering,Male,< 1 year
+2336,A721672,,Cat,Suffering,Unknown,5 years
+2320,A721045,Buddy,Dog,Suffering,Male,13 years
+2335,A721667,Chita,Dog,Suffering,Female,17 years
+2217,A715590,,Cat,Suffering,Unknown,2 years
+2235,A716318,,Dog,Suffering,Female,2 years
+2118,A710885,,Cat,Suffering,Female,< 1 year
+2119,A710889,,Dog,Suffering,Female,< 1 year
+2120,A710935,Prince,Dog,Suffering,Male,12 years
+2339,A721810,,Cat,Suffering,Male,2 years
+2328,A721436,,Cat,Suffering,Unknown,< 1 year
+2325,A721369,,Cat,Suffering,Male,< 1 year
+2122,A711012,,Cat,Suffering,Unknown,< 1 year
+2324,A721351,*Ruby,Dog,Suffering,Female,1 year
+2123,A711015,,Cat,Suffering,Unknown,< 1 year
+2323,A721216,,Cat,Suffering,Female,1 year
+2322,A721076,,Dog,Suffering,Male,< 1 year
+2125,A711220,,Cat,Suffering,Female,12 years
+2334,A721663,,Cat,Suffering,Unknown,1 year
+2117,A710873,,Cat,Suffering,Female,< 1 year
+2859,A756710,,Cat,Suffering,Female,5 years
+3098,A773524,*Gabriel,Cat,Suffering,Male,< 1 year
+2347,A722566,,Cat,Suffering,Female,5 years
+2092,A709825,,Dog,Suffering,Male,5 years
+2093,A709852,,Dog,Suffering,Male,1 year
+2346,A722475,,Cat,Suffering,Male,2 years
+2094,A709898,,Dog,Suffering,Male,< 1 year
+2095,A709922,,Cat,Suffering,Unknown,< 1 year
+2345,A722300,Sniffles,Dog,Suffering,Female,9 years
+2096,A710064,,Cat,Suffering,Female,< 1 year
+2097,A710131,Angie,Cat,Suffering,Female,17 years
+2252,A717200,Bella,Dog,Suffering,Female,9 years
+2098,A710196,,Cat,Suffering,Male,1 year
+2342,A721857,,Cat,Suffering,Male,2 years
+2099,A710227,Sebastian,Cat,Suffering,Male,12 years
+2100,A710276,*Millie,Cat,Suffering,Female,5 years
+2158,A712342,Skyla,Dog,Suffering,Female,14 years
+2949,A762900,,Cat,Suffering,Female,6 years
+2106,A710475,,Cat,Suffering,Male,< 1 year
+2107,A710490,,Cat,Suffering,Male,< 1 year
+2340,A721834,,Dog,Suffering,Male,2 years
+2108,A710521,*Fred,Cat,Suffering,Male,< 1 year
+2343,A721958,Precious,Dog,Suffering,Female,12 years
+2129,A711357,,Cat,Suffering,Unknown,2 years
+2319,A720908,,Cat,Suffering,Male,1 year
+2318,A720891,*Henry,Cat,Suffering,Male,4 years
+2155,A712222,,Cat,Suffering,Male,5 years
+2306,A720262,*Lucky,Dog,Suffering,Male,< 1 year
+2156,A712293,,Cat,Suffering,Male,< 1 year
+2305,A720249,*Whiskers,Cat,Suffering,Male,4 years
+2157,A712328,,Cat,Suffering,Female,10 years
+2341,A721853,,Cat,Suffering,Male,5 years
+2974,A765482,,Cat,Suffering,Male,3 years
+2302,A720109,,Dog,Suffering,Female,< 1 year
+2159,A712376,,Cat,Suffering,Unknown,< 1 year
+2160,A712493,*Iris,Cat,Suffering,Female,5 years
+2298,A719661,Minina,Cat,Suffering,Female,< 1 year
+2297,A719628,,Cat,Suffering,Male,< 1 year
+2161,A712527,*Snickers,Cat,Suffering,Male,< 1 year
+2296,A719531,,Cat,Suffering,Male,15 years
+2295,A719435,,Cat,Suffering,Male,1 year
+2162,A712618,,Cat,Suffering,Unknown,< 1 year
+2163,A712715,,Cat,Suffering,Unknown,< 1 year
+2164,A712730,,Cat,Suffering,Male,2 years
+2299,A719785,,Cat,Suffering,Male,2 years
+2307,A720287,,Cat,Suffering,Male,5 years
+2152,A712084,,Cat,Suffering,Female,15 years
+2149,A712032,,Cat,Suffering,Female,< 1 year
+2303,A720212,,Dog,Suffering,Male,13 years
+2103,A710435,,Cat,Suffering,Male,12 years
+2132,A711562,Bino,Dog,Suffering,Male,1 year
+2316,A720706,,Cat,Suffering,Male,< 1 year
+2133,A711567,,Dog,Suffering,Female,3 years
+2135,A711601,Benclet,Dog,Suffering,Male,6 years
+2136,A711609,,Cat,Suffering,Unknown,2 years
+2313,A720574,Mimi,Cat,Suffering,Female,10 years
+2137,A711627,,Cat,Suffering,Male,< 1 year
+2138,A711689,Bella,Dog,Suffering,Female,3 years
+2139,A711704,,Cat,Suffering,Female,< 1 year
+2140,A711705,,Cat,Suffering,Female,12 years
+2142,A711718,,Cat,Suffering,Male,1 year
+2309,A720359,,Cat,Suffering,Male,< 1 year
+2143,A711756,,Cat,Suffering,Male,3 years
+2144,A711822,,Dog,Suffering,Female,4 years
+2301,A719972,Daisy,Dog,Suffering,Female,13 years
+2154,A712193,,Dog,Suffering,Male,10 years
+2145,A711886,,Cat,Suffering,Male,3 years
+2308,A720310,,Cat,Suffering,Female,1 year
+2146,A711967,,Cat,Suffering,Male,9 years
+2937,A762159,,Cat,Suffering,Unknown,1 year
+2148,A711992,,Dog,Suffering,Male,11 years
+2090,A709714,,Cat,Suffering,Unknown,< 1 year
+0,A208755,Kootrie,Dog,Suffering,Male,14 years
+2655,A742416,,Cat,Suffering,Male,3 years
+2415,A726627,,Cat,Suffering,Female,< 1 year
+2925,A761200,,Cat,Suffering,Male,< 1 year
+2926,A761279,,Dog,Suffering,Female,2 years
+2927,A761360,,Cat,Suffering,Female,1 year
+2929,A761538,,Cat,Suffering,Female,8 years
+2931,A761703,,Cat,Suffering,Female,< 1 year
+2933,A761849,,Cat,Suffering,Female,2 years
+2934,A761889,,Cat,Suffering,Unknown,1 year
+2935,A762024,Puppy,Dog,Suffering,Female,< 1 year
+2130,A711397,,Cat,Suffering,Female,< 1 year
+2910,A760229,,Cat,Suffering,Male,10 years
+2939,A762483,,Dog,Suffering,Female,1 year
+2940,A762565,Meeka,Cat,Suffering,Female,< 1 year
+2941,A762567,,Cat,Suffering,Male,12 years
+2942,A762627,,Cat,Suffering,Male,12 years
+2943,A762629,,Dog,Suffering,Unknown,10 years
+2924,A761162,,Cat,Suffering,Unknown,< 1 year
+2944,A762650,,Cat,Suffering,Unknown,< 1 year
+2923,A761146,Jasper,Dog,Suffering,Male,4 years
+2920,A761010,,Cat,Suffering,Female,13 years
+2904,A759972,,Dog,Suffering,Male,12 years
+2905,A760110,,Cat,Suffering,Male,2 years
+2906,A760144,Princess,Dog,Suffering,Unknown,15 years
+2907,A760157,,Dog,Suffering,Male,2 years
+3174,A785023,,Cat,Suffering,Female,10 years
+2936,A762149,,Cat,Suffering,Male,< 1 year
+2131,A711486,L.C.,Cat,Suffering,Male,9 years
+2911,A760276,,Cat,Suffering,Unknown,< 1 year
+2964,A764604,Phoenix,Cat,Suffering,Female,< 1 year
+2912,A760321,,Cat,Suffering,Male,< 1 year
+2973,A765375,,Cat,Suffering,Female,< 1 year
+2913,A760368,,Cat,Suffering,Female,3 years
+2914,A760534,,Cat,Suffering,Female,2 years
+2916,A760563,,Cat,Suffering,Unknown,1 year
+2917,A760606,,Cat,Suffering,Unknown,6 years
+2918,A760728,Lazarus,Cat,Suffering,Unknown,< 1 year
+2919,A760985,,Cat,Suffering,Male,2 years
+2922,A761104,Spots,Dog,Suffering,Male,3 years
+2903,A759856,Butter,Cat,Suffering,Male,2 years
+2945,A762744,,Cat,Suffering,Male,< 1 year
+2947,A762807,,Cat,Suffering,Female,< 1 year
+2969,A764846,,Dog,Suffering,Female,< 1 year
+2970,A764945,,Dog,Suffering,Male,4 years
+2948,A762880,,Dog,Suffering,Male,3 years
+2971,A765191,,Dog,Suffering,Female,1 year
+2909,A760225,,Cat,Suffering,Unknown,< 1 year
+2147,A711985,,Dog,Suffering,Male,< 1 year
+2975,A765542,,Cat,Suffering,Male,2 years
+2978,A765899,,Dog,Suffering,Male,7 years
+2979,A765914,,Cat,Suffering,Male,1 year
+2980,A765960,,Dog,Suffering,Male,8 years
+2982,A766365,,Dog,Suffering,Male,1 year
+2984,A766529,Snowy,Dog,Suffering,Female,< 1 year
+2985,A766537,,Cat,Suffering,Male,2 years
+2987,A766620,,Cat,Suffering,Male,3 years
+2988,A766755,,Cat,Suffering,Male,2 years
+2968,A764844,,Dog,Suffering,Male,10 years
+2946,A762764,Luna,Cat,Suffering,Male,< 1 year
+2966,A764653,Gordy,Dog,Suffering,Female,14 years
+2972,A765198,,Cat,Suffering,Male,< 1 year
+2860,A756751,Lulu Bell,Cat,Suffering,Female,18 years
+3170,A783838,,Cat,Suffering,Female,1 year
+2952,A763194,Lemonade,Cat,Suffering,Female,4 years
+2899,A759502,,Cat,Suffering,Male,< 1 year
+2836,A755054,,Dog,Suffering,Unknown,< 1 year
+2953,A763285,,Cat,Suffering,Male,15 years
+2954,A763701,Sir Topemcat,Cat,Suffering,Male,< 1 year
+2955,A763886,Milo,Cat,Suffering,Female,8 years
+2956,A763908,,Cat,Suffering,Male,10 years
+2957,A763923,,Dog,Suffering,Female,< 1 year
+2958,A764156,,Dog,Suffering,Female,10 years
+2959,A764203,,Dog,Suffering,Female,5 years
+2960,A764391,,Dog,Suffering,Female,< 1 year
+2961,A764474,,Cat,Suffering,Female,2 years
+2962,A764549,,Cat,Suffering,Female,12 years
+2965,A764632,,Cat,Suffering,Female,1 year
+2902,A759757,Tiny,Dog,Suffering,Male,5 years
+2900,A759641,,Cat,Suffering,Female,2 years
+2837,A755218,*Licorice,Cat,Suffering,Female,< 1 year
+2834,A754828,Bonita,Cat,Suffering,Female,< 1 year
+2853,A756462,,Cat,Suffering,Male,< 1 year
+2838,A755413,,Cat,Suffering,Male,1 year
+2839,A755445,Onyx,Cat,Suffering,Male,10 years
+2840,A755718,,Cat,Suffering,Male,1 year
+2842,A755772,,Cat,Suffering,Male,2 years
+2843,A755787,,Cat,Suffering,Female,2 years
+2844,A755850,,Cat,Suffering,Female,2 years
+2845,A755870,,Cat,Suffering,Female,2 years
+2846,A756009,,Cat,Suffering,Female,< 1 year
+2847,A756047,,Dog,Suffering,Male,12 years
+2848,A756157,,Cat,Suffering,Male,3 years
+2849,A756232,,Cat,Suffering,Female,1 year
+2109,A710593,,Cat,Suffering,Male,1 year
+2812,A753250,,Dog,Suffering,Female,4 years
+2833,A754646,,Cat,Suffering,Male,< 1 year
+2854,A756561,,Cat,Suffering,Female,< 1 year
+2829,A754337,,Cat,Suffering,Male,< 1 year
+2813,A753356,,Cat,Suffering,Unknown,< 1 year
+2814,A753372,,Cat,Suffering,Male,15 years
+2815,A753378,,Cat,Suffering,Male,3 years
+2816,A753379,,Cat,Suffering,Male,10 years
+2818,A753501,,Cat,Suffering,Female,< 1 year
+2820,A753661,,Cat,Suffering,Male,< 1 year
+2821,A753743,,Cat,Suffering,Male,< 1 year
+2822,A753792,,Cat,Suffering,Male,8 years
+2823,A753832,,Dog,Suffering,Female,7 years
+2824,A753928,,Cat,Suffering,Male,< 1 year
+2825,A754045,*George,Dog,Suffering,Male,7 years
+2827,A754121,,Cat,Suffering,Female,5 years
+2828,A754180,,Cat,Suffering,Female,< 1 year
+2850,A756317,,Cat,Suffering,Male,< 1 year
+2851,A756374,Romeo,Dog,Suffering,Male,10 years
+2895,A759268,,Dog,Suffering,Female,< 1 year
+2855,A756564,Speckles,Cat,Suffering,Female,2 years
+2856,A756622,,Dog,Suffering,Female,1 year
+2881,A758245,,Cat,Suffering,Male,< 1 year
+2882,A758286,,Cat,Suffering,Male,< 1 year
+2884,A758333,,Cat,Suffering,Male,< 1 year
+2885,A758392,,Dog,Suffering,Male,< 1 year
+2886,A758416,Parker,Cat,Suffering,Male,8 years
+2887,A758458,Melli,Cat,Suffering,Female,8 years
+2888,A758537,,Cat,Suffering,Male,< 1 year
+2889,A758598,,Cat,Suffering,Male,9 years
+2890,A758844,,Dog,Suffering,Female,< 1 year
+2892,A759021,,Cat,Suffering,Unknown,2 years
+2894,A759245,,Cat,Suffering,Female,2 years
+2831,A754419,Alle,Cat,Suffering,Female,13 years
+2951,A763192,Fergie,Dog,Suffering,Female,14 years
+2835,A755039,,Cat,Suffering,Female,12 years
+2896,A759272,,Dog,Suffering,Female,< 1 year
+2950,A763148,Maudie,Cat,Suffering,Female,5 years
+2872,A757684,,Cat,Suffering,Female,< 1 year
+3129,A778518,,Cat,Suffering,Female,6 years
+2879,A758208,*Shetara,Cat,Suffering,Female,5 years
+2878,A758134,,Cat,Suffering,Unknown,< 1 year
+2877,A758041,,Cat,Suffering,Male,4 years
+2858,A756632,Callie,Cat,Suffering,Female,16 years
+2861,A756890,Shadow,Cat,Suffering,Female,2 years
+2862,A757025,,Cat,Suffering,Male,< 1 year
+2863,A757117,,Cat,Suffering,Female,< 1 year
+2864,A757137,,Cat,Suffering,Female,< 1 year
+2990,A766782,,Dog,Suffering,Female,1 year
+2865,A757147,,Dog,Suffering,Female,5 years
+2868,A757573,,Cat,Suffering,Female,< 1 year
+3133,A779241,,Cat,Suffering,Female,8 years
+3131,A778898,,Dog,Suffering,Male,< 1 year
+2873,A757847,,Cat,Suffering,Female,12 years
+2874,A757920,,Cat,Suffering,Unknown,13 years
+2875,A757963,*Luna,Cat,Suffering,Female,1 year
+2876,A757981,,Cat,Suffering,Male,10 years
+2866,A757272,,Cat,Suffering,Unknown,2 years
+2811,A753174,Abby,Dog,Suffering,Female,12 years
+2991,A766829,,Cat,Suffering,Male,2 years
+2995,A767005,,Cat,Suffering,Female,2 years
+3123,A776400,,Cat,Suffering,Male,10 years
+3124,A776499,,Dog,Suffering,Male,10 years
+3125,A776959,,Cat,Suffering,Female,1 year
+3126,A778253,Sky,Dog,Suffering,Female,1 year
+3127,A778285,,Cat,Suffering,Female,< 1 year
+3128,A778401,,Cat,Suffering,Unknown,1 year
+2870,A757599,Loki,Cat,Suffering,Male,< 1 year
+2111,A710668,,Cat,Suffering,Male,< 1 year
+3166,A782913,,Cat,Suffering,Male,< 1 year
+3142,A780510,,Cat,Suffering,Male,< 1 year
+2897,A759301,,Cat,Suffering,Male,< 1 year
+3167,A783127,,Cat,Suffering,Female,< 1 year
+2898,A759453,Jinx,Cat,Suffering,Female,5 years
+3099,A773535,,Cat,Suffering,Male,< 1 year
+3134,A779325,,Dog,Suffering,Male,5 years
+3135,A779336,,Dog,Suffering,Female,5 years
+3136,A779387,,Cat,Suffering,Male,2 years
+3137,A779797,,Cat,Suffering,Male,< 1 year
+3138,A779903,,Cat,Suffering,Male,< 1 year
+3118,A775833,*Birdie,Cat,Suffering,Female,5 years
+3139,A780265,,Dog,Suffering,Male,< 1 year
+3117,A775831,Prince,Dog,Suffering,Male,11 years
+3114,A775765,,Cat,Suffering,Male,1 year
+3093,A772881,,Cat,Suffering,Male,< 1 year
+3144,A780627,,Cat,Suffering,Female,5 years
+3094,A773030,,Cat,Suffering,Male,< 1 year
+3097,A773521,,Dog,Suffering,Female,< 1 year
+3130,A778571,,Cat,Suffering,Female,5 years
+3100,A773596,*Sophie,Cat,Suffering,Female,< 1 year
+2880,A758225,,Dog,Suffering,Unknown,< 1 year
+3101,A773792,,Cat,Suffering,Male,< 1 year
+3102,A773800,,Dog,Suffering,Female,< 1 year
+3103,A773863,,Cat,Suffering,Male,< 1 year
+3108,A774776,,Dog,Suffering,Male,1 year
+3109,A774879,,Cat,Suffering,Female,< 1 year
+3110,A774890,,Dog,Suffering,Male,2 years
+3111,A775100,,Dog,Suffering,Male,< 1 year
+3112,A775638,Little Bit,Dog,Suffering,Unknown,15 years
+3116,A775815,,Dog,Suffering,Male,< 1 year
+3092,A772880,,Cat,Suffering,Unknown,< 1 year
+3095,A773131,,Cat,Suffering,Male,6 years
+2438,A727899,,Cat,Suffering,Male,< 1 year
+2462,A728737,,Dog,Suffering,Male,< 1 year
+2652,A742180,Tho-1,Cat,Suffering,Male,15 years
+3145,A780651,Bear,Cat,Suffering,Male,< 1 year
+3146,A780655,,Dog,Suffering,Male,1 year
+3177,A785677,,Dog,Suffering,Female,7 years
+3178,A786543,*Louann,Dog,Suffering,Female,3 years
+3180,A786671,,Dog,Suffering,Female,14 years
+3181,A787133,,Dog,Suffering,Male,8 years
+3182,A787148,,Cat,Suffering,Unknown,3 years
+3183,A787557,,Dog,Suffering,Male,2 years
+3186,A788261,Fran,Dog,Suffering,Female,1 year
+3188,A788384,Chinin,Cat,Suffering,Unknown,8 years
+3189,A788473,,Cat,Suffering,Male,3 years
+3165,A782618,,Dog,Suffering,Male,1 year
+3143,A780563,Xena,Dog,Suffering,Female,10 years
+3164,A782616,,Cat,Suffering,Male,< 1 year
+3160,A782089,,Cat,Suffering,Female,2 years
+3147,A780855,,Cat,Suffering,Unknown,2 years
+3089,A772637,,Cat,Suffering,Female,< 1 year
+3090,A772734,,Dog,Suffering,Female,2 years
+3148,A780899,Cheetah,Cat,Suffering,Unknown,1 year
+3149,A780915,Gatsby,Cat,Suffering,Male,18 years
+3150,A780952,,Cat,Suffering,Female,< 1 year
+3151,A780980,,Dog,Suffering,Female,< 1 year
+3152,A781198,,Cat,Suffering,Male,1 year
+3153,A781205,,Cat,Suffering,Female,2 years
+3154,A781249,,Cat,Suffering,Female,< 1 year
+3155,A781312,,Cat,Suffering,Male,5 years
+3156,A781407,,Cat,Suffering,Female,8 years
+3157,A781769,,Cat,Suffering,Male,1 year
+3158,A781938,Sandy,Dog,Suffering,Female,6 years
+2554,A734864,,Cat,Suffering,Female,< 1 year
+3028,A769566,,Cat,Suffering,Male,9 years
+3044,A770335,,Cat,Suffering,Female,5 years
+3025,A769339,,Dog,Suffering,Female,10 years
+3026,A769415,,Cat,Suffering,Unknown,< 1 year
+3029,A769570,,Cat,Suffering,Male,2 years
+3030,A769616,,Cat,Suffering,Female,10 years
+3031,A769652,Oso,Cat,Suffering,Male,2 years
+3032,A769663,,Cat,Suffering,Male,2 years
+3033,A769739,Marilyn,Cat,Suffering,Female,< 1 year
+3034,A769743,,Cat,Suffering,Female,6 years
+3035,A769807,,Cat,Suffering,Male,15 years
+3036,A769823,,Cat,Suffering,Male,8 years
+3038,A769982,Unknown,Cat,Suffering,Female,6 years
+3039,A770022,,Cat,Suffering,Female,< 1 year
+3040,A770033,,Cat,Suffering,Unknown,< 1 year
+3041,A770035,,Cat,Suffering,Unknown,< 1 year
+3043,A770334,,Cat,Suffering,Female,5 years
+3159,A781964,,Cat,Suffering,Female,< 1 year
+3161,A782155,,Cat,Suffering,Male,< 1 year
+1394,A692158,,Dog,Suffering,Female,< 1 year
+3023,A769163,Clyde,Dog,Suffering,Male,10 years
+2996,A767006,,Cat,Suffering,Unknown,5 years
+2998,A767112,Gaylene,Cat,Suffering,Unknown,2 years
+3001,A767415,*Marsha,Cat,Suffering,Female,10 years
+3002,A767419,Trigger,Dog,Suffering,Male,16 years
+3004,A767630,Vic-7,Cat,Suffering,Female,8 years
+3005,A767728,,Cat,Suffering,Male,3 years
+3008,A768228,,Cat,Suffering,Female,15 years
+3010,A768365,Panda,Dog,Suffering,Male,2 years
+3012,A768439,,Cat,Suffering,Male,< 1 year
+3013,A768525,Oido,Cat,Suffering,Male,5 years
+3014,A768636,,Dog,Suffering,Female,< 1 year
+3016,A768969,,Cat,Suffering,Female,< 1 year
+3191,A788533,,Dog,Suffering,Unknown,1 year
+2527,A732359,,Cat,Suffering,Male,< 1 year
+3091,A772757,,Cat,Suffering,Unknown,< 1 year
+3021,A769141,,Cat,Suffering,Male,1 year
+2528,A732500,,Dog,Suffering,Male,6 years
+3084,A772182,,Cat,Suffering,Male,< 1 year
+3055,A770831,,Cat,Suffering,Female,1 year
+3046,A770388,,Dog,Suffering,Male,9 years
+3047,A770408,,Cat,Suffering,Male,4 years
+3070,A771445,Cowboy,Dog,Suffering,Male,3 years
+3071,A771529,,Cat,Suffering,Unknown,< 1 year
+3072,A771622,,Cat,Suffering,Female,< 1 year
+3073,A771693,,Cat,Suffering,Female,< 1 year
+3075,A771713,,Cat,Suffering,Female,< 1 year
+3076,A771768,,Cat,Suffering,Unknown,< 1 year
+3078,A771815,,Dog,Suffering,Male,2 years
+3080,A771933,Unknown,Cat,Suffering,Male,2 years
+3081,A771951,,Cat,Suffering,Male,< 1 year
+3059,A770968,Unknown,Cat,Suffering,Male,10 years
+3082,A772032,,Cat,Suffering,Female,< 1 year
+3083,A772044,,Cat,Suffering,Female,< 1 year
+3085,A772291,,Cat,Suffering,Unknown,< 1 year
+3086,A772313,,Cat,Suffering,Female,11 years
+3088,A772622,,Cat,Suffering,Unknown,2 years
+3069,A771431,,Cat,Suffering,Male,1 year
+3068,A771265,Chichi,Dog,Suffering,Male,7 years
+3067,A771258,,Cat,Suffering,Female,2 years
+3066,A771207,,Cat,Suffering,Female,12 years
+3048,A770436,,Cat,Suffering,Male,5 years
+3049,A770490,Rookie,Dog,Suffering,Male,8 years
+3050,A770531,,Cat,Suffering,Female,10 years
+3051,A770551,,Cat,Suffering,Unknown,2 years
+3052,A770568,,Cat,Suffering,Male,< 1 year
+3053,A770671,,Cat,Suffering,Male,2 years
+3058,A770956,,Cat,Suffering,Male,5 years
+2994,A767002,Momma,Cat,Suffering,Female,12 years
+2524,A732045,*Phelps,Cat,Suffering,Male,< 1 year
+2541,A733406,,Cat,Suffering,Female,5 years
+3022,A769157,,Dog,Suffering,Male,1 year
+2526,A732225,,Cat,Suffering,Unknown,15 years
+3024,A769181,,Cat,Suffering,Male,5 years
+2555,A735122,,Cat,Suffering,Male,< 1 year
+3060,A770979,,Cat,Suffering,Female,7 years
+3061,A771032,,Cat,Suffering,Unknown,1 year
+3062,A771068,,Dog,Suffering,Female,4 years
+3065,A771205,,Cat,Suffering,Unknown,2 years
+3056,A770866,Unknown,Cat,Suffering,Male,8 years
+2414,A726530,*Theo,Cat,Suffering,Male,< 1 year
+2807,A752824,,Cat,Suffering,Male,2 years
+2805,A752818,,Cat,Suffering,Male,5 years
+2549,A734531,,Cat,Suffering,Female,1 year
+2550,A734686,,Dog,Suffering,Male,5 years
+2523,A732008,Richard,Dog,Suffering,Male,7 years
+2551,A734823,,Cat,Suffering,Female,< 1 year
+2553,A734856,,Cat,Suffering,Male,4 years
+3057,A770888,,Cat,Suffering,Female,< 1 year
+2556,A735149,Milo,Dog,Suffering,Male,3 years
+3045,A770340,,Cat,Suffering,Female,1 year
+2557,A735158,Casper,Dog,Suffering,Male,7 years
+2558,A735243,,Cat,Suffering,Male,< 1 year
+2559,A735366,,Cat,Suffering,Male,2 years
+2560,A735370,Kiki,Dog,Suffering,Male,9 years
+2561,A735445,,Dog,Suffering,Female,< 1 year
+2562,A735446,,Cat,Suffering,Female,< 1 year
+2564,A735825,,Cat,Suffering,Unknown,3 years
+2547,A734311,,Cat,Suffering,Female,< 1 year
+2565,A735944,,Cat,Suffering,Female,< 1 year
+2545,A733844,,Cat,Suffering,Female,< 1 year
+2552,A734852,,Cat,Suffering,Female,5 years
+3054,A770761,,Cat,Suffering,Female,12 years
+2530,A732751,,Cat,Suffering,Male,< 1 year
+2433,A727773,Einstein,Dog,Suffering,Male,10 years
+2532,A732764,,Cat,Suffering,Unknown,< 1 year
+2533,A732869,Duke,Dog,Suffering,Male,8 years
+2534,A732882,,Cat,Suffering,Female,2 years
+2535,A732918,,Cat,Suffering,Male,2 years
+2536,A733181,,Cat,Suffering,Male,4 years
+2537,A733198,,Cat,Suffering,Unknown,< 1 year
+2538,A733199,,Cat,Suffering,Unknown,< 1 year
+2539,A733200,,Cat,Suffering,Female,< 1 year
+2542,A733461,,Cat,Suffering,Male,4 years
+2522,A731936,,Cat,Suffering,Female,< 1 year
+2566,A736021,,Cat,Suffering,Male,3 years
+2568,A736087,,Cat,Suffering,Male,< 1 year
+2591,A737408,*Patriot,Dog,Suffering,Male,12 years
+2593,A737457,,Cat,Suffering,Male,8 years
+2586,A737188,,Cat,Suffering,Unknown,2 years
+2908,A760190,,Cat,Suffering,Unknown,2 years
+2596,A737553,,Cat,Suffering,Male,5 years
+2598,A737599,*Cranberry,Cat,Suffering,Female,< 1 year
+2599,A737641,,Cat,Suffering,Male,1 year
+2601,A737808,,Cat,Suffering,Male,3 years
+2602,A737840,,Cat,Suffering,Unknown,2 years
+2603,A737888,,Cat,Suffering,Female,1 year
+2604,A737930,King,Dog,Suffering,Male,1 year
+2605,A737945,,Cat,Suffering,Male,2 years
+2606,A738166,,Dog,Suffering,Unknown,< 1 year
+2608,A738358,,Cat,Suffering,Male,5 years
+2609,A738364,,Dog,Suffering,Male,12 years
+2590,A737395,,Cat,Suffering,Female,< 1 year
+2567,A736069,,Cat,Suffering,Unknown,< 1 year
+2595,A737521,,Cat,Suffering,Male,< 1 year
+3172,A784033,,Cat,Suffering,Female,< 1 year
+2569,A736220,,Cat,Suffering,Male,< 1 year
+2572,A736663,Nicks,Cat,Suffering,Male,5 years
+2573,A736715,,Cat,Suffering,Female,3 years
+2574,A736731,,Dog,Suffering,Female,3 years
+2575,A736776,Honeycut,Dog,Suffering,Male,15 years
+2576,A736831,,Cat,Suffering,Female,1 year
+2577,A736840,,Dog,Suffering,Female,< 1 year
+2578,A736865,Mr Cutie,Cat,Suffering,Female,10 years
+2579,A737022,,Cat,Suffering,Unknown,< 1 year
+2580,A737045,,Dog,Suffering,Unknown,< 1 year
+2581,A737055,,Cat,Suffering,Unknown,< 1 year
+2583,A737074,,Dog,Suffering,Unknown,< 1 year
+2585,A737162,,Cat,Suffering,Male,2 years
+2587,A737349,,Dog,Suffering,Female,1 year
+2521,A731922,,Dog,Suffering,Female,14 years
+2589,A737393,,Cat,Suffering,Male,2 years
+2594,A737464,,Cat,Suffering,Male,7 years
+2439,A727916,,Cat,Suffering,Female,< 1 year
+2440,A727935,*Jane,Cat,Suffering,Female,< 1 year
+2441,A727982,,Cat,Suffering,Male,< 1 year
+2445,A728074,,Cat,Suffering,Male,< 1 year
+2446,A728107,,Dog,Suffering,Male,< 1 year
+2447,A728131,,Dog,Suffering,Male,< 1 year
+2448,A728149,,Cat,Suffering,Female,1 year
+2450,A728296,,Cat,Suffering,Female,3 years
+2451,A728302,,Dog,Suffering,Male,< 1 year
+2453,A728342,,Cat,Suffering,Female,2 years
+2454,A728401,,Cat,Suffering,Female,< 1 year
+2456,A728528,Chato,Dog,Suffering,Male,6 years
+2457,A728537,,Cat,Suffering,Unknown,< 1 year
+2458,A728554,,Cat,Suffering,Female,< 1 year
+2570,A736221,,Cat,Suffering,Unknown,2 years
+2571,A736370,Buddy,Dog,Suffering,Male,3 years
+2461,A728677,,Dog,Suffering,Female,2 years
+741,A675305,,Cat,Suffering,Unknown,2 years
+1153,A686218,Sam,Cat,Suffering,Female,< 1 year
+2431,A727680,,Cat,Suffering,Male,< 1 year
+2434,A727778,,Cat,Suffering,Male,< 1 year
+2416,A726760,,Cat,Suffering,Male,10 years
+2417,A726822,,Dog,Suffering,Male,6 years
+2419,A726905,,Dog,Suffering,Male,13 years
+2420,A726918,,Cat,Suffering,Male,4 years
+2421,A726931,,Cat,Suffering,Unknown,< 1 year
+2422,A726970,*Earl,Cat,Suffering,Male,< 1 year
+2423,A727029,*Charlie,Cat,Suffering,Male,< 1 year
+2424,A727231,,Cat,Suffering,Unknown,< 1 year
+2425,A727310,,Cat,Suffering,Unknown,2 years
+2427,A727438,,Cat,Suffering,Unknown,< 1 year
+2428,A727476,,Cat,Suffering,Female,< 1 year
+2430,A727632,,Cat,Suffering,Female,< 1 year
+2432,A727699,,Cat,Suffering,Female,10 years
+2437,A727877,,Cat,Suffering,Female,< 1 year
+2531,A732760,,Cat,Suffering,Unknown,< 1 year
+2435,A727808,,Cat,Suffering,Female,2 years
+2465,A728858,,Cat,Suffering,Female,< 1 year
+2466,A728925,,Cat,Suffering,Unknown,2 years
+2467,A728958,,Dog,Suffering,Male,10 years
+2498,A730346,,Cat,Suffering,Male,< 1 year
+2499,A730446,,Cat,Suffering,Female,3 years
+2500,A730580,,Cat,Suffering,Female,< 1 year
+2501,A730660,,Cat,Suffering,Female,2 years
+2504,A730811,Oscar,Dog,Suffering,Male,16 years
+2505,A730856,,Cat,Suffering,Female,1 year
+2506,A730881,Dice,Dog,Suffering,Female,10 years
+2508,A731002,,Cat,Suffering,Female,4 years
+2509,A731086,Cinnimon,Dog,Suffering,Female,10 years
+2511,A731374,,Cat,Suffering,Female,< 1 year
+2510,A731162,Roxy,Dog,Suffering,Female,1 year
+2512,A731375,,Cat,Suffering,Male,< 1 year
+2487,A729677,,Cat,Suffering,Female,< 1 year
+2482,A729517,,Cat,Suffering,Female,< 1 year
+2515,A731535,,Cat,Suffering,Male,< 1 year
+2497,A730327,,Cat,Suffering,Unknown,1 year
+2496,A730207,,Cat,Suffering,Female,5 years
+2495,A730154,,Cat,Suffering,Male,3 years
+2494,A730132,*Keroppi,Cat,Suffering,Male,< 1 year
+2468,A729002,,Cat,Suffering,Male,< 1 year
+2469,A729044,,Cat,Suffering,Unknown,< 1 year
+2471,A729186,*Gates,Cat,Suffering,Male,< 1 year
+2473,A729205,,Cat,Suffering,Female,1 year
+2479,A729342,,Dog,Suffering,Male,< 1 year
+2480,A729462,*Sailor,Cat,Suffering,Male,1 year
+2481,A729498,,Cat,Suffering,Male,< 1 year
+2610,A738367,*Ellie,Cat,Suffering,Female,1 year
+2484,A729630,,Cat,Suffering,Male,< 1 year
+2514,A731507,,Cat,Suffering,Unknown,< 1 year
+2748,A750160,,Dog,Suffering,Male,< 1 year
+2489,A729785,Daisy,Dog,Suffering,Female,< 1 year
+2490,A729845,,Cat,Suffering,Male,2 years
+2491,A729917,,Cat,Suffering,Female,< 1 year
+2492,A730012,,Cat,Suffering,Female,12 years
+2493,A730125,,Cat,Suffering,Male,< 1 year
+2483,A729521,,Cat,Suffering,Unknown,6 years
+2806,A752823,,Cat,Suffering,Unknown,12 years
+2611,A738398,,Cat,Suffering,Male,2 years
+2613,A738660,,Cat,Suffering,Female,2 years
+2743,A749821,,Cat,Suffering,Male,2 years
+2744,A749892,,Cat,Suffering,Male,< 1 year
+2745,A749903,Macy,Dog,Suffering,Female,15 years
+2746,A749905,Blue,Dog,Suffering,Male,5 years
+2513,A731428,,Dog,Suffering,Male,10 years
+2624,A739203,,Cat,Suffering,Male,< 1 year
+3175,A785181,,Cat,Suffering,Male,1 year
+2752,A750399,,Cat,Suffering,Male,< 1 year
+2725,A748628,,Cat,Suffering,Male,3 years
+2754,A750435,,Cat,Suffering,Male,< 1 year
+2755,A750502,Rocket,Cat,Suffering,Male,< 1 year
+2757,A750591,,Cat,Suffering,Unknown,< 1 year
+2758,A750599,,Cat,Suffering,Female,< 1 year
+2759,A750613,,Cat,Suffering,Male,8 years
+2760,A750897,,Cat,Suffering,Male,< 1 year
+2742,A749763,Carita,Cat,Suffering,Female,4 years
+2761,A750923,,Cat,Suffering,Female,7 years
+2740,A749654,,Dog,Suffering,Male,1 year
+2738,A749523,,Cat,Suffering,Male,< 1 year
+2718,A747573,,Cat,Suffering,Unknown,10 years
+2720,A747978,,Dog,Suffering,Female,8 years
+2722,A748085,,Cat,Suffering,Unknown,< 1 year
+2723,A748296,Brownie,Dog,Suffering,Female,15 years
+2790,A752173,,Cat,Suffering,Female,< 1 year
+2794,A752400,,Cat,Suffering,Female,< 1 year
+2726,A748687,,Cat,Suffering,Unknown,< 1 year
+2728,A748785,,Cat,Suffering,Female,< 1 year
+2730,A749123,,Cat,Suffering,Male,< 1 year
+2731,A749222,,Dog,Suffering,Male,< 1 year
+2732,A749251,,Cat,Suffering,Unknown,2 years
+2733,A749253,Orange,Cat,Suffering,Female,< 1 year
+2735,A749269,,Cat,Suffering,Female,< 1 year
+2736,A749386,,Cat,Suffering,Male,8 years
+2737,A749452,,Cat,Suffering,Male,10 years
+2739,A749538,,Cat,Suffering,Female,12 years
+2717,A747555,,Cat,Suffering,Female,5 years
+2762,A750946,,Cat,Suffering,Male,< 1 year
+2751,A750354,,Cat,Suffering,Unknown,2 years
+2785,A751967,,Cat,Suffering,Unknown,< 1 year
+2795,A752467,,Cat,Suffering,Unknown,< 1 year
+2788,A752039,,Cat,Suffering,Unknown,< 1 year
+2793,A752345,,Cat,Suffering,Unknown,2 years
+2796,A752469,,Cat,Suffering,Unknown,< 1 year
+2797,A752470,,Cat,Suffering,Unknown,< 1 year
+2798,A752471,,Cat,Suffering,Unknown,< 1 year
+2799,A752515,,Cat,Suffering,Male,< 1 year
+2800,A752581,,Cat,Suffering,Female,< 1 year
+2801,A752632,,Cat,Suffering,Female,< 1 year
+2802,A752655,*Patti,Cat,Suffering,Female,6 years
+2803,A752787,*Johnny,Cat,Suffering,Male,< 1 year
+2804,A752800,,Cat,Suffering,Unknown,< 1 year
+2787,A752037,Scruffles,Dog,Suffering,Male,18 years
+2763,A750977,Slim,Cat,Suffering,Female,14 years
+2786,A751972,,Cat,Suffering,Female,< 1 year
+2765,A751034,,Cat,Suffering,Male,< 1 year
+2612,A738647,,Dog,Suffering,Male,2 years
+2783,A751786,,Cat,Suffering,Male,< 1 year
+2766,A751035,,Cat,Suffering,Unknown,< 1 year
+2770,A751387,Chewy,Dog,Suffering,Male,10 years
+2771,A751422,,Cat,Suffering,Female,< 1 year
+2773,A751446,*Beatrice,Cat,Suffering,Female,< 1 year
+2774,A751546,,Cat,Suffering,Unknown,< 1 year
+2775,A751549,,Cat,Suffering,Female,1 year
+2776,A751612,,Cat,Suffering,Male,1 year
+2777,A751641,,Cat,Suffering,Male,< 1 year
+2778,A751668,,Cat,Suffering,Female,5 years
+2779,A751677,Miss Miss,Cat,Suffering,Unknown,20 years
+2780,A751694,,Cat,Suffering,Unknown,< 1 year
+2781,A751709,,Cat,Suffering,Unknown,< 1 year
+2782,A751713,*Jelly,Cat,Suffering,Female,< 1 year
+2768,A751172,*Kenzie,Cat,Suffering,Female,< 1 year
+2769,A751207,,Cat,Suffering,Female,6 years
+2791,A752212,,Cat,Suffering,Unknown,< 1 year
+2715,A747428,,Cat,Suffering,Male,< 1 year
+2713,A747403,,Cat,Suffering,Male,3 years
+2628,A739559,,Cat,Suffering,Female,1 year
+2753,A750401,,Cat,Suffering,Unknown,< 1 year
+2635,A740279,,Dog,Suffering,Female,2 years
+2636,A740375,,Dog,Suffering,Female,1 year
+2637,A740544,Snuggles,Dog,Suffering,Female,15 years
+2639,A740672,,Cat,Suffering,Male,2 years
+2640,A740745,,Cat,Suffering,Female,5 years
+2641,A741103,,Dog,Suffering,Unknown,< 1 year
+2644,A741486,,Cat,Suffering,Unknown,9 years
+2645,A741590,,Cat,Suffering,Male,2 years
+2646,A741614,,Cat,Suffering,Male,1 year
+2648,A741794,,Dog,Suffering,Male,2 years
+2649,A741843,Thomas,Cat,Suffering,Male,1 year
+2650,A742139,Leo,Dog,Suffering,Male,8 years
+2668,A743212,Goofs,Cat,Suffering,Male,10 years
+2627,A739376,,Cat,Suffering,Male,2 years
+2633,A739785,,Dog,Suffering,Female,< 1 year
+2653,A742193,,Cat,Suffering,Male,2 years
+2631,A739727,,Cat,Suffering,Female,1 year
+2629,A739678,,Dog,Suffering,Male,4 years
+2614,A738771,,Cat,Suffering,Female,1 year
+2615,A738826,,Cat,Suffering,Male,< 1 year
+2616,A738858,,Cat,Suffering,Female,1 year
+2617,A738895,,Cat,Suffering,Unknown,< 1 year
+2618,A738994,,Cat,Suffering,Female,10 years
+2619,A738998,Cheche,Dog,Suffering,Female,4 years
+2620,A739079,,Cat,Suffering,Male,5 years
+2621,A739086,Jojo,Dog,Suffering,Male,2 years
+2622,A739142,Gloria,Dog,Suffering,Female,11 years
+2623,A739192,,Cat,Suffering,Female,1 year
+2651,A742165,,Dog,Suffering,Male,1 year
+2724,A748562,George,Dog,Suffering,Male,4 years
+2712,A747270,,Cat,Suffering,Male,< 1 year
+2667,A743114,,Cat,Suffering,Female,2 years
+2626,A739333,*Bea,Cat,Suffering,Female,< 1 year
+2701,A746644,,Cat,Suffering,Male,2 years
+2703,A746702,,Cat,Suffering,Unknown,12 years
+2630,A739703,Belle,Dog,Suffering,Female,< 1 year
+2654,A742391,,Cat,Suffering,Unknown,< 1 year
+1968,A705985,,Cat,Suffering,Male,< 1 year
+2656,A742433,Buddy,Cat,Suffering,Male,15 years
+2692,A745798,Jake,Cat,Suffering,Male,11 years
+2693,A745913,,Dog,Suffering,Female,1 year
+2694,A745927,,Cat,Suffering,Female,10 years
+2696,A746378,,Cat,Suffering,Female,2 years
+2697,A746410,,Dog,Suffering,Female,1 year
+2698,A746438,,Cat,Suffering,Male,3 years
+2699,A746444,,Cat,Suffering,Male,1 year
+2702,A746685,,Cat,Suffering,Male,< 1 year
+2700,A746633,,Cat,Suffering,Male,2 years
+2704,A746725,,Cat,Suffering,Unknown,< 1 year
+2625,A739280,,Cat,Suffering,Male,1 year
+2634,A740156,Bully,Dog,Suffering,Male,1 year
+2707,A746986,Max,Dog,Suffering,Male,2 years
+2708,A746992,Panda,Dog,Suffering,Female,14 years
+2709,A747010,,Dog,Suffering,Male,< 1 year
+2691,A745394,,Cat,Suffering,Unknown,< 1 year
+2688,A745188,,Cat,Suffering,Unknown,< 1 year
+2686,A745010,,Cat,Suffering,Male,2 years
+2683,A744783,Emma,Cat,Suffering,Female,5 years
+2661,A742706,,Cat,Suffering,Unknown,1 year
+2664,A742914,Jasmine,Cat,Suffering,Female,14 years
+2665,A743025,Troy,Cat,Suffering,Male,1 year
+2666,A743077,,Cat,Suffering,Female,1 year
+2669,A743256,,Cat,Suffering,Male,2 years
+2749,A750223,,Dog,Suffering,Male,2 years
+2670,A743308,,Dog,Suffering,Female,3 years
+869,A679212,,Cat,Suffering,Female,< 1 year
+791,A676794,,Cat,Suffering,Female,< 1 year
+2676,A743918,Mac,Dog,Suffering,Male,17 years
+2677,A744028,,Dog,Suffering,Female,1 year
+2678,A744044,,Dog,Suffering,Male,2 years
+2681,A744712,,Cat,Suffering,Female,1 year
+2682,A744732,Prieta,Cat,Suffering,Female,22 years
+2671,A743703,Andy,Cat,Suffering,Female,19 years
+1967,A705980,,Cat,Suffering,Male,< 1 year
+1585,A696623,King,Dog,Suffering,Male,2 years
+1965,A705884,*Georgina,Cat,Suffering,Female,< 1 year
+792,A676912,,Cat,Suffering,Female,1 year
+794,A676926,,Cat,Suffering,Female,< 1 year
+795,A676937,,Cat,Suffering,Female,< 1 year
+797,A676959,,Cat,Suffering,Female,< 1 year
+798,A676991,Scrappy,Dog,Suffering,Male,17 years
+759,A676004,Scratch,Cat,Suffering,Female,5 years
+765,A676122,,Dog,Suffering,Male,< 1 year
+802,A677131,,Dog,Suffering,Female,2 years
+804,A677143,,Cat,Suffering,Male,2 years
+805,A677199,,Cat,Suffering,Male,9 years
+808,A677262,,Cat,Suffering,Female,13 years
+810,A677301,,Cat,Suffering,Male,4 years
+811,A677356,,Cat,Suffering,Female,< 1 year
+812,A677421,,Cat,Suffering,Male,1 year
+803,A677139,,Cat,Suffering,Male,3 years
+790,A676750,,Cat,Suffering,Male,< 1 year
+788,A676735,Oscar,Cat,Suffering,Male,7 years
+787,A676724,,Cat,Suffering,Male,14 years
+752,A675638,,Cat,Suffering,Male,1 year
+674,A673571,,Dog,Suffering,Male,2 years
+845,A678485,Money,Dog,Suffering,Male,14 years
+766,A676127,,Dog,Suffering,Female,< 1 year
+757,A675894,Cleopatra,Cat,Suffering,Female,7 years
+763,A676108,Orange Cat,Cat,Suffering,Male,10 years
+767,A676136,,Cat,Suffering,Male,1 year
+768,A676219,,Cat,Suffering,Male,12 years
+769,A676227,,Cat,Suffering,Male,12 years
+770,A676231,Spike,Dog,Suffering,Male,4 years
+773,A676242,,Cat,Suffering,Female,3 years
+780,A676561,*Leo,Cat,Suffering,Male,1 year
+784,A676655,,Cat,Suffering,Male,5 years
+813,A677473,,Cat,Suffering,Female,13 years
+814,A677474,Dana,Dog,Suffering,Female,9 years
+816,A677605,Jr,Dog,Suffering,Male,11 years
+817,A677633,,Cat,Suffering,Unknown,< 1 year
+847,A678600,,Dog,Suffering,Female,1 year
+753,A675642,,Dog,Suffering,Male,14 years
+2672,A743730,,Cat,Suffering,Male,8 years
+848,A678606,Louis,Dog,Suffering,Male,< 1 year
+850,A678651,*Meg,Cat,Suffering,Female,10 years
+855,A678851,*Olivia,Cat,Suffering,Female,< 1 year
+857,A678921,Tiddle Bug,Dog,Suffering,Male,12 years
+859,A679029,,Dog,Suffering,Male,< 1 year
+860,A679038,Leona,Cat,Suffering,Female,8 years
+861,A679050,,Cat,Suffering,Unknown,< 1 year
+862,A679060,,Cat,Suffering,Unknown,< 1 year
+863,A679070,,Dog,Suffering,Male,< 1 year
+864,A679091,,Cat,Suffering,Unknown,7 years
+867,A679165,,Cat,Suffering,Female,1 year
+868,A679167,,Cat,Suffering,Male,4 years
+846,A678506,Prec Punkin',Dog,Suffering,Female,11 years
+750,A675577,,Cat,Suffering,Male,1 year
+851,A678663,,Cat,Suffering,Female,< 1 year
+852,A678691,,Cat,Suffering,Female,< 1 year
+760,A676063,,Cat,Suffering,Unknown,1 year
+841,A678338,Infinity,Cat,Suffering,Female,18 years
+818,A677720,Zero,Dog,Suffering,Female,2 years
+643,A672654,Trippy,Dog,Suffering,Male,6 years
+2673,A743731,,Cat,Suffering,Unknown,4 years
+823,A677844,Astro,Dog,Suffering,Male,2 years
+824,A677890,,Cat,Suffering,Female,2 years
+825,A677912,Midnight,Dog,Suffering,Female,16 years
+827,A677943,,Cat,Suffering,Female,3 years
+828,A677944,,Cat,Suffering,Unknown,< 1 year
+829,A677954,Sandy,Dog,Suffering,Female,10 years
+831,A677983,Neo,Dog,Suffering,Male,2 years
+834,A678057,Luna,Dog,Suffering,Female,15 years
+835,A678076,Bo,Dog,Suffering,Male,12 years
+837,A678218,Rocky,Dog,Suffering,Male,11 years
+839,A678276,,Cat,Suffering,Female,3 years
+840,A678293,,Dog,Suffering,Male,6 years
+737,A675166,,Cat,Suffering,Male,3 years
+644,A672694,,Cat,Suffering,Male,3 years
+749,A675554,,Dog,Suffering,Female,3 years
+747,A675480,Boots,Cat,Suffering,Male,10 years
+648,A672777,Snoopy,Cat,Suffering,Male,15 years
+654,A673215,,Cat,Suffering,Female,2 years
+655,A673223,,Dog,Suffering,Female,10 years
+657,A673262,Bonnie P.,Dog,Suffering,Female,< 1 year
+660,A673352,,Cat,Suffering,Female,1 year
+662,A673391,,Dog,Suffering,Male,13 years
+645,A672702,,Dog,Suffering,Female,< 1 year
+663,A673394,Maya,Dog,Suffering,Female,5 years
+668,A673501,Cassandra,Dog,Suffering,Female,1 year
+670,A673526,,Cat,Suffering,Female,8 years
+672,A673557,Oscar,Dog,Suffering,Male,< 1 year
+673,A673564,,Cat,Suffering,Female,1 year
+842,A678398,Unique,Dog,Suffering,Female,10 years
+801,A677088,,Cat,Suffering,Female,< 1 year
+821,A677792,,Cat,Suffering,Female,< 1 year
+736,A675163,,Cat,Suffering,Male,2 years
+667,A673497,,Cat,Suffering,Male,1 year
+638,A672570,,Cat,Suffering,Female,1 year
+640,A672589,,Cat,Suffering,Male,10 years
+642,A672612,,Cat,Suffering,Male,2 years
+615,A671869,,Cat,Suffering,Male,4 years
+618,A671944,,Cat,Suffering,Female,< 1 year
+619,A672007,Maite,Dog,Suffering,Female,< 1 year
+620,A672075,,Cat,Suffering,Male,4 years
+621,A672091,,Dog,Suffering,Female,2 years
+624,A672198,*Teddy,Dog,Suffering,Male,6 years
+625,A672209,,Dog,Suffering,Female,1 year
+627,A672243,,Cat,Suffering,Male,1 year
+629,A672353,Abby,Dog,Suffering,Female,13 years
+630,A672354,,Cat,Suffering,Unknown,10 years
+639,A672585,,Cat,Suffering,Male,1 year
+636,A672533,,Dog,Suffering,Male,4 years
+641,A672601,,Dog,Suffering,Female,< 1 year
+675,A673596,Charlie,Dog,Suffering,Male,15 years
+822,A677841,,Cat,Suffering,Unknown,< 1 year
+678,A673693,,Cat,Suffering,Female,8 years
+679,A673709,,Cat,Suffering,Unknown,1 year
+681,A673771,Dub,Dog,Suffering,Male,2 years
+687,A673935,,Cat,Suffering,Female,2 years
+727,A674998,Buttercup,Cat,Suffering,Female,4 years
+728,A675021,,Cat,Suffering,Female,1 year
+730,A675069,*Spring,Cat,Suffering,Female,10 years
+731,A675072,Kelly,Cat,Suffering,Female,9 years
+733,A675125,,Cat,Suffering,Female,1 year
+734,A675145,,Cat,Suffering,Unknown,2 years
+735,A675159,Barbie,Dog,Suffering,Female,3 years
+739,A675288,,Dog,Suffering,Female,8 years
+740,A675299,Cosmo,Cat,Suffering,Female,5 years
+1178,A686926,,Cat,Suffering,Female,13 years
+744,A675352,,Dog,Suffering,Female,6 years
+1729,A700752,,Cat,Suffering,Unknown,5 years
+746,A675426,,Cat,Suffering,Female,12 years
+726,A674902,,Dog,Suffering,Female,< 1 year
+748,A675535,,Cat,Suffering,Female,1 year
+725,A674873,,Cat,Suffering,Female,1 year
+722,A674746,Toby,Dog,Suffering,Male,3 years
+688,A673944,,Cat,Suffering,Male,4 years
+689,A673947,*Baby,Dog,Suffering,Female,3 years
+690,A673970,,Cat,Suffering,Male,1 year
+693,A674093,,Dog,Suffering,Male,10 years
+694,A674096,,Cat,Suffering,Male,2 years
+696,A674150,Angel,Dog,Suffering,Female,9 years
+698,A674160,Mya,Cat,Suffering,Female,10 years
+700,A674210,,Cat,Suffering,Male,2 years
+1026,A683491,,Dog,Suffering,Female,2 years
+896,A679907,Oliver,Cat,Suffering,Male,< 1 year
+711,A674506,,Dog,Suffering,Male,4 years
+713,A674518,Scooter,Cat,Suffering,Female,14 years
+716,A674601,*Sheila,Dog,Suffering,Female,< 1 year
+718,A674656,,Dog,Suffering,Female,7 years
+720,A674702,,Dog,Suffering,Male,3 years
+723,A674783,Yogi,Dog,Suffering,Male,10 years
+870,A679250,Thor,Dog,Suffering,Male,8 years
+873,A679303,,Dog,Suffering,Female,3 years
+874,A679380,,Cat,Suffering,Male,3 years
+1016,A683224,,Cat,Suffering,Male,< 1 year
+1017,A683255,*Arthur,Cat,Suffering,Male,< 1 year
+1019,A683303,,Cat,Suffering,Male,< 1 year
+1021,A683310,,Dog,Suffering,Male,< 1 year
+708,A674476,*Fiona,Cat,Suffering,Female,3 years
+928,A680731,Boo Boo,Cat,Suffering,Unknown,10 years
+1014,A683189,,Cat,Suffering,Female,< 1 year
+1030,A683586,,Cat,Suffering,Female,12 years
+1031,A683587,Nubbins,Cat,Suffering,Male,8 years
+1032,A683618,,Cat,Suffering,Male,< 1 year
+1034,A683634,,Cat,Suffering,Male,4 years
+1035,A683649,,Cat,Suffering,Female,7 years
+1028,A683533,Keah,Cat,Suffering,Female,8 years
+1013,A683084,,Cat,Suffering,Female,12 years
+1011,A683016,,Cat,Suffering,Male,< 1 year
+1010,A682965,,Dog,Suffering,Male,10 years
+989,A682447,,Cat,Suffering,Female,< 1 year
+990,A682489,,Cat,Suffering,Male,10 years
+991,A682530,Minnie,Dog,Suffering,Female,14 years
+992,A682539,,Cat,Suffering,Unknown,< 1 year
+993,A682574,,Cat,Suffering,Unknown,< 1 year
+1022,A683354,,Dog,Suffering,Male,3 years
+705,A674425,Amy,Dog,Suffering,Female,8 years
+999,A682690,,Cat,Suffering,Unknown,1 year
+1002,A682769,,Dog,Suffering,Male,5 years
+1003,A682772,,Cat,Suffering,Female,8 years
+1004,A682866,,Cat,Suffering,Female,7 years
+1005,A682883,Sunshine,Dog,Suffering,Female,12 years
+1006,A682891,*Leo,Dog,Suffering,Male,1 year
+1008,A682912,,Cat,Suffering,Male,< 1 year
+1009,A682922,,Cat,Suffering,Female,2 years
+1037,A683661,Gracie,Cat,Suffering,Female,11 years
+1040,A683775,Logan,Cat,Suffering,Male,6 years
+1041,A683804,L.J.,Cat,Suffering,Female,1 year
+1042,A683830,,Cat,Suffering,Male,10 years
+1079,A684370,,Cat,Suffering,Unknown,15 years
+1080,A684396,,Dog,Suffering,Male,< 1 year
+1027,A683519,,Cat,Suffering,Female,< 1 year
+1029,A683571,,Cat,Suffering,Male,< 1 year
+1081,A684400,Riley,Dog,Suffering,Male,9 years
+1082,A684407,Snow,Dog,Suffering,Female,9 years
+1083,A684441,,Cat,Suffering,Male,1 year
+1046,A683879,,Cat,Suffering,Male,< 1 year
+1085,A684461,,Dog,Suffering,Male,15 years
+1086,A684538,Tui,Cat,Suffering,Male,1 year
+1087,A684665,,Dog,Suffering,Female,4 years
+1088,A684698,,Cat,Suffering,Male,< 1 year
+1089,A684711,*Wally,Cat,Suffering,Male,< 1 year
+1090,A684731,*Benny,Cat,Suffering,Male,< 1 year
+1091,A684751,,Cat,Suffering,Female,2 years
+1093,A684803,Oscar,Dog,Suffering,Male,13 years
+1094,A684817,,Cat,Suffering,Male,< 1 year
+1078,A684369,,Dog,Suffering,Male,2 years
+988,A682431,,Cat,Suffering,Unknown,< 1 year
+1077,A684336,,Cat,Suffering,Male,< 1 year
+1072,A684297,Dj,Dog,Suffering,Male,< 1 year
+994,A682585,,Dog,Suffering,Female,8 years
+984,A682109,,Cat,Suffering,Male,< 1 year
+1048,A683899,,Cat,Suffering,Female,2 years
+1049,A683920,,Dog,Suffering,Female,2 years
+1050,A683930,,Dog,Suffering,Female,< 1 year
+1051,A683941,,Cat,Suffering,Male,1 year
+1052,A683973,,Cat,Suffering,Male,5 years
+1054,A684040,Patch,Dog,Suffering,Female,16 years
+1057,A684059,,Cat,Suffering,Male,< 1 year
+1058,A684066,,Cat,Suffering,Male,< 1 year
+1059,A684097,,Cat,Suffering,Female,< 1 year
+1060,A684110,,Cat,Suffering,Female,< 1 year
+1061,A684116,Niblet,Cat,Suffering,Male,12 years
+1062,A684158,,Cat,Suffering,Male,1 year
+1065,A684266,,Cat,Suffering,Male,< 1 year
+1073,A684306,Shadow,Dog,Suffering,Male,14 years
+1044,A683840,,Dog,Suffering,Female,12 years
+996,A682657,,Cat,Suffering,Female,< 1 year
+983,A682074,,Dog,Suffering,Female,8 years
+894,A679796,James,Cat,Suffering,Male,17 years
+905,A680097,,Cat,Suffering,Unknown,< 1 year
+904,A680096,,Cat,Suffering,Unknown,< 1 year
+908,A680177,,Dog,Suffering,Male,< 1 year
+909,A680222,,Cat,Suffering,Unknown,< 1 year
+910,A680223,,Cat,Suffering,Unknown,< 1 year
+911,A680235,,Cat,Suffering,Male,10 years
+912,A680239,,Cat,Suffering,Unknown,2 years
+913,A680257,,Cat,Suffering,Male,2 years
+915,A680320,,Cat,Suffering,Unknown,< 1 year
+916,A680330,,Cat,Suffering,Male,< 1 year
+919,A680372,,Cat,Suffering,Female,< 1 year
+920,A680373,Kate,Cat,Suffering,Female,< 1 year
+923,A680529,,Cat,Suffering,Male,< 1 year
+924,A680542,,Cat,Suffering,Male,2 years
+895,A679896,,Cat,Suffering,Female,< 1 year
+925,A680592,,Cat,Suffering,Male,1 year
+987,A682381,Oreo,Dog,Suffering,Female,8 years
+1084,A684444,,Dog,Suffering,Male,< 1 year
+903,A680095,,Cat,Suffering,Unknown,< 1 year
+900,A680049,,Cat,Suffering,Female,< 1 year
+875,A679382,,Cat,Suffering,Male,< 1 year
+878,A679458,*Ava,Cat,Suffering,Female,< 1 year
+880,A679486,*Bernice,Cat,Suffering,Female,10 years
+881,A679525,,Cat,Suffering,Female,10 years
+887,A679631,Callie,Cat,Suffering,Female,12 years
+889,A679655,,Cat,Suffering,Male,2 years
+890,A679659,,Dog,Suffering,Male,< 1 year
+891,A679678,*Crumbs,Cat,Suffering,Male,< 1 year
+892,A679680,*Toffee,Cat,Suffering,Male,< 1 year
+893,A679795,,Cat,Suffering,Male,< 1 year
+926,A680608,,Cat,Suffering,Unknown,< 1 year
+231,A644724,Fluffy,Dog,Suffering,Male,9 years
+935,A680811,,Dog,Suffering,Female,1 year
+902,A680094,,Cat,Suffering,Unknown,< 1 year
+613,A671687,,Dog,Suffering,Female,13 years
+929,A680751,,Cat,Suffering,Female,< 1 year
+931,A680767,,Dog,Suffering,Female,2 years
+964,A681611,,Cat,Suffering,Male,< 1 year
+965,A681635,,Dog,Suffering,Female,14 years
+966,A681643,,Cat,Suffering,Male,10 years
+967,A681697,,Cat,Suffering,Male,< 1 year
+968,A681698,Rocky,Dog,Suffering,Male,< 1 year
+969,A681701,,Cat,Suffering,Male,< 1 year
+970,A681707,*Bear,Cat,Suffering,Male,< 1 year
+974,A681871,,Cat,Suffering,Female,8 years
+975,A681883,,Cat,Suffering,Male,10 years
+976,A681899,,Cat,Suffering,Unknown,3 years
+977,A681938,*Martha,Cat,Suffering,Female,< 1 year
+946,A681104,,Cat,Suffering,Female,7 years
+947,A681140,,Cat,Suffering,Unknown,< 1 year
+981,A682065,Baby,Cat,Suffering,Female,< 1 year
+982,A682073,,Dog,Suffering,Female,3 years
+956,A681363,,Cat,Suffering,Male,10 years
+930,A680763,,Dog,Suffering,Female,1 year
+955,A681307,*Scarlet,Cat,Suffering,Female,6 years
+953,A681234,,Dog,Suffering,Male,10 years
+934,A680804,,Cat,Suffering,Male,7 years
+937,A680823,,Cat,Suffering,Female,< 1 year
+938,A680869,*Ponyboy,Cat,Suffering,Male,< 1 year
+939,A680890,,Dog,Suffering,Female,2 years
+940,A680977,,Dog,Suffering,Female,< 1 year
+941,A680995,,Cat,Suffering,Unknown,< 1 year
+979,A682054,Tom,Cat,Suffering,Female,< 1 year
+980,A682062,,Dog,Suffering,Male,13 years
+19,A325999,Precious,Dog,Suffering,Female,12 years
+949,A681153,,Cat,Suffering,Male,< 1 year
+952,A681229,,Dog,Suffering,Male,1 year
+954,A681273,,Dog,Suffering,Female,2 years
+1097,A684875,,Dog,Suffering,Female,< 1 year
+612,A671639,,Dog,Suffering,Female,2 years
+608,A671541,Buddy,Dog,Suffering,Male,10 years
+216,A637451,Panther,Cat,Suffering,Male,5 years
+219,A638475,*Bluebird,Cat,Suffering,Female,3 years
+220,A638819,Princess,Dog,Suffering,Female,10 years
+221,A639771,Lady,Dog,Suffering,Female,11 years
+225,A641250,*Rocky,Cat,Suffering,Male,2 years
+226,A641887,Franny,Dog,Suffering,Female,9 years
+212,A636638,Stella,Dog,Suffering,Female,6 years
+227,A641952,Negra,Dog,Suffering,Female,7 years
+942,A681001,,Cat,Suffering,Female,10 years
+233,A645246,Tyson,Dog,Suffering,Male,2 years
+899,A680041,,Dog,Suffering,Female,12 years
+249,A649970,*Thallo,Cat,Suffering,Male,5 years
+252,A650104,Katie,Dog,Suffering,Female,3 years
+253,A650635,,Cat,Suffering,Male,3 years
+229,A642867,,Cat,Suffering,Female,2 years
+211,A635622,*Quinn,Dog,Suffering,Male,10 years
+205,A631224,Gray Scale,Cat,Suffering,Male,15 years
+198,A628319,Gringa,Dog,Suffering,Female,9 years
+145,A601822,Rabi,Cat,Suffering,Male,4 years
+155,A610632,Dottie,Dog,Suffering,Female,6 years
+160,A612620,Charlie,Dog,Suffering,Male,7 years
+167,A614458,Rex,Dog,Suffering,Male,8 years
+170,A615748,Blackie,Dog,Suffering,Male,5 years
+177,A618687,Buddy,Dog,Suffering,Male,12 years
+948,A681148,Angel,Cat,Suffering,Male,14 years
+181,A619170,Golosa,Dog,Suffering,Female,10 years
+950,A681155,Jeff,Dog,Suffering,Male,2 years
+182,A619269,Princessa,Dog,Suffering,Female,2 years
+183,A619960,*Mambo,Cat,Suffering,Male,6 years
+284,A661776,,Cat,Suffering,Female,6 years
+897,A679939,Tom,Cat,Suffering,Male,2 years
+188,A622036,,Cat,Suffering,Male,4 years
+194,A625626,Olenta,Dog,Suffering,Female,7 years
+195,A625940,,Cat,Suffering,Male,8 years
+196,A627950,*Daisy,Dog,Suffering,Female,9 years
+256,A651257,,Cat,Suffering,Male,9 years
+258,A651657,,Cat,Suffering,Male,5 years
+260,A652379,Bubba,Cat,Suffering,Male,4 years
+262,A653125,Chiquilin,Dog,Suffering,Male,3 years
+334,A664712,,Dog,Suffering,Unknown,< 1 year
+337,A664723,,Cat,Suffering,Female,7 years
+338,A664740,,Cat,Suffering,Female,< 1 year
+340,A664794,,Cat,Suffering,Male,< 1 year
+288,A661933,*Nutella,Cat,Suffering,Female,10 years
+289,A662427,Polly,Cat,Suffering,Female,7 years
+343,A664834,,Dog,Suffering,Female,1 year
+347,A664926,,Dog,Suffering,Female,2 years
+349,A664944,Fuzzyball,Cat,Suffering,Male,10 years
+350,A664945,,Dog,Suffering,Male,10 years
+351,A664954,,Cat,Suffering,Male,< 1 year
+352,A664977,,Dog,Suffering,Male,4 years
+353,A664982,,Dog,Suffering,Female,15 years
+354,A664989,,Dog,Suffering,Male,< 1 year
+355,A665078,,Cat,Suffering,Female,4 years
+333,A664711,,Cat,Suffering,Female,5 years
+143,A600617,Gypsie,Cat,Suffering,Female,9 years
+332,A664686,Rock,Dog,Suffering,Male,2 years
+328,A664475,,Dog,Suffering,Male,2 years
+266,A656520,Emily,Cat,Suffering,Female,1 year
+345,A664872,,Cat,Suffering,Male,3 years
+346,A664924,Frijolito,Dog,Suffering,Male,2 years
+20,A334065,Romeo,Dog,Suffering,Male,12 years
+21,A335950,Doyle,Dog,Suffering,Male,12 years
+24,A346884,Dolly,Dog,Suffering,Female,11 years
+134,A594904,Tashi,Dog,Suffering,Male,5 years
+302,A663527,Taboo,Cat,Suffering,Female,8 years
+310,A663938,,Dog,Suffering,Male,10 years
+314,A664042,,Dog,Suffering,Male,2 years
+316,A664193,*Carrie,Cat,Suffering,Female,< 1 year
+317,A664233,Stevie,Dog,Suffering,Female,3 years
+318,A664234,,Dog,Suffering,Male,8 years
+322,A664288,,Cat,Suffering,Male,2 years
+325,A664329,,Cat,Suffering,Male,< 1 year
+326,A664386,,Cat,Suffering,Female,12 years
+327,A664459,Miss Kitty,Cat,Suffering,Female,8 years
+331,A664683,,Cat,Suffering,Male,4 years
+356,A665097,Brittney,Dog,Suffering,Female,7 years
+142,A599155,Machete,Dog,Suffering,Male,4 years
+23,A337859,Benny,Dog,Suffering,Male,14 years
+296,A663324,*Minnie,Cat,Suffering,Female,< 1 year
+187,A621845,Dutchess,Dog,Suffering,Female,9 years
+25,A358879,Simba,Dog,Suffering,Male,13 years
+26,A367012,Miller,Dog,Suffering,Male,11 years
+27,A378353,Lyla,Dog,Suffering,Female,10 years
+29,A380506,Ruby,Dog,Suffering,Female,12 years
+22,A337187,Buster,Dog,Suffering,Male,12 years
+30,A383036,Oreo,Cat,Suffering,Male,14 years
+32,A427866,Gus,Dog,Suffering,Male,8 years
+33,A430501,Rosie,Dog,Suffering,Female,11 years
+34,A430671,,Dog,Suffering,Female,8 years
+39,A466858,Snowball,Cat,Suffering,Female,8 years
+40,A467213,Moon Shadow,Cat,Suffering,Female,8 years
+44,A476874,Dolla,Dog,Suffering,Female,9 years
+31,A419161,Atom,Cat,Suffering,Male,17 years
+185,A620557,Button,Cat,Suffering,Female,13 years
+247,A649490,Misty,Cat,Suffering,Female,4 years
+936,A680812,,Cat,Suffering,Female,< 1 year
+447,A667257,,Dog,Suffering,Female,7 years
+141,A598424,Shark,Dog,Suffering,Male,4 years
+564,A670354,Buddy,Dog,Suffering,Male,2 years
+4,A221327,Jamie,Dog,Suffering,Female,16 years
+5,A230482,Dakota Dean,Dog,Suffering,Male,13 years
+7,A254503,Daisy,Dog,Suffering,Female,17 years
+8,A258441,Spring,Cat,Suffering,Female,14 years
+9,A261770,Halo,Cat,Suffering,Male,20 years
+10,A268022,China,Dog,Suffering,Female,13 years
+13,A283735,Angel,Dog,Suffering,Female,13 years
+14,A298677,Polly,Dog,Suffering,Female,13 years
+15,A305674,Crystal,Dog,Suffering,Female,12 years
+16,A307398,Bacca,Dog,Suffering,Female,13 years
+17,A318574,Huey,Cat,Suffering,Male,13 years
+18,A318615,Buddy,Dog,Suffering,Male,14 years
+46,A482046,Charlie,Dog,Suffering,Male,7 years
+49,A489503,Dezi,Cat,Suffering,Female,7 years
+50,A490091,Oreo,Dog,Suffering,Female,9 years
+51,A491810,Katie,Dog,Suffering,Female,8 years
+94,A552202,Delores,Dog,Suffering,Female,9 years
+97,A559240,Chikita,Dog,Suffering,Female,19 years
+98,A559331,Kat,Cat,Suffering,Male,10 years
+102,A562649,,Dog,Suffering,Female,14 years
+104,A563397,Braxton,Dog,Suffering,Male,11 years
+109,A567057,Rocky,Dog,Suffering,Male,10 years
+110,A567323,Tiffany,Dog,Suffering,Female,7 years
+112,A568306,Roscoe,Cat,Suffering,Male,9 years
+114,A570611,Buster,Dog,Suffering,Male,16 years
+115,A575017,Sam,Dog,Suffering,Male,16 years
+133,A594492,Trey,Dog,Suffering,Male,9 years
+540,A669785,,Cat,Suffering,Male,2 years
+80,A542712,Harmony,Cat,Suffering,Female,4 years
+91,A550885,Princess,Dog,Suffering,Female,13 years
+541,A669811,Quico Kico,Dog,Suffering,Male,7 years
+542,A669839,Aurora,Dog,Suffering,Female,4 years
+86,A547803,Sheba,Dog,Suffering,Female,17 years
+52,A493761,Shorte,Dog,Suffering,Male,13 years
+53,A494990,Milo,Dog,Suffering,Male,11 years
+54,A496789,Arabella,Cat,Suffering,Female,7 years
+59,A507728,Roxie,Dog,Suffering,Female,11 years
+60,A508027,Sasha,Dog,Suffering,Female,9 years
+61,A509204,Fiona,Dog,Suffering,Female,12 years
+64,A520195,Trudy,Cat,Suffering,Female,5 years
+65,A522952,Kira,Dog,Suffering,Female,9 years
+68,A527094,Onix,Cat,Suffering,Male,10 years
+72,A532455,Crumpet,Dog,Suffering,Male,8 years
+74,A537149,Lucky,Dog,Suffering,Male,7 years
+126,A584516,Scooby,Dog,Suffering,Male,8 years
+93,A551669,Salem,Cat,Suffering,Male,7 years
+76,A538454,Dolly,Dog,Suffering,Female,8 years
+544,A669880,,Cat,Suffering,Female,10 years
+90,A548948,Ivory,Dog,Suffering,Female,7 years
+357,A665134,Cosita,Dog,Suffering,Female,1 year
+358,A665136,,Cat,Suffering,Male,< 1 year
+360,A665142,Pascal,Dog,Suffering,Male,13 years
+527,A669561,,Dog,Suffering,Male,5 years
+528,A669563,Killer,Dog,Suffering,Male,2 years
+529,A669576,,Cat,Suffering,Female,8 years
+530,A669580,Biscuit,Dog,Suffering,Female,13 years
+531,A669603,*Gimpy Cb,Cat,Suffering,Female,< 1 year
+535,A669667,,Dog,Suffering,Female,2 years
+526,A669556,,Cat,Suffering,Female,< 1 year
+536,A669711,Napoleon,Dog,Suffering,Male,17 years
+82,A543377,Tasha,Cat,Suffering,Female,6 years
+83,A544916,Blue,Dog,Suffering,Male,13 years
+117,A576207,,Cat,Suffering,Male,4 years
+120,A578097,Juno,Cat,Suffering,Female,6 years
+512,A669195,Mimi,Dog,Suffering,Female,12 years
+587,A671024,,Cat,Suffering,Female,1 year
+546,A669925,Tugga,Cat,Suffering,Male,2 years
+386,A665795,,Cat,Suffering,Male,< 1 year
+593,A671169,,Cat,Suffering,Female,18 years
+525,A669550,,Cat,Suffering,Female,15 years
+522,A669461,Kahlua,Dog,Suffering,Female,13 years
+519,A669403,,Cat,Suffering,Female,< 1 year
+494,A668631,,Dog,Suffering,Male,1 year
+495,A668632,,Dog,Suffering,Female,3 years
+498,A668726,,Cat,Suffering,Female,1 year
+503,A668954,,Cat,Suffering,Unknown,< 1 year
+505,A668981,Rudolph,Cat,Suffering,Male,12 years
+507,A669086,,Cat,Suffering,Male,2 years
+594,A671187,,Dog,Suffering,Male,1 year
+563,A670347,Ottis,Dog,Suffering,Male,13 years
+511,A669158,,Cat,Suffering,Female,4 years
+517,A669367,Tabbie,Cat,Suffering,Male,18 years
+499,A668802,,Dog,Suffering,Male,< 1 year
+515,A669308,,Dog,Suffering,Female,< 1 year
+516,A669326,Turbo,Cat,Suffering,Male,1 year
+518,A669371,Mickey,Cat,Suffering,Male,9 years
+549,A669966,,Cat,Suffering,Female,< 1 year
+513,A669212,,Cat,Suffering,Male,< 1 year
+552,A670044,,Cat,Suffering,Male,3 years
+590,A671063,*Jake,Cat,Suffering,Male,< 1 year
+554,A670092,,Dog,Suffering,Female,5 years
+555,A670195,,Cat,Suffering,Female,2 years
+588,A671059,,Cat,Suffering,Female,< 1 year
+589,A671060,*Jimmy,Cat,Suffering,Male,< 1 year
+591,A671157,,Cat,Suffering,Female,< 1 year
+500,A668822,,Cat,Suffering,Unknown,< 1 year
+1,A214991,Prissy,Cat,Suffering,Female,19 years
+560,A670310,*Toney,Cat,Suffering,Male,< 1 year
+545,A669884,,Cat,Suffering,Unknown,< 1 year
+596,A671248,,Dog,Suffering,Female,2 years
+597,A671289,,Cat,Suffering,Male,2 years
+599,A671345,Miles,Cat,Suffering,Male,15 years
+600,A671380,,Dog,Suffering,Male,10 years
+601,A671383,Cj,Cat,Suffering,Male,3 years
+602,A671439,Faith,Dog,Suffering,Female,14 years
+607,A671488,Whiskers,Cat,Suffering,Female,20 years
+586,A670980,,Dog,Suffering,Male,< 1 year
+385,A665786,Woodrow,Cat,Suffering,Male,15 years
+3,A218624,Cookie,Dog,Suffering,Male,15 years
+493,A668626,,Dog,Suffering,Male,3 years
+581,A670765,,Dog,Suffering,Female,12 years
+579,A670727,,Dog,Suffering,Male,< 1 year
+556,A670218,,Dog,Suffering,Female,< 1 year
+561,A670328,,Cat,Suffering,Male,1 year
+557,A670260,,Dog,Suffering,Female,12 years
+476,A668300,,Cat,Suffering,Male,8 years
+565,A670358,,Dog,Suffering,Male,2 years
+566,A670388,,Cat,Suffering,Male,12 years
+568,A670460,,Dog,Suffering,Female,1 year
+569,A670468,Cat 1,Cat,Suffering,Female,3 years
+571,A670518,Paloma,Dog,Suffering,Female,15 years
+572,A670578,,Cat,Suffering,Female,5 years
+573,A670595,Grace,Dog,Suffering,Female,16 years
+575,A670632,,Cat,Suffering,Male,1 year
+577,A670685,,Cat,Suffering,Male,< 1 year
+580,A670760,,Dog,Suffering,Male,< 1 year
+491,A668575,Zoey Beth,Cat,Suffering,Female,< 1 year
+480,A668413,,Cat,Suffering,Male,< 1 year
+537,A669728,Mellow,Cat,Suffering,Female,13 years
+595,A671227,*Doodlebug,Dog,Suffering,Male,9 years
+475,A668252,Fredo,Dog,Suffering,Male,14 years
+2,A218622,Oliver,Dog,Suffering,Male,15 years
+1704,A699962,,Dog,Suffering,Female,10 years
+391,A665963,Evelyn,Cat,Suffering,Female,2 years
+392,A666068,,Dog,Suffering,Male,12 years
+393,A666083,,Cat,Suffering,Male,< 1 year
+395,A666124,,Dog,Suffering,Female,6 years
+396,A666156,,Dog,Suffering,Male,9 years
+398,A666172,Midnight,Dog,Suffering,Female,2 years
+401,A666186,,Cat,Suffering,Female,2 years
+403,A666209,Guy,Cat,Suffering,Male,5 years
+404,A666253,*Sybil,Dog,Suffering,Female,9 years
+406,A666272,,Dog,Suffering,Female,< 1 year
+408,A666291,,Dog,Suffering,Female,7 years
+384,A665784,Copy Cat,Cat,Suffering,Female,15 years
+409,A666314,U,Cat,Suffering,Male,< 1 year
+383,A665776,,Dog,Suffering,Male,1 year
+382,A665689,,Cat,Suffering,Female,5 years
+434,A666905,,Dog,Suffering,Male,2 years
+362,A665157,,Cat,Suffering,Male,2 years
+364,A665189,,Cat,Suffering,Male,< 1 year
+365,A665190,,Cat,Suffering,Male,14 years
+368,A665244,Latte,Dog,Suffering,Male,13 years
+369,A665252,,Cat,Suffering,Male,< 1 year
+370,A665256,Jerry,Cat,Suffering,Male,1 year
+372,A665376,,Dog,Suffering,Male,8 years
+374,A665444,,Cat,Suffering,Female,< 1 year
+375,A665484,,Cat,Suffering,Male,< 1 year
+376,A665559,Iggy,Dog,Suffering,Male,10 years
+377,A665571,,Cat,Suffering,Male,< 1 year
+378,A665640,,Cat,Suffering,Female,< 1 year
+379,A665645,,Cat,Suffering,Male,3 years
+361,A665152,,Dog,Suffering,Female,< 1 year
+435,A666990,,Cat,Suffering,Female,< 1 year
+610,A671623,,Cat,Suffering,Male,10 years
+449,A667299,,Cat,Suffering,Unknown,1 year
+452,A667410,,Dog,Suffering,Female,1 year
+453,A667499,,Cat,Suffering,Male,< 1 year
+454,A667511,,Cat,Suffering,Female,< 1 year
+458,A667543,,Cat,Suffering,Male,6 years
+459,A667590,*Mikey,Cat,Suffering,Male,< 1 year
+461,A667635,,Cat,Suffering,Unknown,< 1 year
+462,A667755,*Nathan,Cat,Suffering,Male,< 1 year
+463,A667836,,Cat,Suffering,Male,9 years
+464,A667883,,Dog,Suffering,Female,< 1 year
+469,A668113,Tiger,Dog,Suffering,Male,9 years
+471,A668179,,Dog,Suffering,Male,1 year
+472,A668180,,Dog,Suffering,Male,10 years
+473,A668196,,Cat,Suffering,Female,5 years
+380,A665673,,Cat,Suffering,Male,< 1 year
+381,A665685,,Dog,Suffering,Female,2 years
+412,A666353,,Cat,Suffering,Female,< 1 year
+445,A667225,,Dog,Suffering,Female,9 years
+439,A667094,,Dog,Suffering,Male,1 year
+414,A666403,Nala,Dog,Suffering,Female,13 years
+415,A666404,Sassy,Dog,Suffering,Female,16 years
+416,A666407,,Cat,Suffering,Male,< 1 year
+417,A666423,,Dog,Suffering,Female,2 years
+418,A666489,,Cat,Suffering,Female,< 1 year
+419,A666511,,Dog,Suffering,Male,9 years
+422,A666536,,Cat,Suffering,Female,< 1 year
+423,A666546,Ami*,Cat,Suffering,Female,< 1 year
+425,A666611,,Cat,Suffering,Male,12 years
+426,A666745,,Cat,Suffering,Male,1 year
+427,A666789,Cindy,Dog,Suffering,Female,< 1 year
+410,A666319,,Cat,Suffering,Female,8 years
+413,A666359,,Dog,Suffering,Female,10 years
+428,A666832,*Charlie,Cat,Suffering,Male,< 1 year
+389,A665900,*Benjamin,Cat,Suffering,Male,12 years
+1720,A700357,,Dog,Suffering,Female,< 1 year
+1702,A699942,Tuby,Cat,Suffering,Male,17 years
+444,A667206,,Cat,Suffering,Male,2 years
+1966,A705979,,Cat,Suffering,Male,10 years
+1098,A684897,,Cat,Suffering,Female,1 year
+1103,A684976,,Cat,Suffering,Unknown,6 years
+1690,A699557,Tortoise,Cat,Suffering,Female,13 years
+1692,A699570,Lee,Cat,Suffering,Male,5 years
+1693,A699573,,Dog,Suffering,Female,7 years
+1695,A699736,Princess,Dog,Suffering,Female,12 years
+1696,A699749,,Cat,Suffering,Female,10 years
+1697,A699752,K.C.,Dog,Suffering,Unknown,14 years
+1689,A699549,,Dog,Suffering,Male,3 years
+1698,A699793,,Dog,Suffering,Female,8 years
+1701,A699884,,Cat,Suffering,Unknown,2 years
+1703,A699957,Lear,Cat,Suffering,Male,10 years
+436,A667066,,Dog,Suffering,Female,12 years
+390,A665953,,Cat,Suffering,Male,8 years
+1708,A700039,,Cat,Suffering,Male,2 years
+1710,A700170,Haze,Dog,Suffering,Female,< 1 year
+1699,A699827,,Dog,Suffering,Female,< 1 year
+1688,A699530,,Cat,Suffering,Female,< 1 year
+1687,A699507,,Cat,Suffering,Unknown,2 years
+1686,A699502,,Cat,Suffering,Female,1 year
+1661,A698635,,Cat,Suffering,Female,< 1 year
+1662,A698641,Sampson,Dog,Suffering,Male,10 years
+1663,A698692,,Cat,Suffering,Male,2 years
+1664,A698697,Daisy,Cat,Suffering,Female,14 years
+1665,A698781,Sandy,Dog,Suffering,Female,3 years
+1671,A698862,*Pickles,Cat,Suffering,Female,2 years
+1672,A698883,,Cat,Suffering,Male,1 year
+1675,A699014,,Cat,Suffering,Unknown,< 1 year
+1674,A698981,,Cat,Suffering,Female,1 year
+1677,A699092,,Cat,Suffering,Male,5 years
+1760,A701659,,Cat,Suffering,Female,< 1 year
+1758,A701506,,Cat,Suffering,Female,10 years
+1683,A699387,Javier,Cat,Suffering,Female,14 years
+1684,A699423,,Cat,Suffering,Male,2 years
+1685,A699493,,Cat,Suffering,Male,5 years
+1715,A700218,,Cat,Suffering,Male,2 years
+1717,A700274,,Cat,Suffering,Male,5 years
+1719,A700354,,Cat,Suffering,Male,4 years
+128,A586273,Midnight,Dog,Suffering,Male,9 years
+1748,A701189,Lando,Cat,Suffering,Unknown,3 years
+1750,A701292,,Cat,Suffering,Male,13 years
+1751,A701305,,Dog,Suffering,Female,1 year
+1753,A701338,,Dog,Suffering,Female,13 years
+1756,A701394,,Cat,Suffering,Male,2 years
+1757,A701404,,Dog,Suffering,Female,14 years
+1759,A701572,*Bingo,Dog,Suffering,Male,11 years
+1680,A699284,,Dog,Suffering,Male,2 years
+1725,A700528,Booboo,Dog,Suffering,Male,14 years
+1762,A701693,,Cat,Suffering,Male,2 years
+1765,A701757,Alliah,Dog,Suffering,Female,1 year
+1766,A701762,,Dog,Suffering,Female,3 years
+1767,A701778,Macho,Dog,Suffering,Male,4 years
+1769,A701827,Coco,Dog,Suffering,Female,1 year
+1771,A701914,,Cat,Suffering,Male,4 years
+1746,A701186,,Cat,Suffering,Male,2 years
+1660,A698626,*Oscar,Cat,Suffering,Male,12 years
+1745,A701161,Annabelle,Cat,Suffering,Female,13 years
+1743,A701126,,Cat,Suffering,Unknown,5 years
+1721,A700389,,Cat,Suffering,Male,2 years
+1722,A700419,,Dog,Suffering,Male,10 years
+1724,A700477,,Dog,Suffering,Female,< 1 year
+1678,A699136,,Cat,Suffering,Male,6 years
+1419,A692535,*Oswald,Cat,Suffering,Female,12 years
+1368,A691702,,Cat,Suffering,Unknown,< 1 year
+1589,A696708,,Cat,Suffering,Male,8 years
+1590,A696716,Biggie,Cat,Suffering,Male,13 years
+1733,A700776,,Cat,Suffering,Unknown,< 1 year
+1735,A700815,,Cat,Suffering,Male,2 years
+1736,A700865,Jasmine,Dog,Suffering,Female,1 year
+1737,A700948,,Dog,Suffering,Unknown,9 years
+1738,A700984,Minnie,Cat,Suffering,Female,1 year
+1740,A701074,,Cat,Suffering,Male,< 1 year
+1741,A701110,Bambi,Dog,Suffering,Female,3 years
+1744,A701143,,Cat,Suffering,Male,5 years
+1658,A698582,,Cat,Suffering,Male,1 year
+1657,A698581,Lucky,Dog,Suffering,Male,4 years
+1656,A698578,,Cat,Suffering,Female,1 year
+3190,A788522,,Cat,Suffering,Female,< 1 year
+1586,A696628,,Cat,Suffering,Male,1 year
+1588,A696705,,Cat,Suffering,Male,10 years
+1551,A695798,Jim,Cat,Suffering,Male,< 1 year
+1556,A695944,,Cat,Suffering,Male,4 years
+1591,A696721,,Cat,Suffering,Male,1 year
+1592,A696735,,Cat,Suffering,Male,2 years
+1593,A696752,,Dog,Suffering,Female,2 years
+1594,A696760,Chance,Dog,Suffering,Male,3 years
+1595,A696795,Talia,Dog,Suffering,Female,13 years
+1596,A696858,Olive Oil,Dog,Suffering,Female,< 1 year
+1597,A696876,,Cat,Suffering,Unknown,1 year
+1600,A696960,,Cat,Suffering,Male,2 years
+1601,A696984,,Dog,Suffering,Male,2 years
+1602,A696996,,Cat,Suffering,Male,7 years
+1584,A696598,,Cat,Suffering,Male,1 year
+1603,A697049,*Marigold,Cat,Suffering,Female,1 year
+1912,A704775,,Cat,Suffering,Male,3 years
+1655,A698574,,Cat,Suffering,Female,2 years
+1557,A695954,,Dog,Suffering,Female,5 years
+1579,A696517,,Cat,Suffering,Male,2 years
+1555,A695935,,Cat,Suffering,Male,2 years
+1558,A695971,,Cat,Suffering,Male,6 years
+1559,A695984,,Dog,Suffering,Male,< 1 year
+1561,A696014,,Dog,Suffering,Male,< 1 year
+1562,A696033,,Cat,Suffering,Female,1 year
+1567,A696274,,Cat,Suffering,Male,1 year
+1571,A696319,,Dog,Suffering,Male,12 years
+1572,A696366,,Cat,Suffering,Male,5 years
+1575,A696451,,Dog,Suffering,Male,2 years
+1576,A696454,*Polar,Dog,Suffering,Male,11 years
+1577,A696478,Max,Dog,Suffering,Male,1 year
+1581,A696527,,Cat,Suffering,Male,< 1 year
+1772,A701957,Sugar,Dog,Suffering,Female,2 years
+1582,A696540,*Robbie,Dog,Suffering,Male,5 years
+1957,A705826,,Dog,Suffering,Female,< 1 year
+1604,A697081,,Cat,Suffering,Male,2 years
+1608,A697148,,Dog,Suffering,Male,4 years
+1640,A698148,,Cat,Suffering,Male,5 years
+1641,A698154,,Dog,Suffering,Male,2 years
+1642,A698183,*Eleanor,Dog,Suffering,Female,2 years
+1643,A698207,,Cat,Suffering,Male,7 years
+1646,A698301,*Angel,Cat,Suffering,Female,2 years
+1647,A698329,,Cat,Suffering,Female,3 years
+1648,A698354,,Dog,Suffering,Male,10 years
+1649,A698365,,Cat,Suffering,Male,2 years
+1650,A698431,,Dog,Suffering,Female,2 years
+1651,A698473,Oreo,Dog,Suffering,Male,1 year
+1652,A698513,,Dog,Suffering,Male,2 years
+1654,A698572,Tito,Dog,Suffering,Male,13 years
+1638,A698009,Panther,Cat,Suffering,Male,2 years
+1639,A698015,Snow,Cat,Suffering,Male,1 year
+1552,A695798,Jim,Cat,Suffering,Male,< 1 year
+1635,A697897,,Cat,Suffering,Male,3 years
+1606,A697103,,Dog,Suffering,Unknown,3 years
+1916,A704864,*Artie,Cat,Suffering,Male,< 1 year
+1232,A688441,Zee,Cat,Suffering,Female,< 1 year
+1610,A697211,,Cat,Suffering,Male,1 year
+1611,A697230,Minena,Cat,Suffering,Female,9 years
+1612,A697236,Daisy,Dog,Suffering,Unknown,13 years
+1614,A697309,Biscuit,Dog,Suffering,Male,< 1 year
+1615,A697354,,Cat,Suffering,Male,4 years
+1616,A697390,,Dog,Suffering,Male,8 years
+1617,A697413,B.J.,Cat,Suffering,Female,2 years
+1619,A697473,*Brook,Dog,Suffering,Female,5 years
+1620,A697475,Coco,Dog,Suffering,Female,14 years
+1621,A697479,,Cat,Suffering,Male,1 year
+1624,A697536,,Dog,Suffering,Male,12 years
+1625,A697571,Camelia,Dog,Suffering,Female,< 1 year
+1955,A705766,,Cat,Suffering,Male,8 years
+1915,A704863,*Alistair,Cat,Suffering,Male,< 1 year
+1629,A697686,*Remy,Cat,Suffering,Female,8 years
+1632,A697807,,Cat,Suffering,Male,2 years
+1550,A695788,Percy,Dog,Suffering,Female,5 years
+1775,A701998,Danger,Cat,Suffering,Male,12 years
+1779,A702079,,Dog,Suffering,Male,7 years
+1901,A704538,,Cat,Suffering,Male,7 years
+1902,A704629,Ivy,Dog,Suffering,Female,< 1 year
+1904,A704682,,Dog,Suffering,Male,2 years
+1905,A704700,Tom,Cat,Suffering,Male,2 years
+1906,A704729,,Cat,Suffering,Unknown,< 1 year
+1907,A704743,,Cat,Suffering,Unknown,< 1 year
+1900,A704524,,Cat,Suffering,Female,< 1 year
+1908,A704759,,Cat,Suffering,Unknown,10 years
+1910,A704764,,Cat,Suffering,Male,2 years
+1627,A697596,,Cat,Suffering,Female,< 1 year
+1234,A688492,,Dog,Suffering,Female,8 years
+1633,A697815,,Cat,Suffering,Male,12 years
+1954,A705761,,Cat,Suffering,Unknown,5 years
+1914,A704826,,Cat,Suffering,Female,13 years
+1886,A704266,,Cat,Suffering,Male,< 1 year
+1888,A704297,,Cat,Suffering,Male,< 1 year
+1909,A704763,*Welby,Cat,Suffering,Male,< 1 year
+1899,A704508,,Cat,Suffering,Male,2 years
+1897,A704468,*Ernie,Cat,Suffering,Male,< 1 year
+1896,A704465,*Ennis,Cat,Suffering,Male,< 1 year
+1874,A704130,Layla,Dog,Suffering,Female,13 years
+1875,A704142,,Cat,Suffering,Female,12 years
+1877,A704146,,Cat,Suffering,Male,< 1 year
+1878,A704152,,Cat,Suffering,Male,2 years
+1879,A704198,,Cat,Suffering,Unknown,< 1 year
+1880,A704201,,Cat,Suffering,Female,8 years
+1882,A704224,,Cat,Suffering,Male,1 year
+1887,A704294,,Cat,Suffering,Female,1 year
+1884,A704259,,Cat,Suffering,Male,< 1 year
+1890,A704370,,Cat,Suffering,Female,12 years
+1913,A704791,*Doc,Cat,Suffering,Male,< 1 year
+1631,A697797,,Dog,Suffering,Male,2 years
+1891,A704372,,Dog,Suffering,Male,2 years
+1892,A704374,,Cat,Suffering,Male,6 years
+1894,A704443,,Cat,Suffering,Female,2 years
+1917,A704877,,Cat,Suffering,Male,1 year
+1918,A704885,Precious,Dog,Suffering,Unknown,< 1 year
+1920,A704935,,Dog,Suffering,Female,14 years
+1921,A704942,,Dog,Suffering,Female,< 1 year
+1950,A705655,,Cat,Suffering,Male,< 1 year
+1951,A705656,*Rasberry,Cat,Suffering,Female,< 1 year
+1952,A705657,,Cat,Suffering,Female,< 1 year
+1953,A705713,,Dog,Suffering,Male,< 1 year
+1956,A705816,,Dog,Suffering,Unknown,4 years
+1628,A697613,,Cat,Suffering,Female,8 years
+1958,A705830,,Cat,Suffering,Male,2 years
+1824,A702883,Bubush,Cat,Suffering,Male,18 years
+1934,A705264,,Cat,Suffering,Female,1 year
+1961,A705857,,Cat,Suffering,Male,< 1 year
+1962,A705866,,Cat,Suffering,Female,1 year
+1963,A705870,*Brandi,Cat,Suffering,Female,< 1 year
+1964,A705881,,Cat,Suffering,Male,3 years
+1949,A705654,*Clementine,Cat,Suffering,Female,< 1 year
+1873,A704119,*Martina,Cat,Suffering,Female,< 1 year
+1948,A705584,,Cat,Suffering,Male,< 1 year
+1944,A705531,,Cat,Suffering,Female,5 years
+1922,A705002,*Jack,Cat,Suffering,Male,8 years
+1923,A705009,*Road Runner,Cat,Suffering,Male,< 1 year
+1926,A705018,*Mason,Cat,Suffering,Male,< 1 year
+1927,A705021,*Martell,Cat,Suffering,Male,< 1 year
+1929,A705054,,Cat,Suffering,Unknown,1 year
+1930,A705179,,Cat,Suffering,Female,< 1 year
+1807,A702510,,Cat,Suffering,Unknown,< 1 year
+1811,A702573,,Cat,Suffering,Male,3 years
+1936,A705315,,Dog,Suffering,Male,13 years
+1938,A705388,,Cat,Suffering,Male,8 years
+1939,A705413,,Cat,Suffering,Male,3 years
+1940,A705433,,Dog,Suffering,Male,< 1 year
+1941,A705436,,Cat,Suffering,Male,< 1 year
+1942,A705439,Rocky,Dog,Suffering,Male,< 1 year
+1943,A705475,,Cat,Suffering,Unknown,< 1 year
+1945,A705546,,Cat,Suffering,Male,12 years
+1872,A704118,*Marshall,Cat,Suffering,Male,< 1 year
+1871,A704115,,Cat,Suffering,Unknown,< 1 year
+1868,A704038,,Cat,Suffering,Male,2 years
+1803,A702389,,Cat,Suffering,Female,2 years
+1841,A703381,,Cat,Suffering,Female,1 year
+1823,A702878,,Cat,Suffering,Male,< 1 year
+1813,A702630,*Swirly Girl,Cat,Suffering,Female,< 1 year
+1806,A702509,,Dog,Suffering,Male,< 1 year
+1810,A702564,,Cat,Suffering,Female,< 1 year
+1815,A702756,,Cat,Suffering,Male,< 1 year
+1816,A702775,,Cat,Suffering,Male,10 years
+1817,A702779,,Cat,Suffering,Female,< 1 year
+1818,A702817,,Cat,Suffering,Unknown,< 1 year
+1819,A702818,,Cat,Suffering,Unknown,< 1 year
+1820,A702819,,Cat,Suffering,Unknown,< 1 year
+1821,A702820,,Cat,Suffering,Unknown,< 1 year
+1801,A702362,,Cat,Suffering,Male,1 year
+1822,A702876,,Cat,Suffering,Male,1 year
+1800,A702356,,Cat,Suffering,Male,< 1 year
+1797,A702317,,Cat,Suffering,Unknown,< 1 year
+1780,A702114,Umami,Cat,Suffering,Female,2 years
+1805,A702487,*Dolly,Dog,Suffering,Female,3 years
+1959,A705837,,Cat,Suffering,Male,< 1 year
+1782,A702171,,Cat,Suffering,Female,1 year
+1783,A702201,*Odie,Cat,Suffering,Male,< 1 year
+1786,A702220,,Dog,Suffering,Male,2 years
+1787,A702221,,Cat,Suffering,Female,< 1 year
+1788,A702224,*Peter,Cat,Suffering,Male,< 1 year
+1789,A702233,Oreo,Cat,Suffering,Male,< 1 year
+1790,A702243,,Dog,Suffering,Female,< 1 year
+1791,A702245,,Cat,Suffering,Unknown,< 1 year
+1793,A702291,Golden Boy,Cat,Suffering,Male,8 years
+1794,A702297,,Dog,Suffering,Female,5 years
+1795,A702301,,Cat,Suffering,Female,11 years
+1796,A702309,,Dog,Suffering,Unknown,< 1 year
+1798,A702321,Grace,Cat,Suffering,Unknown,12 years
+1777,A702032,*Stanley,Cat,Suffering,Male,2 years
+1784,A702207,,Cat,Suffering,Male,12 years
+1785,A702213,,Cat,Suffering,Female,1 year
+1808,A702522,Beast,Dog,Suffering,Male,1 year
+1825,A702894,Popeye,Dog,Suffering,Male,3 years
+1852,A703494,*Stormy,Cat,Suffering,Female,< 1 year
+1099,A684907,Sammie,Dog,Suffering,Male,12 years
+1960,A705843,,Dog,Suffering,Female,< 1 year
+1855,A703570,,Dog,Suffering,Male,2 years
+1856,A703648,,Cat,Suffering,Female,1 year
+1857,A703664,,Cat,Suffering,Male,2 years
+1858,A703727,*Crispin,Cat,Suffering,Male,< 1 year
+1859,A703742,,Cat,Suffering,Female,< 1 year
+1860,A703771,,Cat,Suffering,Male,< 1 year
+1862,A703888,,Dog,Suffering,Male,1 year
+1863,A703889,,Dog,Suffering,Male,5 years
+1864,A703908,*Pony,Cat,Suffering,Male,< 1 year
+1865,A703921,,Cat,Suffering,Female,< 1 year
+1866,A703956,,Dog,Suffering,Female,14 years
+1867,A703994,*Cherry,Cat,Suffering,Female,< 1 year
+1229,A688321,*Jenny,Cat,Suffering,Female,1 year
+1848,A703467,,Cat,Suffering,Unknown,< 1 year
+1849,A703471,,Dog,Suffering,Female,3 years
+1847,A703466,,Cat,Suffering,Unknown,< 1 year
+1826,A702918,,Cat,Suffering,Female,2 years
+1828,A702945,,Cat,Suffering,Unknown,< 1 year
+1829,A702960,,Cat,Suffering,Female,1 year
+1830,A702993,Chiquis,Dog,Suffering,Female,3 years
+1832,A703075,,Cat,Suffering,Male,< 1 year
+1833,A703094,,Dog,Suffering,Male,8 years
+1834,A703102,,Cat,Suffering,Unknown,< 1 year
+1835,A703137,Chakal,Dog,Suffering,Male,11 years
+1836,A703179,,Cat,Suffering,Male,< 1 year
+1837,A703233,,Cat,Suffering,Male,4 years
+1838,A703236,Tinkerbell,Dog,Suffering,Unknown,9 years
+1839,A703269,,Dog,Suffering,Female,< 1 year
+1851,A703485,Herman,Cat,Suffering,Male,5 years
+1931,A705208,,Cat,Suffering,Unknown,< 1 year
+1853,A703504,,Dog,Suffering,Female,2 years
+1228,A688317,,Cat,Suffering,Male,< 1 year
+1846,A703465,,Cat,Suffering,Unknown,< 1 year
+1262,A689371,,Cat,Suffering,Unknown,< 1 year
+1264,A689393,,Dog,Suffering,Male,2 years
+1548,A695759,*Popsicle,Cat,Suffering,Female,1 year
+1546,A695726,,Cat,Suffering,Male,5 years
+1249,A689089,,Cat,Suffering,Male,13 years
+1251,A689124,,Dog,Suffering,Male,9 years
+1252,A689138,,Cat,Suffering,Female,< 1 year
+1253,A689141,,Dog,Suffering,Female,< 1 year
+1255,A689192,,Cat,Suffering,Male,< 1 year
+1256,A689193,,Cat,Suffering,Male,< 1 year
+1248,A689075,,Cat,Suffering,Female,2 years
+1258,A689208,,Cat,Suffering,Male,2 years
+1260,A689295,*Shakespeare,Cat,Suffering,Male,< 1 year
+1263,A689391,,Cat,Suffering,Male,< 1 year
+1261,A689342,Harley,Dog,Suffering,Male,1 year
+1266,A689496,Winston,Dog,Suffering,Male,10 years
+1845,A703464,,Cat,Suffering,Unknown,< 1 year
+1854,A703505,,Cat,Suffering,Male,2 years
+1259,A689260,Gambit,Dog,Suffering,Male,7 years
+1247,A689071,,Cat,Suffering,Female,< 1 year
+1244,A688907,,Cat,Suffering,Unknown,2 years
+1241,A688841,,Cat,Suffering,Female,< 1 year
+1218,A688122,*Grace,Dog,Suffering,Female,12 years
+1219,A688127,,Dog,Suffering,Female,< 1 year
+1221,A688174,,Cat,Suffering,Female,10 years
+1223,A688196,Max,Dog,Suffering,Male,9 years
+1224,A688263,,Cat,Suffering,Male,3 years
+1225,A688287,,Dog,Suffering,Male,5 years
+1227,A688316,,Cat,Suffering,Male,< 1 year
+1230,A688430,Kiedis,Dog,Suffering,Male,6 years
+1231,A688437,Duke,Dog,Suffering,Male,14 years
+1730,A700768,,Dog,Suffering,Male,15 years
+1732,A700775,,Cat,Suffering,Unknown,< 1 year
+1267,A689512,,Cat,Suffering,Unknown,3 years
+1269,A689626,,Cat,Suffering,Female,< 1 year
+1270,A689711,,Cat,Suffering,Male,7 years
+1273,A689739,,Dog,Suffering,Female,2 years
+1310,A690516,,Cat,Suffering,Female,5 years
+1312,A690547,,Dog,Suffering,Female,2 years
+1313,A690571,,Dog,Suffering,Female,2 years
+1314,A690618,,Cat,Suffering,Female,< 1 year
+1317,A690737,,Cat,Suffering,Male,< 1 year
+1319,A690763,,Dog,Suffering,Female,9 years
+1323,A690797,,Cat,Suffering,Male,12 years
+1324,A690798,Spot,Dog,Suffering,Male,< 1 year
+1325,A690799,Tips,Dog,Suffering,Female,< 1 year
+1328,A690843,,Cat,Suffering,Male,1 year
+1330,A690909,,Cat,Suffering,Female,9 years
+1288,A690034,,Cat,Suffering,Female,6 years
+1331,A690927,,Cat,Suffering,Female,< 1 year
+1335,A691094,,Cat,Suffering,Female,< 1 year
+1337,A691108,,Cat,Suffering,Unknown,< 1 year
+1309,A690462,,Cat,Suffering,Female,< 1 year
+1216,A688078,,Cat,Suffering,Unknown,< 1 year
+1307,A690447,,Dog,Suffering,Male,14 years
+1303,A690406,,Cat,Suffering,Male,4 years
+1274,A689783,,Cat,Suffering,Female,< 1 year
+1275,A689785,,Dog,Suffering,Male,10 years
+1278,A689810,,Cat,Suffering,Male,< 1 year
+1282,A689957,Weiser,Cat,Suffering,Male,20 years
+1284,A689965,,Cat,Suffering,Male,1 year
+1327,A690833,*Marmalade,Cat,Suffering,Male,< 1 year
+1286,A689988,Chico,Dog,Suffering,Male,10 years
+1236,A688658,,Cat,Suffering,Male,< 1 year
+1290,A690081,,Dog,Suffering,Male,< 1 year
+1298,A690263,,Cat,Suffering,Male,3 years
+1299,A690285,,Dog,Suffering,Unknown,8 years
+1300,A690297,,Cat,Suffering,Female,1 year
+1301,A690386,,Cat,Suffering,Male,< 1 year
+1306,A690446,,Cat,Suffering,Male,2 years
+1215,A688073,,Cat,Suffering,Female,10 years
+1213,A688059,*Tina,Cat,Suffering,Female,< 1 year
+1210,A688003,,Cat,Suffering,Male,< 1 year
+1128,A685548,,Dog,Suffering,Male,4 years
+1129,A685551,,Dog,Suffering,Female,10 years
+1130,A685572,Sissy,Cat,Suffering,Unknown,13 years
+1133,A685618,,Cat,Suffering,Female,5 years
+1134,A685670,,Cat,Suffering,Male,< 1 year
+1285,A689981,,Dog,Suffering,Female,9 years
+1136,A685700,*Summerlee,Dog,Suffering,Female,14 years
+1489,A694190,*Lily Pad,Cat,Suffering,Male,12 years
+1138,A685729,,Cat,Suffering,Male,15 years
+1139,A685740,,Cat,Suffering,Male,3 years
+1142,A685779,,Cat,Suffering,Unknown,< 1 year
+1143,A685816,,Cat,Suffering,Female,4 years
+1144,A685822,,Dog,Suffering,Female,5 years
+1145,A685827,Papi,Dog,Suffering,Male,< 1 year
+1148,A685986,,Dog,Suffering,Male,9 years
+1127,A685490,Jake,Dog,Suffering,Male,11 years
+1149,A686021,*Stanley,Dog,Suffering,Male,< 1 year
+1126,A685475,,Dog,Suffering,Female,8 years
+1124,A685423,,Cat,Suffering,Male,12 years
+1105,A685039,*Chilli,Cat,Suffering,Male,12 years
+1106,A685087,,Cat,Suffering,Unknown,1 year
+1289,A690069,,Cat,Suffering,Female,< 1 year
+1107,A685092,,Cat,Suffering,Female,< 1 year
+1296,A690235,*Forrest,Dog,Suffering,Male,8 years
+1109,A685176,*Forrest,Dog,Suffering,Male,< 1 year
+1111,A685183,,Dog,Suffering,Male,8 years
+1151,A686086,Rosie,Cat,Suffering,Female,2 years
+1135,A685683,Tobie,Dog,Suffering,Male,< 1 year
+1115,A685235,,Cat,Suffering,Male,< 1 year
+1116,A685249,Booger,Dog,Suffering,Male,6 years
+1117,A685284,,Cat,Suffering,Unknown,< 1 year
+1118,A685285,,Cat,Suffering,Unknown,< 1 year
+1119,A685286,,Cat,Suffering,Female,1 year
+1121,A685384,,Cat,Suffering,Male,10 years
+1122,A685414,,Cat,Suffering,Unknown,8 years
+1123,A685421,,Cat,Suffering,Female,8 years
+1125,A685453,,Cat,Suffering,Male,1 year
+1338,A691120,,Cat,Suffering,Female,< 1 year
+1150,A686063,,Cat,Suffering,Male,2 years
+1152,A686139,,Cat,Suffering,Male,< 1 year
+1181,A687005,,Cat,Suffering,Female,3 years
+1177,A686888,Chiquita,Dog,Suffering,Female,14 years
+1183,A687025,,Dog,Suffering,Male,10 years
+1188,A687174,*Beau,Dog,Suffering,Male,3 years
+1190,A687244,,Dog,Suffering,Female,10 years
+1194,A687331,,Cat,Suffering,Male,< 1 year
+1196,A687514,,Cat,Suffering,Female,< 1 year
+1199,A687604,,Cat,Suffering,Male,4 years
+1200,A687608,,Cat,Suffering,Female,< 1 year
+1201,A687637,,Cat,Suffering,Female,< 1 year
+1202,A687699,,Dog,Suffering,Female,1 year
+1203,A687748,,Dog,Suffering,Female,< 1 year
+1206,A687914,Ginger,Cat,Suffering,Female,2 years
+1207,A687917,,Cat,Suffering,Female,15 years
+1208,A687919,,Cat,Suffering,Female,< 1 year
+1182,A687020,Matilda,Dog,Suffering,Female,6 years
+1184,A687082,,Cat,Suffering,Female,< 1 year
+1187,A687170,,Cat,Suffering,Male,1 year
+1137,A685701,,Cat,Suffering,Female,8 years
+1487,A694173,,Dog,Suffering,Male,< 1 year
+1547,A695750,Loca,Dog,Suffering,Female,13 years
+1176,A686862,,Cat,Suffering,Male,< 1 year
+1154,A686245,,Cat,Suffering,Female,8 years
+1159,A686312,,Cat,Suffering,Female,< 1 year
+1163,A686579,,Cat,Suffering,Female,< 1 year
+1164,A686599,,Cat,Suffering,Female,< 1 year
+1166,A686683,Ira,Dog,Suffering,Male,12 years
+1167,A686715,,Dog,Suffering,Female,1 year
+1168,A686739,,Cat,Suffering,Male,< 1 year
+1169,A686777,Gandalf,Cat,Suffering,Male,3 years
+1170,A686782,,Cat,Suffering,Male,< 1 year
+1171,A686809,,Cat,Suffering,Female,< 1 year
+1172,A686834,,Cat,Suffering,Male,< 1 year
+1174,A686857,,Cat,Suffering,Male,< 1 year
+1175,A686861,,Cat,Suffering,Female,2 years
+2516,A731594,,Cat,Suffering,Male,4 years
+2519,A731785,,Cat,Suffering,Male,< 1 year
+1113,A685208,,Cat,Suffering,Male,10 years
+1339,A691124,,Dog,Suffering,Female,11 years
+1341,A691240,,Dog,Suffering,Female,10 years
+1469,A693851,,Dog,Suffering,Male,10 years
+1471,A693870,,Dog,Suffering,Male,5 years
+1472,A693872,,Cat,Suffering,Male,8 years
+1473,A693911,,Dog,Suffering,Female,1 year
+1476,A693994,,Dog,Suffering,Male,6 years
+1478,A694022,,Cat,Suffering,Female,< 1 year
+1468,A693834,,Cat,Suffering,Unknown,3 years
+1479,A694028,,Cat,Suffering,Female,10 years
+1482,A694072,,Cat,Suffering,Unknown,1 year
+1483,A694139,,Cat,Suffering,Male,5 years
+1484,A694160,*Annie,Dog,Suffering,Female,2 years
+1112,A685187,,Cat,Suffering,Female,< 1 year
+1237,A688721,Inky,Cat,Suffering,Male,12 years
+1490,A694210,,Cat,Suffering,Male,2 years
+1462,A693805,Gray-1,Cat,Suffering,Male,4 years
+1461,A693787,,Dog,Suffering,Male,< 1 year
+1466,A693824,,Cat,Suffering,Female,1 year
+1465,A693820,,Dog,Suffering,Female,1 year
+1445,A693333,,Cat,Suffering,Male,1 year
+1446,A693338,,Dog,Suffering,Male,< 1 year
+1448,A693413,,Cat,Suffering,Female,5 years
+1449,A693457,,Cat,Suffering,Female,10 years
+1450,A693481,,Cat,Suffering,Male,2 years
+1452,A693520,,Dog,Suffering,Female,1 year
+1455,A693584,Diego,Dog,Suffering,Male,7 years
+1456,A693585,,Dog,Suffering,Female,12 years
+1457,A693611,*George,Dog,Suffering,Male,11 years
+1458,A693618,,Dog,Suffering,Male,< 1 year
+1460,A693720,,Cat,Suffering,Female,< 1 year
+1467,A693825,,Cat,Suffering,Female,< 1 year
+1480,A694038,,Cat,Suffering,Unknown,2 years
+1538,A695551,Gordo,Dog,Suffering,Male,< 1 year
+1464,A693818,,Cat,Suffering,Male,2 years
+1492,A694216,Tucker,Dog,Suffering,Male,9 years
+1493,A694223,,Cat,Suffering,Female,2 years
+1494,A694237,Valentine,Dog,Suffering,Male,3 years
+1495,A694244,Gatsby,Cat,Suffering,Male,5 years
+1526,A695219,*Sarai,Cat,Suffering,Female,11 years
+1527,A695225,,Cat,Suffering,Male,< 1 year
+1528,A695257,,Cat,Suffering,Male,12 years
+1529,A695325,,Dog,Suffering,Female,13 years
+1532,A695373,,Cat,Suffering,Male,3 years
+1533,A695426,,Cat,Suffering,Male,1 year
+1535,A695490,,Cat,Suffering,Male,4 years
+1536,A695504,Coco,Dog,Suffering,Female,3 years
+1539,A695617,,Cat,Suffering,Male,12 years
+1463,A693808,,Cat,Suffering,Male,3 years
+1540,A695654,*Asha,Dog,Suffering,Female,< 1 year
+1508,A694554,,Cat,Suffering,Female,1 year
+1505,A694524,,Cat,Suffering,Unknown,1 year
+1543,A695672,,Dog,Suffering,Unknown,11 years
+1545,A695723,,Cat,Suffering,Female,6 years
+1525,A695212,,Cat,Suffering,Female,12 years
+1442,A693304,,Dog,Suffering,Female,2 years
+1523,A694968,*Caroline,Cat,Suffering,Female,10 years
+1520,A694919,,Dog,Suffering,Male,10 years
+1496,A694250,,Cat,Suffering,Female,< 1 year
+1498,A694300,,Dog,Suffering,Male,2 years
+1499,A694332,,Dog,Suffering,Male,< 1 year
+1500,A694335,,Cat,Suffering,Male,< 1 year
+1501,A694353,,Cat,Suffering,Female,10 years
+1503,A694361,,Cat,Suffering,Female,1 year
+1504,A694445,,Cat,Suffering,Male,2 years
+1507,A694553,,Cat,Suffering,Unknown,5 years
+1542,A695670,,Dog,Suffering,Male,< 1 year
+1376,A691853,,Dog,Suffering,Male,8 years
+1510,A694649,,Cat,Suffering,Female,1 year
+1511,A694690,,Cat,Suffering,Female,8 years
+1514,A694764,,Cat,Suffering,Unknown,3 years
+1517,A694872,,Cat,Suffering,Female,8 years
+1519,A694909,Cookie,Dog,Suffering,Female,10 years
+1522,A694928,,Cat,Suffering,Female,1 year
+1441,A693293,,Dog,Suffering,Male,8 years
+1439,A693224,,Cat,Suffering,Male,1 year
+1438,A693166,*Sylvia,Cat,Suffering,Female,10 years
+1370,A691810,,Dog,Suffering,Female,14 years
+1372,A691826,Todd,Cat,Suffering,Male,11 years
+1374,A691838,Avaddon,Dog,Suffering,Male,12 years
+1375,A691842,,Dog,Suffering,Male,< 1 year
+1541,A695661,,Cat,Suffering,Female,7 years
+3019,A769067,Baby Girl,Dog,Suffering,Female,10 years
+3027,A769546,,Cat,Suffering,Male,10 years
+1378,A691861,,Dog,Suffering,Female,3 years
+1349,A691330,,Dog,Suffering,Male,3 years
+1382,A691968,,Cat,Suffering,Female,7 years
+1383,A691979,,Cat,Suffering,Female,< 1 year
+1384,A691997,Chicka,Dog,Suffering,Female,2 years
+1385,A692010,,Dog,Suffering,Male,5 years
+1387,A692059,,Cat,Suffering,Male,< 1 year
+1379,A691867,,Cat,Suffering,Male,< 1 year
+1367,A691694,Mango,Cat,Suffering,Female,10 years
+1366,A691693,,Cat,Suffering,Female,3 years
+1365,A691685,,Dog,Suffering,Male,6 years
+1342,A691259,,Cat,Suffering,Unknown,< 1 year
+1343,A691270,Shorty,Dog,Suffering,Male,< 1 year
+1344,A691277,*Clove,Cat,Suffering,Female,< 1 year
+1346,A691298,,Cat,Suffering,Male,2 years
+1727,A700582,,Cat,Suffering,Female,2 years
+745,A675353,,Dog,Suffering,Unknown,< 1 year
+1352,A691339,Muneca,Dog,Suffering,Female,2 years
+1356,A691423,Blacky,Dog,Suffering,Male,7 years
+1357,A691437,*Philippe,Cat,Suffering,Male,< 1 year
+1358,A691454,*Beloved,Cat,Suffering,Male,1 year
+1359,A691559,Tigey Sue,Cat,Suffering,Female,12 years
+1360,A691580,,Cat,Suffering,Female,< 1 year
+1362,A691613,*Kasey,Cat,Suffering,Female,< 1 year
+1363,A691626,Raja,Cat,Suffering,Female,15 years
+1364,A691644,,Cat,Suffering,Female,< 1 year
+1388,A692060,,Cat,Suffering,Female,< 1 year
+1340,A691125,,Cat,Suffering,Unknown,< 1 year
+1389,A692070,,Cat,Suffering,Female,< 1 year
+1391,A692121,,Cat,Suffering,Male,1 year
+1416,A692472,,Cat,Suffering,Male,< 1 year
+1348,A691313,,Cat,Suffering,Female,12 years
+1377,A691859,,Cat,Suffering,Female,2 years
+1421,A692658,Chicken Kitt,Cat,Suffering,Female,< 1 year
+1409,A692416,,Dog,Suffering,Female,2 years
+1422,A692659,,Cat,Suffering,Female,10 years
+1392,A692122,,Dog,Suffering,Unknown,< 1 year
+1423,A692739,,Cat,Suffering,Male,< 1 year
+1424,A692765,,Cat,Suffering,Male,< 1 year
+1427,A692891,,Dog,Suffering,Female,< 1 year
+1428,A692900,,Dog,Suffering,Female,2 years
+1430,A692956,,Cat,Suffering,Male,10 years
+1431,A693045,,Cat,Suffering,Male,6 years
+1432,A693052,Steve,Dog,Suffering,Male,2 years
+1434,A693122,,Cat,Suffering,Male,< 1 year
+1436,A693149,*Simone,Dog,Suffering,Female,< 1 year
+1437,A693165,*Fern,Dog,Suffering,Female,12 years
+1415,A692465,Mary,Dog,Suffering,Female,< 1 year
+1390,A692079,,Cat,Suffering,Female,4 years
+1402,A692322,,Dog,Suffering,Female,< 1 year
+1412,A692441,Wolfe,Dog,Suffering,Male,< 1 year
+1417,A692485,,Cat,Suffering,Female,20 years
+1380,A691871,,Cat,Suffering,Female,< 1 year
+1395,A692190,Henry,Dog,Suffering,Male,6 years
+1396,A692191,,Dog,Suffering,Female,8 years
+1397,A692197,Bubba,Dog,Suffering,Male,2 years
+1398,A692208,,Cat,Suffering,Female,< 1 year
+1399,A692234,,Cat,Suffering,Female,< 1 year
+1411,A692433,,Dog,Suffering,Male,< 1 year
+1400,A692256,,Dog,Suffering,Male,3 years
+1403,A692344,,Cat,Suffering,Male,10 years
+1404,A692360,,Cat,Suffering,Male,2 years
+1406,A692382,,Dog,Suffering,Male,2 years
+1407,A692408,Storm,Dog,Suffering,Female,5 years
+1408,A692414,,Cat,Suffering,Male,13 years
+1410,A692427,,Cat,Suffering,Female,< 1 year
+2750,A750324,,Cat,Underage,Unknown,< 1 year
+2150,A712056,,Cat,,Female,2 years
+2153,A712179,,Cat,,Unknown,< 1 year
+2172,A713422,,Cat,,Male,8 years
+2321,A721056,Buck,Dog,,Male,5 years
+2326,A721429,Princessa,Dog,,Female,2 years
+2443,A728033,,Cat,,Unknown,< 1 year
+2472,A729192,,Dog,,Female,2 years
+2584,A737084,,Cat,,Unknown,2 years
+2607,A738330,,Cat,,Male,1 year
+2680,A744619,,Dog,,Female,< 1 year
+2684,A744830,Edward Hyde,Dog,,Male,9 years
+2685,A744863,,Cat,,Unknown,2 years
+2689,A745192,,Cat,,Female,1 year
+2690,A745206,,Cat,,Male,1 year
+2714,A747414,Hambone,Cat,,Male,5 years
+2729,A748902,*Hoppus,Cat,,Male,< 1 year
+3120,A776177,,Cat,,Female,< 1 year
+3122,A776244,,Cat,,Male,< 1 year
+3140,A780403,Pulguis,Dog,,Male,< 1 year
+3171,A784020,,Dog,,Unknown,2 years
+3192,A788721,,Cat,,Male,

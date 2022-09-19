@@ -1,0 +1,3194 @@
+animal_id,name,animal_type,outcome_subtype,sex_upon_outcome,age_upon_outcome
+A208755,Kootrie,Dog,Suffering,Neutered Male,14 years
+A214991,Prissy,Cat,Suffering,Spayed Female,19 years
+A218622,Oliver,Dog,Suffering,Neutered Male,15 years
+A218624,Cookie,Dog,Suffering,Neutered Male,15 years
+A221327,Jamie,Dog,Suffering,Spayed Female,16 years
+A230482,Dakota Dean,Dog,Suffering,Intact Male,13 years
+A251095,Beauty,Dog,Medical,Spayed Female,14 years
+A254503,Daisy,Dog,Suffering,Spayed Female,17 years
+A258441,Spring,Cat,Suffering,Spayed Female,14 years
+A261770,Halo,Cat,Suffering,Neutered Male,20 years
+A268022,China,Dog,Suffering,Spayed Female,13 years
+A271790,Grant,Dog,Medical,Neutered Male,12 years
+A279920,Carry,Dog,Behavior,Neutered Male,12 years
+A283735,Angel,Dog,Suffering,Spayed Female,13 years
+A298677,Polly,Dog,Suffering,Spayed Female,13 years
+A305674,Crystal,Dog,Suffering,Spayed Female,12 years
+A307398,Bacca,Dog,Suffering,Spayed Female,13 years
+A318574,Huey,Cat,Suffering,Neutered Male,13 years
+A318615,Buddy,Dog,Suffering,Neutered Male,14 years
+A325999,Precious,Dog,Suffering,Spayed Female,12 years
+A334065,Romeo,Dog,Suffering,Neutered Male,12 years
+A335950,Doyle,Dog,Suffering,Neutered Male,12 years
+A337187,Buster,Dog,Suffering,Neutered Male,12 years
+A337859,Benny,Dog,Suffering,Neutered Male,14 years
+A346884,Dolly,Dog,Suffering,Spayed Female,11 years
+A358879,Simba,Dog,Suffering,Neutered Male,13 years
+A367012,Miller,Dog,Suffering,Neutered Male,11 years
+A378353,Lyla,Dog,Suffering,Intact Female,10 years
+A380320,Scooby,Dog,Aggressive,Neutered Male,9 years
+A380506,Ruby,Dog,Suffering,Spayed Female,12 years
+A383036,Oreo,Cat,Suffering,Neutered Male,14 years
+A419161,Atom,Cat,Suffering,Neutered Male,17 years
+A427866,Gus,Dog,Suffering,Neutered Male,8 years
+A430501,Rosie,Dog,Suffering,Spayed Female,11 years
+A430671,,Dog,Suffering,Spayed Female,8 years
+A443085,Shadow,Dog,Behavior,Neutered Male,8 years
+A448750,Odie,Dog,Aggressive,Neutered Male,9 years
+A458233,Cinnamon,Dog,At Vet,Spayed Female,12 years
+A464652,Buddy,Dog,Rabies Risk,Intact Male,11 years
+A466858,Snowball,Cat,Suffering,Spayed Female,8 years
+A467213,Moon Shadow,Cat,Suffering,Spayed Female,8 years
+A467387,Princess,Dog,Behavior,Spayed Female,9 years
+A473179,Rodeo,Dog,Aggressive,Neutered Male,7 years
+A476706,Rocky,Dog,Aggressive,Neutered Male,8 years
+A476874,Dolla,Dog,Suffering,Spayed Female,9 years
+A478579,Natasha,Dog,Medical,Spayed Female,12 years
+A482046,Charlie,Dog,Suffering,Neutered Male,7 years
+A487470,Midnight,Dog,Aggressive,Neutered Male,9 years
+A489376,Buster,Dog,Medical,Neutered Male,11 years
+A489503,Dezi,Cat,Suffering,Spayed Female,7 years
+A490091,Oreo,Dog,Suffering,Spayed Female,9 years
+A491810,Katie,Dog,Suffering,Spayed Female,8 years
+A493761,Shorte,Dog,Suffering,Neutered Male,13 years
+A494990,Milo,Dog,Suffering,Neutered Male,11 years
+A496789,Arabella,Cat,Suffering,Spayed Female,7 years
+A498842,Shine,Dog,Aggressive,Intact Male,8 years
+A500002,Bruce Lee,Dog,Aggressive,Intact Male,7 years
+A503376,Lobo,Dog,Rabies Risk,Intact Male,7 years
+A507614,Madaket,Dog,Aggressive,Neutered Male,6 years
+A507728,Roxie,Dog,Suffering,Spayed Female,11 years
+A508027,Sasha,Dog,Suffering,Intact Female,9 years
+A509204,Fiona,Dog,Suffering,Spayed Female,12 years
+A516260,Skye,Dog,Rabies Risk,Spayed Female,10 years
+A519888,Luke,Dog,Aggressive,Neutered Male,6 years
+A520195,Trudy,Cat,Suffering,Spayed Female,5 years
+A522952,Kira,Dog,Suffering,Intact Female,9 years
+A523396,Star,Dog,Aggressive,Spayed Female,6 years
+A525938,Rocky,Dog,Aggressive,Neutered Male,6 years
+A527094,Onix,Cat,Suffering,Neutered Male,10 years
+A527170,Olive,Dog,Aggressive,Spayed Female,6 years
+A529890,Vegas,Dog,Aggressive,Intact Male,9 years
+A530190,Tyco,Dog,Aggressive,Neutered Male,9 years
+A532455,Crumpet,Dog,Suffering,Neutered Male,8 years
+A533557,Jake,Dog,Behavior,Neutered Male,5 years
+A537149,Lucky,Dog,Suffering,Neutered Male,7 years
+A537247,Ambrot,Dog,Aggressive,Intact Male,6 years
+A538454,Dolly,Dog,Suffering,Spayed Female,8 years
+A539388,Chloe,Dog,Aggressive,Spayed Female,6 years
+A539485,Chuny,Dog,Aggressive,Neutered Male,6 years
+A540495,Country,Dog,Behavior,Intact Male,5 years
+A542712,Harmony,Cat,Suffering,Spayed Female,4 years
+A543178,Ernest T,Dog,Aggressive,Neutered Male,8 years
+A543377,Tasha,Cat,Suffering,Spayed Female,6 years
+A544916,Blue,Dog,Suffering,Intact Male,13 years
+A545127,Ittybitty,Dog,Aggressive,Spayed Female,6 years
+A547472,Guerra,Dog,Aggressive,Spayed Female,5 years
+A547803,Sheba,Dog,Suffering,Spayed Female,17 years
+A548112,Grimm,Dog,Aggressive,Neutered Male,5 years
+A548770,Firecat,Cat,Rabies Risk,Neutered Male,6 years
+A548939,Leo,Dog,Aggressive,Neutered Male,7 years
+A548948,Ivory,Dog,Suffering,Spayed Female,7 years
+A550885,Princess,Dog,Suffering,Spayed Female,13 years
+A551426,Lluvia,Dog,Behavior,Spayed Female,8 years
+A551669,Salem,Cat,Suffering,Neutered Male,7 years
+A552202,Delores,Dog,Suffering,Intact Female,9 years
+A554674,Chloe,Dog,At Vet,Spayed Female,11 years
+A558566,Honey,Dog,Aggressive,Spayed Female,5 years
+A559240,Chikita,Dog,Suffering,Spayed Female,19 years
+A559331,Kat,Cat,Suffering,Neutered Male,10 years
+A560718,Coco,Dog,Aggressive,Spayed Female,5 years
+A562220,Scooby,Dog,Aggressive,Neutered Male,5 years
+A562221,Silver,Dog,Aggressive,Spayed Female,6 years
+A562649,,Dog,Suffering,Spayed Female,14 years
+A563010,Nikki,Dog,Aggressive,Spayed Female,8 years
+A563397,Braxton,Dog,Suffering,Neutered Male,11 years
+A565221,Prieto,Dog,Rabies Risk,Intact Male,8 years
+A565312,Bella,Dog,Aggressive,Spayed Female,5 years
+A565498,Dukey,Dog,Aggressive,Neutered Male,7 years
+A565562,Bubbles,Dog,Behavior,Spayed Female,5 years
+A567057,Rocky,Dog,Suffering,Neutered Male,10 years
+A567323,Tiffany,Dog,Suffering,Spayed Female,7 years
+A568219,Max,Dog,Aggressive,Neutered Male,5 years
+A568306,Roscoe,Cat,Suffering,Neutered Male,9 years
+A569147,Blou,Dog,Aggressive,Neutered Male,4 years
+A570611,Buster,Dog,Suffering,Intact Male,16 years
+A575017,Sam,Dog,Suffering,Neutered Male,16 years
+A575211,Chico,Dog,Rabies Risk,Neutered Male,7 years
+A576207,,Cat,Suffering,Neutered Male,4 years
+A577602,Rhino,Dog,Medical,Neutered Male,7 years
+A577780,Brandie,Dog,Aggressive,Spayed Female,7 years
+A578097,Juno,Cat,Suffering,Spayed Female,6 years
+A578374,Rocky,Dog,Medical,Neutered Male,6 years
+A580685,Bella,Dog,Aggressive,Spayed Female,4 years
+A582002,Rocky,Dog,Aggressive,Neutered Male,6 years
+A583357,Pom Pom,Dog,Behavior,Spayed Female,6 years
+A584452,Tuck,Dog,Aggressive,Neutered Male,7 years
+A584516,Scooby,Dog,Suffering,Neutered Male,8 years
+A585940,Brolli,Dog,Aggressive,Neutered Male,5 years
+A586273,Midnight,Dog,Suffering,Neutered Male,9 years
+A586304,Ginger,Dog,Medical,Spayed Female,3 years
+A586665,Pichin,Dog,Aggressive,Neutered Male,4 years
+A590089,Chino,Dog,Aggressive,Spayed Female,5 years
+A590629,Leonard,Dog,Aggressive,Neutered Male,6 years
+A594492,Trey,Dog,Suffering,Neutered Male,9 years
+A594904,Tashi,Dog,Suffering,Neutered Male,5 years
+A596356,Sophia,Dog,Aggressive,Spayed Female,4 years
+A597023,Rusty,Dog,Rabies Risk,Neutered Male,2 years
+A597415,Bock,Dog,Aggressive,Neutered Male,4 years
+A597665,Asawan,Dog,Aggressive,Spayed Female,5 years
+A598308,Getzy,Dog,Aggressive,Spayed Female,4 years
+A598335,Jack,Dog,Aggressive,Intact Male,6 years
+A598424,Shark,Dog,Suffering,Neutered Male,4 years
+A599155,Machete,Dog,Suffering,Neutered Male,4 years
+A600617,Gypsie,Cat,Suffering,Spayed Female,9 years
+A601488,Apollo,Dog,Aggressive,Intact Male,3 years
+A601822,Rabi,Cat,Suffering,Neutered Male,4 years
+A601863,Tyson,Dog,Court/Investigation,Intact Male,5 years
+A605772,*Hector,Dog,Behavior,Neutered Male,2 years
+A605804,Shayla,Dog,Aggressive,Spayed Female,4 years
+A606120,Archie,Dog,Behavior,Neutered Male,4 years
+A606788,*Brock,Dog,Aggressive,Neutered Male,4 years
+A607074,Nala,Dog,Aggressive,Spayed Female,2 years
+A607543,Pitty,Dog,Aggressive,Neutered Male,5 years
+A608475,Wicked,Dog,Aggressive,Neutered Male,3 years
+A609717,Baby,Dog,Aggressive,Spayed Female,3 years
+A610632,Dottie,Dog,Suffering,Spayed Female,6 years
+A610772,Max,Dog,Aggressive,Neutered Male,4 years
+A611573,Riri,Dog,Medical,Intact Female,8 years
+A611929,Bam Bam,Dog,Aggressive,Intact Male,4 years
+A611931,Sexy,Dog,Aggressive,Intact Female,4 years
+A612620,Charlie,Dog,Suffering,Neutered Male,7 years
+A613290,Boy,Dog,Aggressive,Neutered Male,4 years
+A613536,Titus,Dog,Aggressive,Neutered Male,6 years
+A613553,Beast,Dog,Aggressive,Neutered Male,4 years
+A613650,Diamond,Dog,Aggressive,Spayed Female,6 years
+A613785,Casper,Dog,Aggressive,Neutered Male,3 years
+A614177,Diamond,Dog,Behavior,Intact Female,2 years
+A614458,Rex,Dog,Suffering,Neutered Male,8 years
+A615008,*Thauti,Dog,Aggressive,Intact Male,2 years
+A615165,Duke,Dog,Aggressive,Neutered Male,2 years
+A615748,Blackie,Dog,Suffering,Neutered Male,5 years
+A616257,Grayson,Dog,Rabies Risk,Neutered Male,3 years
+A616295,Baby,Dog,Behavior,Spayed Female,6 years
+A616374,Sasha,Dog,Court/Investigation,Spayed Female,4 years
+A616456,Star,Dog,Behavior,Spayed Female,3 years
+A616487,Jack,Dog,Aggressive,Neutered Male,4 years
+A617429,Jun,Dog,Rabies Risk,Neutered Male,5 years
+A618687,Buddy,Dog,Suffering,Neutered Male,12 years
+A619134,Bullett,Dog,Aggressive,Neutered Male,6 years
+A619150,Bruno,Dog,Aggressive,Intact Male,6 years
+A619157,Zebra,Dog,Aggressive,Spayed Female,3 years
+A619170,Golosa,Dog,Suffering,Spayed Female,10 years
+A619269,Princessa,Dog,Suffering,Intact Female,2 years
+A619960,*Mambo,Cat,Suffering,Neutered Male,6 years
+A620379,Blackie,Dog,Rabies Risk,Neutered Male,3 years
+A620557,Button,Cat,Suffering,Spayed Female,13 years
+A620900,Roswell,Dog,Rabies Risk,Intact Male,5 years
+A621845,Dutchess,Dog,Suffering,Intact Female,9 years
+A622036,,Cat,Suffering,Neutered Male,4 years
+A622215,*Herk,Dog,Rabies Risk,Neutered Male,5 years
+A622978,Sugar,Dog,Aggressive,Spayed Female,5 years
+A623883,Ghost,Dog,Aggressive,Intact Male,5 years
+A624949,Axle,Dog,Aggressive,Neutered Male,3 years
+A625197,Chloe,Dog,Aggressive,Spayed Female,3 years
+A625626,Olenta,Dog,Suffering,Intact Female,7 years
+A625940,,Cat,Suffering,Neutered Male,8 years
+A627950,*Daisy,Dog,Suffering,Spayed Female,9 years
+A628159,Delgado,Dog,Aggressive,Neutered Male,4 years
+A628319,Gringa,Dog,Suffering,Spayed Female,9 years
+A628417,Coby,Dog,Court/Investigation,Neutered Male,5 years
+A629162,Red,Dog,Aggressive,Spayed Female,4 years
+A629207,*Teddy Bear,Dog,Aggressive,Neutered Male,8 years
+A629706,Patron,Dog,Aggressive,Intact Male,5 years
+A630068,Princess,Dog,Aggressive,Intact Female,5 years
+A630172,Hazel,Dog,Aggressive,Intact Female,3 years
+A631224,Gray Scale,Cat,Suffering,Neutered Male,15 years
+A631538,Equinox,Dog,Aggressive,Neutered Male,2 years
+A632020,Rocky,Dog,Behavior,Neutered Male,8 years
+A632584,*Liberty,Dog,Aggressive,Spayed Female,2 years
+A632814,King,Dog,Aggressive,Neutered Male,4 years
+A633633,Ben,Dog,Behavior,Intact Male,2 years
+A635622,*Quinn,Dog,Suffering,Neutered Male,10 years
+A636638,Stella,Dog,Suffering,Spayed Female,6 years
+A636667,Spark,Dog,Aggressive,Intact Male,2 years
+A636828,Boss,Dog,Aggressive,Intact Male,2 years
+A636900,Kountry,Dog,Aggressive,Neutered Male,4 years
+A637451,Panther,Cat,Suffering,Neutered Male,5 years
+A637506,Molly,Dog,Aggressive,Spayed Female,2 years
+A637670,Shadow,Dog,Aggressive,Spayed Female,4 years
+A638475,*Bluebird,Cat,Suffering,Spayed Female,3 years
+A638819,Princess,Dog,Suffering,Spayed Female,10 years
+A639771,Lady,Dog,Suffering,Spayed Female,11 years
+A640789,Cupulin,Dog,Aggressive,Neutered Male,2 years
+A640924,Loco,Dog,Rabies Risk,Intact Male,2 years
+A641036,Tug,Dog,Aggressive,Neutered Male,4 years
+A641250,*Rocky,Cat,Suffering,Neutered Male,2 years
+A641887,Franny,Dog,Suffering,Spayed Female,9 years
+A641952,Negra,Dog,Suffering,Intact Female,7 years
+A642830,Django,Dog,Rabies Risk,Intact Male,3 years
+A642867,,Cat,Suffering,Spayed Female,2 years
+A643090,Shiner,Dog,Aggressive,Neutered Male,2 years
+A644724,Fluffy,Dog,Suffering,Intact Male,9 years
+A645075,Bear,Dog,Aggressive,Intact Male,6 years
+A645246,Tyson,Dog,Suffering,Intact Male,2 years
+A645673,Precious,Dog,Behavior,Intact Female,5 years
+A646686,Blue,Dog,Aggressive,Neutered Male,1 year
+A647098,Butch,Dog,Aggressive,Neutered Male,4 years
+A647210,Tank,Dog,Medical,Neutered Male,3 years
+A647355,Lemur,Dog,Aggressive,Neutered Male,7 years
+A647492,Bueller,Dog,Aggressive,Neutered Male,6 years
+A647538,Rocky,Dog,Aggressive,Neutered Male,4 years
+A647578,Bella,Dog,Court/Investigation,Spayed Female,4 years
+A647886,Lucy,Dog,Medical,Intact Female,10 years
+A648065,Kerubin,Dog,Rabies Risk,Neutered Male,3 years
+A648086,Yogottie,Dog,Rabies Risk,Neutered Male,1 year
+A649385,*Dusty,Dog,Aggressive,Spayed Female,4 years
+A649445,Blue,Dog,Rabies Risk,Neutered Male,5 years
+A649490,Misty,Cat,Suffering,Spayed Female,4 years
+A649704,Dot,Dog,At Vet,Spayed Female,9 years
+A649970,*Thallo,Cat,Suffering,Neutered Male,5 years
+A650069,Luke,Dog,Aggressive,Neutered Male,2 years
+A650073,Blackberry,Dog,Aggressive,Spayed Female,3 years
+A650104,Katie,Dog,Suffering,Intact Female,3 years
+A650635,,Cat,Suffering,Neutered Male,3 years
+A650905,Bella,Dog,Aggressive,Intact Female,3 years
+A651249,Blackie,Dog,Aggressive,Spayed Female,3 years
+A651257,,Cat,Suffering,Neutered Male,9 years
+A651299,Fiona,Dog,Aggressive,Spayed Female,2 years
+A651657,,Cat,Suffering,Neutered Male,5 years
+A652358,Buddy,Dog,Rabies Risk,Neutered Male,8 years
+A652379,Bubba,Cat,Suffering,Neutered Male,4 years
+A652513,Peaches,Dog,Aggressive,Spayed Female,3 years
+A653125,Chiquilin,Dog,Suffering,Intact Male,3 years
+A654355,Kilo,Dog,Aggressive,Neutered Male,1 year
+A654483,Chocolate,Dog,Aggressive,Neutered Male,2 years
+A656477,Bowser,Dog,Behavior,Neutered Male,4 years
+A656520,Emily,Cat,Suffering,Spayed Female,1 year
+A656567,Sumo,Dog,Aggressive,Neutered Male,5 years
+A656761,Gotti,Dog,Court/Investigation,Intact Male,7 years
+A656967,Homer,Dog,Aggressive,Intact Male,3 years
+A656968,Litle Girl,Dog,Aggressive,Spayed Female,3 years
+A657286,Chako,Dog,Court/Investigation,Intact Male,1 year
+A657375,Bella,Dog,Rabies Risk,Spayed Female,2 years
+A657708,*Jolene,Dog,Aggressive,Spayed Female,2 years
+A657709,*Roy,Dog,Aggressive,Neutered Male,2 years
+A657753,Wiz,Dog,Aggressive,Neutered Male,1 year
+A657764,Peyton,Dog,Behavior,Spayed Female,1 year
+A658013,*Marcos,Dog,Behavior,Neutered Male,7 years
+A658199,*Marley,Dog,Aggressive,Neutered Male,2 years
+A658515,Barkley,Dog,Aggressive,Neutered Male,3 years
+A658843,Rudy,Dog,Court/Investigation,Neutered Male,4 years
+A660156,Big Boy,Dog,Aggressive,Neutered Male,4 years
+A660295,Blue,Dog,Aggressive,Intact Male,2 years
+A661676,Chori,Dog,Aggressive,Spayed Female,7 years
+A661776,,Cat,Suffering,Spayed Female,6 years
+A661789,Tank,Dog,Behavior,Neutered Male,2 years
+A661911,*Oz,Dog,Behavior,Neutered Male,2 years
+A661916,Bella,Dog,Aggressive,Spayed Female,2 years
+A661933,*Nutella,Cat,Suffering,Spayed Female,10 years
+A662427,Polly,Cat,Suffering,Spayed Female,7 years
+A662603,*Tucker,Dog,Behavior,Neutered Male,2 years
+A662657,*Gabe,Dog,Aggressive,Neutered Male,3 years
+A663026,*Percy,Dog,Behavior,Neutered Male,2 years
+A663158,*Preston,Dog,Behavior,Neutered Male,4 years
+A663273,Diamond,Dog,Behavior,Spayed Female,2 years
+A663299,Jedi,Dog,Aggressive,Neutered Male,4 years
+A663324,*Minnie,Cat,Suffering,Spayed Female,2 months
+A663328,*Jimmy,Dog,Aggressive,Neutered Male,5 years
+A663342,Deco,Dog,Behavior,Neutered Male,1 year
+A663346,*July,Dog,Aggressive,Spayed Female,1 year
+A663347,Crash,Dog,Aggressive,Intact Male,6 years
+A663488,Rocky,Dog,Rabies Risk,Neutered Male,2 years
+A663527,Taboo,Cat,Suffering,Spayed Female,8 years
+A663546,*Gage,Dog,Aggressive,Neutered Male,2 years
+A663667,*Cody,Dog,Behavior,Neutered Male,2 years
+A663692,Austin,Dog,Aggressive,Neutered Male,6 years
+A663822,Bluto,Dog,Rabies Risk,Neutered Male,1 year
+A663861,,Dog,Behavior,Intact Female,1 year
+A663886,Trudy,Dog,Medical,Spayed Female,2 years
+A663887,Hooch,Dog,Medical,Neutered Male,3 years
+A663938,,Dog,Suffering,Neutered Male,10 years
+A663962,Terra,Dog,Aggressive,Intact Female,2 years
+A664027,*Tessa,Dog,Behavior,Intact Female,2 years
+A664034,*Mallory,Dog,Behavior,Intact Female,2 years
+A664042,,Dog,Suffering,Intact Male,2 years
+A664105,*Dodger,Dog,Aggressive,Intact Male,3 years
+A664193,*Carrie,Cat,Suffering,Intact Female,2 months
+A664233,Stevie,Dog,Suffering,Intact Female,3 years
+A664234,,Dog,Suffering,Intact Male,8 years
+A664238,,Cat,Medical,Unknown,4 months
+A664259,*Petunia,Dog,Aggressive,Intact Female,5 years
+A664270,Champ,Dog,Aggressive,Intact Male,3 years
+A664288,,Cat,Suffering,Intact Male,2 years
+A664308,Bruce,Dog,Court/Investigation,Intact Male,10 years
+A664326,*Wilbur,Dog,Aggressive,Intact Male,1 year
+A664329,,Cat,Suffering,Intact Male,1 month
+A664386,,Cat,Suffering,Intact Female,12 years
+A664459,Miss Kitty,Cat,Suffering,Spayed Female,8 years
+A664475,,Dog,Suffering,Intact Male,2 years
+A664519,,Dog,Aggressive,Intact Male,6 years
+A664608,Rosco,Dog,Behavior,Intact Male,3 years
+A664683,,Cat,Suffering,Intact Male,4 years
+A664686,Rock,Dog,Suffering,Intact Male,2 years
+A664711,,Cat,Suffering,Intact Female,5 years
+A664712,,Dog,Suffering,Unknown,4 weeks
+A664714,*Bruce,Dog,Aggressive,Intact Male,4 years
+A664716,*Harvey,Dog,Medical,Neutered Male,3 years
+A664723,,Cat,Suffering,Intact Female,7 years
+A664740,,Cat,Suffering,Intact Female,3 months
+A664778,Brutus,Dog,Aggressive,Neutered Male,4 years
+A664794,,Cat,Suffering,Intact Male,1 month
+A664812,Blue,Dog,Aggressive,Intact Male,2 years
+A664824,Bella,Dog,Aggressive,Spayed Female,5 years
+A664834,,Dog,Suffering,Intact Female,1 year
+A664869,*Ollie,Dog,Behavior,Intact Male,3 years
+A664872,,Cat,Suffering,Neutered Male,3 years
+A664924,Frijolito,Dog,Suffering,Neutered Male,2 years
+A664926,,Dog,Suffering,Intact Female,2 years
+A664940,Laika,Dog,Aggressive,Spayed Female,1 year
+A664944,Fuzzyball,Cat,Suffering,Neutered Male,10 years
+A664945,,Dog,Suffering,Intact Male,10 years
+A664954,,Cat,Suffering,Intact Male,4 weeks
+A664977,,Dog,Suffering,Intact Male,4 years
+A664982,,Dog,Suffering,Intact Female,15 years
+A664989,,Dog,Suffering,Intact Male,5 months
+A665078,,Cat,Suffering,Intact Female,4 years
+A665097,Brittney,Dog,Suffering,Intact Female,7 years
+A665134,Cosita,Dog,Suffering,Spayed Female,1 year
+A665136,,Cat,Suffering,Intact Male,1 month
+A665137,*Willie,Dog,Behavior,Neutered Male,1 year
+A665142,Pascal,Dog,Suffering,Neutered Male,13 years
+A665152,,Dog,Suffering,Intact Female,4 weeks
+A665157,,Cat,Suffering,Intact Male,2 years
+A665175,*Stan,Dog,Behavior,Neutered Male,1 year
+A665189,,Cat,Suffering,Intact Male,1 month
+A665190,,Cat,Suffering,Neutered Male,14 years
+A665204,Africano,Dog,Aggressive,Neutered Male,4 years
+A665219,Sox,Dog,Rabies Risk,Neutered Male,10 months
+A665244,Latte,Dog,Suffering,Neutered Male,13 years
+A665252,,Cat,Suffering,Intact Male,1 month
+A665256,Jerry,Cat,Suffering,Neutered Male,1 year
+A665281,Marley,Dog,Aggressive,Neutered Male,2 years
+A665376,,Dog,Suffering,Neutered Male,8 years
+A665393,Maddie,Cat,Aggressive,Spayed Female,4 years
+A665444,,Cat,Suffering,Intact Female,1 month
+A665484,,Cat,Suffering,Intact Male,9 months
+A665559,Iggy,Dog,Suffering,Intact Male,10 years
+A665571,,Cat,Suffering,Intact Male,4 months
+A665640,,Cat,Suffering,Intact Female,1 month
+A665645,,Cat,Suffering,Intact Male,3 years
+A665673,,Cat,Suffering,Intact Male,1 weeks
+A665685,,Dog,Suffering,Intact Female,2 years
+A665689,,Cat,Suffering,Intact Female,5 years
+A665776,,Dog,Suffering,Intact Male,1 year
+A665784,Copy Cat,Cat,Suffering,Spayed Female,15 years
+A665786,Woodrow,Cat,Suffering,Neutered Male,15 years
+A665795,,Cat,Suffering,Intact Male,2 months
+A665807,Toby,Dog,Aggressive,Intact Male,3 years
+A665808,*Cooter,Dog,Aggressive,Neutered Male,2 years
+A665900,*Benjamin,Cat,Suffering,Intact Male,12 years
+A665953,,Cat,Suffering,Neutered Male,8 years
+A665963,Evelyn,Cat,Suffering,Spayed Female,2 years
+A666068,,Dog,Suffering,Intact Male,12 years
+A666083,,Cat,Suffering,Intact Male,4 weeks
+A666092,,Dog,Aggressive,Intact Male,6 years
+A666124,,Dog,Suffering,Intact Female,6 years
+A666156,,Dog,Suffering,Intact Male,9 years
+A666166,*Elroy,Dog,Aggressive,Intact Male,2 years
+A666172,Midnight,Dog,Suffering,Intact Female,2 years
+A666173,Cece,Dog,Aggressive,Intact Female,2 years
+A666175,Cookie,Dog,Aggressive,Intact Female,3 years
+A666186,,Cat,Suffering,Intact Female,2 years
+A666197,*Leroy,Dog,Behavior,Neutered Male,2 years
+A666209,Guy,Cat,Suffering,Neutered Male,5 years
+A666253,*Sybil,Dog,Suffering,Spayed Female,9 years
+A666261,*Emmit,Dog,Aggressive,Neutered Male,6 years
+A666272,,Dog,Suffering,Intact Female,1 month
+A666273,*Jasmine,Dog,Behavior,Spayed Female,2 years
+A666291,,Dog,Suffering,Intact Female,7 years
+A666314,U,Cat,Suffering,Intact Male,1 month
+A666319,,Cat,Suffering,Spayed Female,8 years
+A666352,Coco,Dog,Court/Investigation,Intact Male,3 years
+A666353,,Cat,Suffering,Intact Female,1 month
+A666359,,Dog,Suffering,Intact Female,10 years
+A666403,Nala,Dog,Suffering,Intact Female,13 years
+A666404,Sassy,Dog,Suffering,Intact Female,16 years
+A666407,,Cat,Suffering,Intact Male,4 weeks
+A666423,,Dog,Suffering,Intact Female,2 years
+A666489,,Cat,Suffering,Intact Female,3 months
+A666511,,Dog,Suffering,Neutered Male,9 years
+A666522,*Sonia,Dog,Behavior,Spayed Female,2 years
+A666534,,Dog,Aggressive,Intact Male,1 year
+A666536,,Cat,Suffering,Intact Female,2 months
+A666546,Ami*,Cat,Suffering,Intact Female,2 months
+A666599,*Allaster,Dog,Behavior,Neutered Male,3 years
+A666611,,Cat,Suffering,Intact Male,12 years
+A666745,,Cat,Suffering,Intact Male,1 year
+A666789,Cindy,Dog,Suffering,Intact Female,4 months
+A666832,*Charlie,Cat,Suffering,Intact Male,1 month
+A666850,Angel,Dog,Behavior,Spayed Female,1 year
+A666852,*Bonnie,Dog,Aggressive,Spayed Female,1 year
+A666854,*Julian,Cat,Medical,Intact Male,2 months
+A666859,Conan,Dog,Behavior,Intact Male,4 years
+A666870,*Bambi,Dog,Aggressive,Spayed Female,2 years
+A666905,,Dog,Suffering,Intact Male,2 years
+A666990,,Cat,Suffering,Intact Female,2 months
+A667066,,Dog,Suffering,Intact Female,12 years
+A667081,Tyson,Dog,Behavior,Neutered Male,2 years
+A667090,Rex,Dog,Behavior,Intact Male,3 years
+A667094,,Dog,Suffering,Intact Male,1 year
+A667102,Sherlock,Dog,Behavior,Neutered Male,10 months
+A667118,,Cat,Rabies Risk,Unknown,1 year
+A667153,,Cat,Rabies Risk,Intact Male,1 month
+A667177,Tigre,Dog,Aggressive,Neutered Male,5 years
+A667206,,Cat,Suffering,Neutered Male,2 years
+A667225,,Dog,Suffering,Intact Female,9 years
+A667251,Delilah,Dog,Aggressive,Spayed Female,3 years
+A667257,,Dog,Suffering,Intact Female,7 years
+A667284,,Dog,Aggressive,Intact Male,2 years
+A667299,,Cat,Suffering,Unknown,1 year
+A667300,*Jones,Dog,Aggressive,Neutered Male,2 years
+A667363,Peluchin,Dog,Aggressive,Neutered Male,2 years
+A667410,,Dog,Suffering,Spayed Female,1 year
+A667499,,Cat,Suffering,Intact Male,1 month
+A667511,,Cat,Suffering,Intact Female,2 months
+A667524,*Pookie,Dog,Rabies Risk,Neutered Male,1 year
+A667532,Buzz,Dog,Aggressive,Intact Male,2 years
+A667534,Big Mack,Dog,Aggressive,Intact Male,7 years
+A667543,,Cat,Suffering,Neutered Male,6 years
+A667590,*Mikey,Cat,Suffering,Intact Male,1 month
+A667616,Arctic,Dog,Aggressive,Neutered Male,4 years
+A667635,,Cat,Suffering,Unknown,6 months
+A667755,*Nathan,Cat,Suffering,Neutered Male,2 months
+A667836,,Cat,Suffering,Neutered Male,9 years
+A667883,,Dog,Suffering,Intact Female,5 months
+A667976,Crystal,Dog,Behavior,Spayed Female,2 years
+A668001,Jack,Dog,Aggressive,Intact Male,2 years
+A668002,Zeva,Dog,Aggressive,Spayed Female,2 years
+A668079,King,Dog,Court/Investigation,Neutered Male,8 years
+A668113,Tiger,Dog,Suffering,Neutered Male,9 years
+A668166,Bear,Dog,Aggressive,Intact Male,7 months
+A668179,,Dog,Suffering,Intact Male,1 year
+A668180,,Dog,Suffering,Neutered Male,10 years
+A668196,,Cat,Suffering,Intact Female,5 years
+A668210,Hazel,Dog,Aggressive,Intact Female,2 years
+A668252,Fredo,Dog,Suffering,Neutered Male,14 years
+A668300,,Cat,Suffering,Neutered Male,8 years
+A668337,*Tony,Dog,Behavior,Intact Male,1 year
+A668356,Ricardo,Dog,Behavior,Neutered Male,3 years
+A668396,,Cat,Medical,Neutered Male,8 years
+A668413,,Cat,Suffering,Intact Male,2 months
+A668421,Babaloo,Dog,Aggressive,Neutered Male,2 years
+A668433,*Hoop,Dog,Aggressive,Intact Male,2 years
+A668438,,Dog,Aggressive,Intact Male,2 years
+A668439,,Dog,Aggressive,Intact Male,1 year
+A668440,,Dog,Aggressive,Intact Male,7 months
+A668441,,Dog,Aggressive,Intact Female,7 months
+A668493,,Dog,Aggressive,Intact Female,2 years
+A668495,,Dog,Behavior,Intact Male,3 years
+A668497,,Dog,Behavior,Intact Female,5 years
+A668530,,Dog,Aggressive,Intact Female,2 years
+A668575,Zoey Beth,Cat,Suffering,Intact Female,9 months
+A668586,Marley,Dog,Aggressive,Spayed Female,1 year
+A668626,,Dog,Suffering,Intact Male,3 years
+A668631,,Dog,Suffering,Intact Male,1 year
+A668632,,Dog,Suffering,Intact Female,3 years
+A668674,*Ernie,Dog,Aggressive,Neutered Male,8 months
+A668675,*Bert,Dog,Aggressive,Neutered Male,8 months
+A668726,,Cat,Suffering,Intact Female,1 year
+A668802,,Dog,Suffering,Intact Male,5 weeks
+A668822,,Cat,Suffering,Unknown,5 months
+A668893,Axel,Dog,Aggressive,Neutered Male,2 years
+A668912,Bella,Dog,Aggressive,Spayed Female,3 years
+A668954,,Cat,Suffering,Unknown,1 month
+A668972,Mufasa,Dog,Rabies Risk,Intact Male,4 years
+A668981,Rudolph,Cat,Suffering,Intact Male,12 years
+A669066,,Dog,Medical,Intact Female,3 years
+A669086,,Cat,Suffering,Intact Male,2 years
+A669105,*Roscoe,Dog,Aggressive,Neutered Male,2 years
+A669130,Benjaman,Dog,Aggressive,Neutered Male,5 years
+A669133,*Q,Dog,Aggressive,Neutered Male,4 years
+A669158,,Cat,Suffering,Intact Female,4 years
+A669195,Mimi,Dog,Suffering,Intact Female,12 years
+A669212,,Cat,Suffering,Intact Male,4 months
+A669240,,Dog,Aggressive,Intact Male,4 years
+A669308,,Dog,Suffering,Intact Female,2 months
+A669326,Turbo,Cat,Suffering,Intact Male,1 year
+A669367,Tabbie,Cat,Suffering,Neutered Male,18 years
+A669371,Mickey,Cat,Suffering,Neutered Male,9 years
+A669403,,Cat,Suffering,Intact Female,2 months
+A669416,Espana,Dog,Aggressive,Spayed Female,1 year
+A669450,,Cat,Rabies Risk,Unknown,1 month
+A669461,Kahlua,Dog,Suffering,Intact Female,13 years
+A669485,Shades,Dog,Aggressive,Intact Male,2 years
+A669535,*Malachi,Dog,Aggressive,Neutered Male,5 years
+A669550,,Cat,Suffering,Intact Female,15 years
+A669556,,Cat,Suffering,Intact Female,1 month
+A669561,,Dog,Suffering,Intact Male,5 years
+A669563,Killer,Dog,Suffering,Intact Male,2 years
+A669576,,Cat,Suffering,Intact Female,8 years
+A669580,Biscuit,Dog,Suffering,Spayed Female,13 years
+A669603,*Gimpy Cb,Cat,Suffering,Intact Female,4 months
+A669640,Sissy,Dog,Court/Investigation,Intact Female,1 year
+A669645,Cookie,Dog,Aggressive,Intact Female,5 months
+A669646,Beagle,Dog,Aggressive,Intact Female,1 year
+A669667,,Dog,Suffering,Intact Female,2 years
+A669711,Napoleon,Dog,Suffering,Intact Male,17 years
+A669728,Mellow,Cat,Suffering,Spayed Female,13 years
+A669749,*Boxer,Dog,Aggressive,Neutered Male,2 years
+A669784,*Precious,Dog,Aggressive,Intact Female,1 year
+A669785,,Cat,Suffering,Intact Male,2 years
+A669811,Quico Kico,Dog,Suffering,Neutered Male,7 years
+A669839,Aurora,Dog,Suffering,Spayed Female,4 years
+A669859,*Mack,Dog,Behavior,Intact Male,2 years
+A669880,,Cat,Suffering,Intact Female,10 years
+A669884,,Cat,Suffering,Unknown,6 months
+A669925,Tugga,Cat,Suffering,Neutered Male,2 years
+A669934,Cookie,Dog,Aggressive,Intact Female,2 years
+A669960,*Fiona,Dog,Aggressive,Intact Female,3 years
+A669966,,Cat,Suffering,Intact Female,8 months
+A669977,*Zeppo,Dog,Rabies Risk,Neutered Male,1 year
+A670009,Delilah,Dog,Rabies Risk,Spayed Female,3 years
+A670044,,Cat,Suffering,Intact Male,3 years
+A670085,,Cat,Rabies Risk,Intact Male,5 years
+A670092,,Dog,Suffering,Intact Female,5 years
+A670195,,Cat,Suffering,Intact Female,2 years
+A670218,,Dog,Suffering,Intact Female,10 months
+A670260,,Dog,Suffering,Intact Female,12 years
+A670285,,Dog,Behavior,Intact Male,2 years
+A670308,,Dog,Rabies Risk,Intact Female,2 years
+A670310,*Toney,Cat,Suffering,Intact Male,4 months
+A670328,,Cat,Suffering,Neutered Male,1 year
+A670331,,Dog,Aggressive,Intact Female,2 years
+A670347,Ottis,Dog,Suffering,Intact Male,13 years
+A670354,Buddy,Dog,Suffering,Intact Male,2 years
+A670358,,Dog,Suffering,Intact Male,2 years
+A670388,,Cat,Suffering,Neutered Male,12 years
+A670417,Spot,Dog,Rabies Risk,Neutered Male,5 years
+A670460,,Dog,Suffering,Intact Female,1 year
+A670468,Cat 1,Cat,Suffering,Spayed Female,3 years
+A670477,*Mika,Dog,Aggressive,Spayed Female,1 year
+A670518,Paloma,Dog,Suffering,Intact Female,15 years
+A670578,,Cat,Suffering,Intact Female,5 years
+A670595,Grace,Dog,Suffering,Intact Female,16 years
+A670631,,Dog,Behavior,Intact Female,1 year
+A670632,,Cat,Suffering,Intact Male,1 year
+A670655,Brick,Dog,Behavior,Neutered Male,4 years
+A670685,,Cat,Suffering,Intact Male,3 months
+A670698,Nestle,Cat,Medical,Spayed Female,3 years
+A670727,,Dog,Suffering,Intact Male,4 weeks
+A670760,,Dog,Suffering,Intact Male,1 month
+A670765,,Dog,Suffering,Intact Female,12 years
+A670821,Dekota,Dog,Aggressive,Spayed Female,4 years
+A670923,Kayna,Dog,Behavior,Spayed Female,1 year
+A670925,Charlie,Dog,Aggressive,Neutered Male,2 years
+A670952,Tiger,Dog,Aggressive,Neutered Male,8 years
+A670980,,Dog,Suffering,Intact Male,6 months
+A671024,,Cat,Suffering,Intact Female,1 year
+A671059,,Cat,Suffering,Intact Female,5 weeks
+A671060,*Jimmy,Cat,Suffering,Intact Male,1 month
+A671063,*Jake,Cat,Suffering,Intact Male,1 month
+A671157,,Cat,Suffering,Intact Female,6 months
+A671161,Cash,Dog,Aggressive,Neutered Male,2 years
+A671169,,Cat,Suffering,Intact Female,18 years
+A671187,,Dog,Suffering,Intact Male,1 year
+A671227,*Doodlebug,Dog,Suffering,Intact Male,9 years
+A671248,,Dog,Suffering,Intact Female,2 years
+A671289,,Cat,Suffering,Intact Male,2 years
+A671344,,Dog,Rabies Risk,Intact Male,2 years
+A671345,Miles,Cat,Suffering,Neutered Male,15 years
+A671380,,Dog,Suffering,Neutered Male,10 years
+A671383,Cj,Cat,Suffering,Neutered Male,3 years
+A671439,Faith,Dog,Suffering,Spayed Female,14 years
+A671452,*Rainer,Dog,Aggressive,Neutered Male,2 years
+A671469,,Cat,Medical,Intact Male,3 days
+A671474,Princess,Dog,Aggressive,Spayed Female,6 years
+A671478,Buddy,Dog,Aggressive,Neutered Male,2 years
+A671488,Whiskers,Cat,Suffering,Spayed Female,20 years
+A671541,Buddy,Dog,Suffering,Neutered Male,10 years
+A671547,*Shelby,Dog,Aggressive,Spayed Female,2 years
+A671623,,Cat,Suffering,Intact Male,10 years
+A671636,Rocky,Dog,Aggressive,Neutered Male,3 years
+A671639,,Dog,Suffering,Intact Female,2 years
+A671687,,Dog,Suffering,Spayed Female,13 years
+A671706,,Dog,Aggressive,Intact Female,2 years
+A671869,,Cat,Suffering,Intact Male,4 years
+A671877,Kinda,Dog,Medical,Intact Female,6 years
+A671913,*Joe,Dog,Rabies Risk,Neutered Male,1 year
+A671944,,Cat,Suffering,Intact Female,5 months
+A672007,Maite,Dog,Suffering,Intact Female,2 months
+A672075,,Cat,Suffering,Intact Male,4 years
+A672091,,Dog,Suffering,Intact Female,2 years
+A672128,Bentley,Dog,Aggressive,Neutered Male,6 years
+A672193,*Hickory,Cat,Medical,Neutered Male,4 months
+A672198,*Teddy,Dog,Suffering,Intact Male,6 years
+A672209,,Dog,Suffering,Intact Female,1 year
+A672210,Cochise,Dog,Behavior,Intact Female,2 years
+A672243,,Cat,Suffering,Intact Male,1 year
+A672271,,Dog,Rabies Risk,Intact Male,10 years
+A672353,Abby,Dog,Suffering,Intact Female,13 years
+A672354,,Cat,Suffering,Unknown,10 years
+A672383,Yayo,Dog,Aggressive,Intact Male,1 year
+A672409,Bruce,Dog,Rabies Risk,Neutered Male,3 years
+A672449,,Dog,Behavior,Intact Male,1 year
+A672492,*Ray,Dog,Aggressive,Neutered Male,3 years
+A672497,Lady,Dog,Behavior,Spayed Female,1 year
+A672533,,Dog,Suffering,Intact Male,4 years
+A672542,Levi,Dog,Aggressive,Neutered Male,5 years
+A672570,,Cat,Suffering,Intact Female,1 year
+A672585,,Cat,Suffering,Intact Male,1 year
+A672589,,Cat,Suffering,Neutered Male,10 years
+A672601,,Dog,Suffering,Intact Female,2 months
+A672612,,Cat,Suffering,Intact Male,2 years
+A672654,Trippy,Dog,Suffering,Intact Male,6 years
+A672694,,Cat,Suffering,Neutered Male,3 years
+A672702,,Dog,Suffering,Intact Female,3 months
+A672744,Oso,Dog,Aggressive,Intact Male,3 years
+A672745,*Dottie,Dog,Behavior,Spayed Female,2 years
+A672777,Snoopy,Cat,Suffering,Neutered Male,15 years
+A672970,Calliope,Cat,Rabies Risk,Spayed Female,11 years
+A672982,King,Dog,Aggressive,Neutered Male,3 years
+A673000,,Dog,Rabies Risk,Intact Male,1 year
+A673005,Bella,Dog,Aggressive,Spayed Female,2 years
+A673191,Max,Dog,Rabies Risk,Intact Male,3 years
+A673215,,Cat,Suffering,Intact Female,2 years
+A673223,,Dog,Suffering,Intact Female,10 years
+A673245,Brownie,Dog,Aggressive,Spayed Female,3 years
+A673262,Bonnie P.,Dog,Suffering,Intact Female,6 months
+A673275,Prince,Dog,Aggressive,Intact Male,3 years
+A673319,Coco,Dog,Behavior,Spayed Female,3 years
+A673352,,Cat,Suffering,Intact Female,1 year
+A673359,,Dog,Rabies Risk,Intact Female,2 months
+A673391,,Dog,Suffering,Intact Male,13 years
+A673394,Maya,Dog,Suffering,Spayed Female,5 years
+A673422,Cujo,Dog,Aggressive,Intact Male,1 year
+A673436,Lucky,Dog,Aggressive,Neutered Male,4 years
+A673466,*Guinness,Dog,Aggressive,Neutered Male,4 years
+A673497,,Cat,Suffering,Intact Male,1 year
+A673501,Cassandra,Dog,Suffering,Spayed Female,1 year
+A673506,*Briggs,Dog,Behavior,Intact Male,3 years
+A673526,,Cat,Suffering,Intact Female,8 years
+A673540,Doc,Dog,Aggressive,Neutered Male,7 years
+A673557,Oscar,Dog,Suffering,Intact Male,5 months
+A673564,,Cat,Suffering,Intact Female,1 year
+A673571,,Dog,Suffering,Intact Male,2 years
+A673596,Charlie,Dog,Suffering,Neutered Male,15 years
+A673611,Blackie,Dog,Aggressive,Intact Male,2 years
+A673670,Lola,Dog,Aggressive,Spayed Female,1 year
+A673693,,Cat,Suffering,Intact Female,8 years
+A673709,,Cat,Suffering,Unknown,1 year
+A673761,*Esme,Dog,Behavior,Intact Female,4 years
+A673771,Dub,Dog,Suffering,Neutered Male,2 years
+A673774,Charlie,Dog,Aggressive,Neutered Male,5 years
+A673810,Callie,Dog,Aggressive,Spayed Female,10 months
+A673830,*Seth,Dog,Aggressive,Neutered Male,2 years
+A673851,*Lily,Dog,Aggressive,Spayed Female,1 year
+A673912,*Edward,Dog,Behavior,Intact Male,3 years
+A673935,,Cat,Suffering,Spayed Female,2 years
+A673944,,Cat,Suffering,Neutered Male,4 years
+A673947,*Baby,Dog,Suffering,Intact Female,3 years
+A673970,,Cat,Suffering,Intact Male,1 year
+A674042,Rocko,Dog,Aggressive,Neutered Male,4 years
+A674072,*Jacob,Dog,Rabies Risk,Intact Male,2 years
+A674093,,Dog,Suffering,Intact Male,10 years
+A674096,,Cat,Suffering,Intact Male,2 years
+A674141,Zak,Dog,Behavior,Neutered Male,2 years
+A674150,Angel,Dog,Suffering,Intact Female,9 years
+A674158,Zoey,Dog,Aggressive,Spayed Female,1 year
+A674160,Mya,Cat,Suffering,Spayed Female,10 years
+A674162,Marley,Dog,Aggressive,Neutered Male,4 years
+A674210,,Cat,Suffering,Intact Male,2 years
+A674216,*Akhom,Dog,Behavior,Neutered Male,2 years
+A674236,*Renee,Dog,Medical,Intact Female,10 years
+A674347,,Dog,Aggressive,Intact Male,1 year
+A674402,*Delilah,Dog,Behavior,Intact Female,1 year
+A674425,Amy,Dog,Suffering,Spayed Female,8 years
+A674455,Calypso,Dog,Behavior,Spayed Female,3 years
+A674472,,Cat,Aggressive,Unknown,3 years
+A674476,*Fiona,Cat,Suffering,Intact Female,3 years
+A674489,Boo,Dog,Aggressive,Spayed Female,2 years
+A674490,Princess,Dog,Behavior,Spayed Female,11 months
+A674506,,Dog,Suffering,Intact Male,4 years
+A674511,Lady,Dog,Aggressive,Spayed Female,2 years
+A674518,Scooter,Cat,Suffering,Spayed Female,14 years
+A674550,Chico,Dog,Rabies Risk,Neutered Male,1 year
+A674568,Porkchop,Dog,Aggressive,Intact Male,3 years
+A674601,*Sheila,Dog,Suffering,Intact Female,2 months
+A674628,,Dog,Aggressive,Intact Female,2 years
+A674656,,Dog,Suffering,Intact Female,7 years
+A674659,,Dog,Aggressive,Intact Male,2 years
+A674702,,Dog,Suffering,Intact Male,3 years
+A674708,Lucky,Dog,Behavior,Neutered Male,2 years
+A674746,Toby,Dog,Suffering,Neutered Male,3 years
+A674783,Yogi,Dog,Suffering,Neutered Male,10 years
+A674847,Chichio,Dog,Aggressive,Neutered Male,4 years
+A674873,,Cat,Suffering,Intact Female,1 year
+A674902,,Dog,Suffering,Intact Female,5 months
+A674998,Buttercup,Cat,Suffering,Spayed Female,4 years
+A675021,,Cat,Suffering,Intact Female,1 year
+A675038,Coco,Dog,Aggressive,Intact Female,2 years
+A675069,*Spring,Cat,Suffering,Spayed Female,10 years
+A675072,Kelly,Cat,Suffering,Spayed Female,9 years
+A675120,,Dog,Aggressive,Intact Female,1 year
+A675125,,Cat,Suffering,Intact Female,1 year
+A675145,,Cat,Suffering,Unknown,2 years
+A675159,Barbie,Dog,Suffering,Intact Female,3 years
+A675163,,Cat,Suffering,Intact Male,2 years
+A675166,,Cat,Suffering,Intact Male,3 years
+A675215,Benjamin,Dog,Behavior,Neutered Male,2 years
+A675288,,Dog,Suffering,Intact Female,8 years
+A675299,Cosmo,Cat,Suffering,Intact Female,5 years
+A675305,,Cat,Suffering,Unknown,2 years
+A675337,Princess,Dog,Aggressive,Intact Female,8 years
+A675338,*Carlton,Dog,Aggressive,Intact Male,8 years
+A675352,,Dog,Suffering,Intact Female,6 years
+A675353,,Dog,Suffering,Unknown,9 months
+A675426,,Cat,Suffering,Intact Female,12 years
+A675480,Boots,Cat,Suffering,Intact Male,10 years
+A675535,,Cat,Suffering,Spayed Female,1 year
+A675554,,Dog,Suffering,Intact Female,3 years
+A675577,,Cat,Suffering,Intact Male,1 year
+A675597,Gorda,Dog,Aggressive,Spayed Female,1 year
+A675638,,Cat,Suffering,Neutered Male,1 year
+A675642,,Dog,Suffering,Neutered Male,14 years
+A675687,Sintex,Dog,Aggressive,Intact Female,1 year
+A675789,*Willis,Dog,Aggressive,Neutered Male,2 years
+A675818,Beethoven,Dog,Aggressive,Intact Male,2 years
+A675894,Cleopatra,Cat,Suffering,Spayed Female,7 years
+A675935,Kane,Dog,Medical,Intact Male,5 years
+A676004,Scratch,Cat,Suffering,Intact Female,5 years
+A676063,,Cat,Suffering,Unknown,1 year
+A676097,Murphy,Dog,Rabies Risk,Intact Male,12 years
+A676105,*Munch,Dog,Behavior,Intact Male,2 years
+A676108,Orange Cat,Cat,Suffering,Neutered Male,10 years
+A676112,Trouble,Dog,Aggressive,Intact Female,1 year
+A676122,,Dog,Suffering,Intact Male,8 months
+A676127,,Dog,Suffering,Intact Female,2 weeks
+A676136,,Cat,Suffering,Intact Male,1 year
+A676219,,Cat,Suffering,Intact Male,12 years
+A676227,,Cat,Suffering,Neutered Male,12 years
+A676231,Spike,Dog,Suffering,Neutered Male,4 years
+A676234,,Dog,Aggressive,Intact Female,3 years
+A676236,,Dog,Aggressive,Intact Male,3 years
+A676242,,Cat,Suffering,Intact Female,3 years
+A676345,Parker,Dog,Aggressive,Neutered Male,3 years
+A676352,*Byron,Dog,Behavior,Neutered Male,1 year
+A676355,*Farley,Dog,Aggressive,Neutered Male,2 years
+A676434,*Buddy,Dog,Aggressive,Neutered Male,2 years
+A676460,* Mario,Dog,Behavior,Neutered Male,2 years
+A676507,,Cat,Rabies Risk,Spayed Female,2 years
+A676561,*Leo,Cat,Suffering,Intact Male,1 year
+A676571,Apple,Dog,Aggressive,Spayed Female,3 years
+A676585,Molly,Dog,Aggressive,Spayed Female,1 year
+A676615,Capone,Dog,Aggressive,Intact Male,2 years
+A676655,,Cat,Suffering,Neutered Male,5 years
+A676661,Callie,Dog,Rabies Risk,Spayed Female,3 years
+A676680,Hero,Dog,Aggressive,Spayed Female,2 years
+A676724,,Cat,Suffering,Intact Male,14 years
+A676735,Oscar,Cat,Suffering,Neutered Male,7 years
+A676745,Astro,Dog,Rabies Risk,Neutered Male,2 years
+A676750,,Cat,Suffering,Intact Male,1 month
+A676794,,Cat,Suffering,Intact Female,1 week
+A676912,,Cat,Suffering,Intact Female,1 year
+A676916,*Lexie,Dog,Behavior,Spayed Female,3 years
+A676926,,Cat,Suffering,Intact Female,4 weeks
+A676937,,Cat,Suffering,Intact Female,1 month
+A676940,Ace,Dog,Rabies Risk,Intact Male,7 years
+A676959,,Cat,Suffering,Intact Female,5 months
+A676991,Scrappy,Dog,Suffering,Neutered Male,17 years
+A677001,Yeti,Dog,Aggressive,Neutered Male,1 year
+A677046,,Cat,Aggressive,Intact Male,2 years
+A677088,,Cat,Suffering,Intact Female,1 month
+A677131,,Dog,Suffering,Intact Female,2 years
+A677139,,Cat,Suffering,Intact Male,3 years
+A677143,,Cat,Suffering,Intact Male,2 years
+A677199,,Cat,Suffering,Neutered Male,9 years
+A677201,*Milton,Dog,Behavior,Neutered Male,2 years
+A677222,,Dog,Aggressive,Intact Male,2 years
+A677262,,Cat,Suffering,Spayed Female,13 years
+A677277,*Pedro,Dog,Aggressive,Intact Male,1 year
+A677301,,Cat,Suffering,Intact Male,4 years
+A677356,,Cat,Suffering,Intact Female,3 weeks
+A677421,,Cat,Suffering,Intact Male,1 year
+A677473,,Cat,Suffering,Intact Female,13 years
+A677474,Dana,Dog,Suffering,Spayed Female,9 years
+A677564,,Cat,Rabies Risk,Intact Male,3 weeks
+A677605,Jr,Dog,Suffering,Neutered Male,11 years
+A677633,,Cat,Suffering,Unknown,2 weeks
+A677720,Zero,Dog,Suffering,Intact Female,2 years
+A677749,,Dog,Aggressive,Intact Male,2 years
+A677786,Potter,Dog,Behavior,Neutered Male,3 years
+A677792,,Cat,Suffering,Intact Female,1 week
+A677841,,Cat,Suffering,Unknown,1 month
+A677844,Astro,Dog,Suffering,Neutered Male,2 years
+A677890,,Cat,Suffering,Intact Female,2 years
+A677912,Midnight,Dog,Suffering,Intact Female,16 years
+A677918,Buddy,Dog,Aggressive,Neutered Male,7 years
+A677943,,Cat,Suffering,Intact Female,3 years
+A677944,,Cat,Suffering,Unknown,3 weeks
+A677954,Sandy,Dog,Suffering,Intact Female,10 years
+A677960,Bungee,Dog,Aggressive,Neutered Male,3 years
+A677983,Neo,Dog,Suffering,Neutered Male,2 years
+A677997,Rocky,Dog,Behavior,Neutered Male,8 years
+A678047,*Abigail,Dog,Medical,Spayed Female,5 years
+A678057,Luna,Dog,Suffering,Spayed Female,15 years
+A678076,Bo,Dog,Suffering,Neutered Male,12 years
+A678099,Spartacus,Dog,Aggressive,Neutered Male,2 years
+A678218,Rocky,Dog,Suffering,Neutered Male,11 years
+A678266,Sonny,Dog,Aggressive,Neutered Male,1 year
+A678276,,Cat,Suffering,Spayed Female,3 years
+A678293,,Dog,Suffering,Intact Male,6 years
+A678338,Infinity,Cat,Suffering,Intact Female,18 years
+A678398,Unique,Dog,Suffering,Intact Female,10 years
+A678428,,Dog,Aggressive,Intact Male,1 year
+A678433,Roscoe,Dog,Aggressive,Intact Male,2 years
+A678485,Money,Dog,Suffering,Intact Male,14 years
+A678506,Prec Punkin',Dog,Suffering,Spayed Female,11 years
+A678600,,Dog,Suffering,Intact Female,1 year
+A678606,Louis,Dog,Suffering,Intact Male,1 month
+A678634,Champion,Dog,Behavior,Intact Male,4 years
+A678651,*Meg,Cat,Suffering,Spayed Female,10 years
+A678663,,Cat,Suffering,Intact Female,1 month
+A678691,,Cat,Suffering,Intact Female,6 months
+A678778,Cowboy,Dog,Rabies Risk,Neutered Male,12 years
+A678788,Doc,Dog,Aggressive,Neutered Male,7 years
+A678851,*Olivia,Cat,Suffering,Intact Female,1 month
+A678920,Frank,Dog,Aggressive,Intact Male,6 years
+A678921,Tiddle Bug,Dog,Suffering,Neutered Male,12 years
+A678976,Major,Dog,Aggressive,Intact Male,1 year
+A679029,,Dog,Suffering,Intact Male,10 months
+A679038,Leona,Cat,Suffering,Intact Female,8 years
+A679050,,Cat,Suffering,Unknown,1 month
+A679060,,Cat,Suffering,Unknown,2 weeks
+A679070,,Dog,Suffering,Neutered Male,11 months
+A679091,,Cat,Suffering,Unknown,7 years
+A679098,Lola,Dog,Aggressive,Spayed Female,1 year
+A679154,Buddy,Dog,Aggressive,Intact Male,5 years
+A679165,,Cat,Suffering,Intact Female,1 year
+A679167,,Cat,Suffering,Intact Male,4 years
+A679212,,Cat,Suffering,Intact Female,2 weeks
+A679250,Thor,Dog,Suffering,Neutered Male,8 years
+A679271,*Nero,Dog,Aggressive,Neutered Male,5 years
+A679298,Debo,Dog,Aggressive,Intact Male,6 years
+A679303,,Dog,Suffering,Intact Female,3 years
+A679380,,Cat,Suffering,Intact Male,3 years
+A679382,,Cat,Suffering,Intact Male,3 weeks
+A679396,Blitz,Dog,Aggressive,Neutered Male,3 years
+A679419,*Hoppin' Jon,Dog,Aggressive,Neutered Male,2 years
+A679458,*Ava,Cat,Suffering,Intact Female,4 weeks
+A679459,Major,Dog,Behavior,Neutered Male,3 years
+A679486,*Bernice,Cat,Suffering,Spayed Female,10 years
+A679525,,Cat,Suffering,Intact Female,10 years
+A679529,,Dog,Aggressive,Intact Male,2 years
+A679533,Star,Dog,Aggressive,Intact Female,3 years
+A679565,Diamond,Dog,Medical,Intact Female,1 year
+A679591,*Quinne,Dog,Behavior,Spayed Female,2 years
+A679611,,Dog,Aggressive,Intact Male,3 years
+A679631,Callie,Cat,Suffering,Spayed Female,12 years
+A679645,*Calvin,Dog,Behavior,Neutered Male,1 year
+A679655,,Cat,Suffering,Neutered Male,2 years
+A679659,,Dog,Suffering,Intact Male,4 weeks
+A679678,*Crumbs,Cat,Suffering,Intact Male,1 month
+A679680,*Toffee,Cat,Suffering,Intact Male,1 month
+A679795,,Cat,Suffering,Intact Male,2 weeks
+A679796,James,Cat,Suffering,Intact Male,17 years
+A679896,,Cat,Suffering,Intact Female,1 month
+A679907,Oliver,Cat,Suffering,Intact Male,1 month
+A679939,Tom,Cat,Suffering,Intact Male,2 years
+A680016,,Dog,Aggressive,Intact Female,4 years
+A680041,,Dog,Suffering,Intact Female,12 years
+A680049,,Cat,Suffering,Intact Female,2 months
+A680081,Coqueta,Dog,Aggressive,Spayed Female,3 years
+A680094,,Cat,Suffering,Unknown,4 weeks
+A680095,,Cat,Suffering,Unknown,4 weeks
+A680096,,Cat,Suffering,Unknown,4 weeks
+A680097,,Cat,Suffering,Unknown,4 weeks
+A680127,,Cat,Rabies Risk,Intact Female,1 month
+A680158,*Cole,Dog,Behavior,Neutered Male,1 year
+A680177,,Dog,Suffering,Intact Male,1 month
+A680222,,Cat,Suffering,Unknown,3 days
+A680223,,Cat,Suffering,Unknown,3 days
+A680235,,Cat,Suffering,Neutered Male,10 years
+A680239,,Cat,Suffering,Unknown,2 years
+A680257,,Cat,Suffering,Intact Male,2 years
+A680290,Chino,Dog,Aggressive,Neutered Male,1 year
+A680320,,Cat,Suffering,Unknown,1 month
+A680330,,Cat,Suffering,Intact Male,1 month
+A680366,*Stacey,Dog,Aggressive,Intact Female,2 years
+A680367,Bear,Dog,Rabies Risk,Intact Male,9 years
+A680372,,Cat,Suffering,Intact Female,4 weeks
+A680373,Kate,Cat,Suffering,Intact Female,1 month
+A680501,Blu,Dog,Aggressive,Neutered Male,4 years
+A680527,*Shadow,Dog,Behavior,Neutered Male,1 year
+A680529,,Cat,Suffering,Intact Male,1 month
+A680542,,Cat,Suffering,Intact Male,2 years
+A680592,,Cat,Suffering,Intact Male,1 year
+A680608,,Cat,Suffering,Unknown,1 month
+A680623,Lovely Boy,Cat,Medical,Intact Male,12 years
+A680731,Boo Boo,Cat,Suffering,Unknown,10 years
+A680751,,Cat,Suffering,Intact Female,6 months
+A680763,,Dog,Suffering,Intact Female,1 year
+A680767,,Dog,Suffering,Intact Female,2 years
+A680779,Casper,Dog,Rabies Risk,Intact Male,3 years
+A680780,Mei Mei,Dog,Behavior,Spayed Female,2 years
+A680804,,Cat,Suffering,Intact Male,7 years
+A680811,,Dog,Suffering,Intact Female,1 year
+A680812,,Cat,Suffering,Intact Female,5 months
+A680823,,Cat,Suffering,Intact Female,1 month
+A680869,*Ponyboy,Cat,Suffering,Intact Male,1 month
+A680890,,Dog,Suffering,Intact Female,2 years
+A680977,,Dog,Suffering,Intact Female,3 months
+A680995,,Cat,Suffering,Unknown,4 weeks
+A681001,,Cat,Suffering,Intact Female,10 years
+A681005,,Dog,Medical,Intact Female,2 months
+A681037,,Dog,Medical,Intact Male,3 years
+A681067,*Summer,Dog,Aggressive,Spayed Female,3 years
+A681104,,Cat,Suffering,Spayed Female,7 years
+A681140,,Cat,Suffering,Unknown,5 months
+A681148,Angel,Cat,Suffering,Neutered Male,14 years
+A681153,,Cat,Suffering,Intact Male,2 months
+A681155,Jeff,Dog,Suffering,Neutered Male,2 years
+A681157,,Cat,Medical,Intact Male,1 month
+A681229,,Dog,Suffering,Intact Male,1 year
+A681234,,Dog,Suffering,Intact Male,10 years
+A681273,,Dog,Suffering,Intact Female,2 years
+A681307,*Scarlet,Cat,Suffering,Spayed Female,6 years
+A681363,,Cat,Suffering,Neutered Male,10 years
+A681379,Coffee,Dog,Medical,Intact Male,4 years
+A681388,Blue,Dog,Aggressive,Intact Male,1 year
+A681431,*Deltadawn,Dog,Behavior,Intact Female,5 years
+A681449,Buster,Dog,Aggressive,Neutered Male,4 years
+A681541,,Dog,Behavior,Intact Male,2 years
+A681593,,Cat,Rabies Risk,Intact Male,4 weeks
+A681605,,Dog,Medical,Intact Female,5 years
+A681611,,Cat,Suffering,Intact Male,2 months
+A681635,,Dog,Suffering,Intact Female,14 years
+A681643,,Cat,Suffering,Neutered Male,10 years
+A681697,,Cat,Suffering,Intact Male,1 month
+A681698,Rocky,Dog,Suffering,Intact Male,1 month
+A681701,,Cat,Suffering,Intact Male,3 days
+A681707,*Bear,Cat,Suffering,Intact Male,1 month
+A681769,Pixie,Dog,Medical,Spayed Female,8 years
+A681827,Quincy,Dog,Aggressive,Neutered Male,3 years
+A681837,,Cat,Rabies Risk,Intact Male,2 months
+A681871,,Cat,Suffering,Intact Female,8 years
+A681883,,Cat,Suffering,Neutered Male,10 years
+A681899,,Cat,Suffering,Unknown,3 years
+A681938,*Martha,Cat,Suffering,Intact Female,2 months
+A682020,King,Dog,Behavior,Intact Male,2 years
+A682054,Tom,Cat,Suffering,Intact Female,1 month
+A682062,,Dog,Suffering,Neutered Male,13 years
+A682065,Baby,Cat,Suffering,Intact Female,5 months
+A682073,,Dog,Suffering,Intact Female,3 years
+A682074,,Dog,Suffering,Intact Female,8 years
+A682109,,Cat,Suffering,Intact Male,2 weeks
+A682201,*Buzz,Cat,Medical,Neutered Male,3 years
+A682248,,Dog,Aggressive,Intact Male,2 years
+A682381,Oreo,Dog,Suffering,Intact Female,8 years
+A682431,,Cat,Suffering,Unknown,3 months
+A682447,,Cat,Suffering,Intact Female,3 months
+A682489,,Cat,Suffering,Neutered Male,10 years
+A682530,Minnie,Dog,Suffering,Intact Female,14 years
+A682539,,Cat,Suffering,Unknown,3 months
+A682574,,Cat,Suffering,Unknown,1 month
+A682585,,Dog,Suffering,Spayed Female,8 years
+A682618,,Dog,Aggressive,Neutered Male,5 years
+A682657,,Cat,Suffering,Intact Female,4 months
+A682664,*Ocho,Dog,Aggressive,Intact Male,2 years
+A682676,Tucker,Dog,Aggressive,Neutered Male,7 years
+A682690,,Cat,Suffering,Unknown,1 year
+A682707,*Jake,Dog,Aggressive,Intact Male,2 years
+A682726,Rocky,Dog,Behavior,Intact Male,1 year
+A682769,,Dog,Suffering,Intact Male,5 years
+A682772,,Cat,Suffering,Spayed Female,8 years
+A682866,,Cat,Suffering,Intact Female,7 years
+A682883,Sunshine,Dog,Suffering,Intact Female,12 years
+A682891,*Leo,Dog,Suffering,Intact Male,1 year
+A682897,Porthos,Dog,Rabies Risk,Neutered Male,3 years
+A682912,,Cat,Suffering,Intact Male,6 days
+A682922,,Cat,Suffering,Spayed Female,2 years
+A682965,,Dog,Suffering,Intact Male,10 years
+A683016,,Cat,Suffering,Intact Male,4 weeks
+A683024,*Ruby,Dog,Medical,Intact Female,13 years
+A683084,,Cat,Suffering,Intact Female,12 years
+A683189,,Cat,Suffering,Intact Female,4 weeks
+A683197,*Herbie,Dog,Behavior,Intact Male,2 years
+A683224,,Cat,Suffering,Intact Male,1 month
+A683255,*Arthur,Cat,Suffering,Intact Male,1 month
+A683259,X,Dog,Medical,Intact Female,10 years
+A683303,,Cat,Suffering,Intact Male,1 month
+A683309,,Dog,Behavior,Spayed Female,7 years
+A683310,,Dog,Suffering,Intact Male,1 weeks
+A683354,,Dog,Suffering,Intact Male,3 years
+A683394,*Redford,Dog,Behavior,Intact Male,1 year
+A683403,*Koko,Cat,Medical,Intact Female,1 month
+A683433,*Vera,Cat,Medical,Intact Female,1 month
+A683491,,Dog,Suffering,Intact Female,2 years
+A683519,,Cat,Suffering,Intact Female,2 months
+A683533,Keah,Cat,Suffering,Spayed Female,8 years
+A683571,,Cat,Suffering,Intact Male,1 week
+A683586,,Cat,Suffering,Intact Female,12 years
+A683587,Nubbins,Cat,Suffering,Neutered Male,8 years
+A683618,,Cat,Suffering,Intact Male,3 weeks
+A683619,,Cat,Rabies Risk,Intact Male,3 weeks
+A683634,,Cat,Suffering,Intact Male,4 years
+A683649,,Cat,Suffering,Intact Female,7 years
+A683654,,Dog,Behavior,Neutered Male,1 year
+A683661,Gracie,Cat,Suffering,Spayed Female,11 years
+A683672,Oso,Dog,Aggressive,Neutered Male,2 years
+A683692,,Dog,Aggressive,Intact Female,3 years
+A683775,Logan,Cat,Suffering,Neutered Male,6 years
+A683804,L.J.,Cat,Suffering,Intact Female,1 year
+A683830,,Cat,Suffering,Neutered Male,10 years
+A683833,,Dog,Rabies Risk,Intact Female,2 years
+A683840,,Dog,Suffering,Intact Female,12 years
+A683862,Kayla,Dog,Aggressive,Spayed Female,6 years
+A683879,,Cat,Suffering,Intact Male,1 month
+A683886,Toby,Dog,Aggressive,Intact Male,2 years
+A683899,,Cat,Suffering,Intact Female,2 years
+A683920,,Dog,Suffering,Intact Female,2 years
+A683930,,Dog,Suffering,Intact Female,5 months
+A683941,,Cat,Suffering,Intact Male,1 year
+A683973,,Cat,Suffering,Neutered Male,5 years
+A683997,Knight,Dog,Behavior,Neutered Male,2 years
+A684040,Patch,Dog,Suffering,Spayed Female,16 years
+A684041,*Bree,Dog,Aggressive,Spayed Female,4 years
+A684054,Frank,Dog,Behavior,Neutered Male,2 years
+A684059,,Cat,Suffering,Intact Male,1 month
+A684066,,Cat,Suffering,Intact Male,1 month
+A684097,,Cat,Suffering,Intact Female,9 months
+A684110,,Cat,Suffering,Intact Female,4 weeks
+A684116,Niblet,Cat,Suffering,Neutered Male,12 years
+A684158,,Cat,Suffering,Intact Male,1 year
+A684209,*Stitch,Dog,Behavior,Neutered Male,1 year
+A684265,Heartbreaker,Dog,Aggressive,Intact Male,2 years
+A684266,,Cat,Suffering,Intact Male,2 months
+A684272,,Dog,Aggressive,Intact Female,4 months
+A684274,Oreo,Dog,Aggressive,Intact Female,6 months
+A684277,Shorty,Dog,Aggressive,Intact Male,1 year
+A684282,Cheyenne,Dog,Aggressive,Intact Female,4 months
+A684290,Lefty,Dog,Aggressive,Intact Male,4 months
+A684292,,Dog,Aggressive,Intact Male,2 years
+A684297,Dj,Dog,Suffering,Intact Male,3 months
+A684306,Shadow,Dog,Suffering,Neutered Male,14 years
+A684319,Kisses,Dog,Aggressive,Intact Female,2 years
+A684320,Missy,Dog,Aggressive,Intact Female,2 years
+A684321,Snoop Dog,Dog,Aggressive,Intact Female,2 years
+A684336,,Cat,Suffering,Intact Male,1 month
+A684369,,Dog,Suffering,Intact Male,2 years
+A684370,,Cat,Suffering,Unknown,15 years
+A684396,,Dog,Suffering,Intact Male,1 month
+A684400,Riley,Dog,Suffering,Neutered Male,9 years
+A684407,Snow,Dog,Suffering,Spayed Female,9 years
+A684441,,Cat,Suffering,Intact Male,1 year
+A684444,,Dog,Suffering,Intact Male,1 month
+A684461,,Dog,Suffering,Neutered Male,15 years
+A684538,Tui,Cat,Suffering,Neutered Male,1 year
+A684665,,Dog,Suffering,Intact Female,4 years
+A684698,,Cat,Suffering,Intact Male,1 month
+A684711,*Wally,Cat,Suffering,Intact Male,1 month
+A684731,*Benny,Cat,Suffering,Intact Male,1 month
+A684751,,Cat,Suffering,Intact Female,2 years
+A684752,*Liam,Dog,Behavior,Neutered Male,2 years
+A684803,Oscar,Dog,Suffering,Neutered Male,13 years
+A684817,,Cat,Suffering,Intact Male,1 month
+A684862,*Kennedy,Dog,Behavior,Neutered Male,2 years
+A684871,Boomer,Dog,Aggressive,Neutered Male,1 year
+A684875,,Dog,Suffering,Intact Female,4 months
+A684897,,Cat,Suffering,Intact Female,1 year
+A684907,Sammie,Dog,Suffering,Intact Male,12 years
+A684913,Jack,Dog,Behavior,Neutered Male,1 year
+A684967,*Superman,Dog,Rabies Risk,Neutered Male,3 years
+A684975,Harley,Dog,Aggressive,Intact Male,6 years
+A684976,,Cat,Suffering,Unknown,6 years
+A684980,Gyula,Dog,Aggressive,Neutered Male,3 years
+A685039,*Chilli,Cat,Suffering,Neutered Male,12 years
+A685087,,Cat,Suffering,Unknown,1 year
+A685092,,Cat,Suffering,Intact Female,7 months
+A685133,*Trudy,Dog,Behavior,Spayed Female,1 year
+A685176,*Forrest,Dog,Suffering,Intact Male,3 months
+A685182,,Dog,Behavior,Intact Male,1 year
+A685183,,Dog,Suffering,Neutered Male,8 years
+A685187,,Cat,Suffering,Intact Female,3 months
+A685208,,Cat,Suffering,Neutered Male,10 years
+A685210,Chico,Dog,Behavior,Neutered Male,5 years
+A685235,,Cat,Suffering,Intact Male,9 months
+A685249,Booger,Dog,Suffering,Neutered Male,6 years
+A685284,,Cat,Suffering,Unknown,1 week
+A685285,,Cat,Suffering,Unknown,1 week
+A685286,,Cat,Suffering,Intact Female,1 year
+A685301,Brandie,Dog,Aggressive,Intact Female,2 years
+A685384,,Cat,Suffering,Neutered Male,10 years
+A685414,,Cat,Suffering,Unknown,8 years
+A685421,,Cat,Suffering,Spayed Female,8 years
+A685423,,Cat,Suffering,Neutered Male,12 years
+A685453,,Cat,Suffering,Intact Male,1 year
+A685475,,Dog,Suffering,Spayed Female,8 years
+A685490,Jake,Dog,Suffering,Intact Male,11 years
+A685548,,Dog,Suffering,Intact Male,4 years
+A685551,,Dog,Suffering,Spayed Female,10 years
+A685572,Sissy,Cat,Suffering,Unknown,13 years
+A685579,,Cat,Medical,Intact Female,2 months
+A685595,Gabriel,Dog,Aggressive,Neutered Male,1 year
+A685618,,Cat,Suffering,Intact Female,5 years
+A685670,,Cat,Suffering,Intact Male,1 month
+A685683,Tobie,Dog,Suffering,Neutered Male,2 months
+A685700,*Summerlee,Dog,Suffering,Spayed Female,14 years
+A685701,,Cat,Suffering,Intact Female,8 years
+A685729,,Cat,Suffering,Neutered Male,15 years
+A685740,,Cat,Suffering,Intact Male,3 years
+A685760,,Dog,Aggressive,Intact Male,3 years
+A685761,,Dog,Aggressive,Intact Female,1 year
+A685779,,Cat,Suffering,Unknown,3 months
+A685816,,Cat,Suffering,Spayed Female,4 years
+A685822,,Dog,Suffering,Intact Female,5 years
+A685827,Papi,Dog,Suffering,Intact Male,1 month
+A685845,Sabo,Dog,Aggressive,Neutered Male,2 years
+A685931,Boss,Dog,Behavior,Neutered Male,1 year
+A685986,,Dog,Suffering,Intact Male,9 years
+A686021,*Stanley,Dog,Suffering,Intact Male,6 months
+A686063,,Cat,Suffering,Neutered Male,2 years
+A686086,Rosie,Cat,Suffering,Spayed Female,2 years
+A686139,,Cat,Suffering,Intact Male,3 months
+A686218,Sam,Cat,Suffering,Intact Female,1 month
+A686245,,Cat,Suffering,Intact Female,8 years
+A686293,Cali,Dog,Aggressive,Spayed Female,3 years
+A686294,Lady,Dog,Aggressive,Spayed Female,3 years
+A686296,Zoe,Dog,Aggressive,Spayed Female,5 months
+A686297,Boss,Dog,Aggressive,Neutered Male,5 months
+A686312,,Cat,Suffering,Intact Female,3 months
+A686371,Taker,Dog,Aggressive,Neutered Male,1 year
+A686415,Kobi,Dog,Behavior,Intact Male,2 years
+A686510,Smokey,Dog,Aggressive,Neutered Male,6 years
+A686579,,Cat,Suffering,Intact Female,2 months
+A686599,,Cat,Suffering,Intact Female,4 months
+A686616,,Dog,Medical,Intact Male,5 years
+A686683,Ira,Dog,Suffering,Intact Male,12 years
+A686715,,Dog,Suffering,Intact Female,1 year
+A686739,,Cat,Suffering,Intact Male,1 month
+A686777,Gandalf,Cat,Suffering,Neutered Male,3 years
+A686782,,Cat,Suffering,Intact Male,1 month
+A686809,,Cat,Suffering,Intact Female,3 weeks
+A686834,,Cat,Suffering,Intact Male,1 week
+A686842,*Herman,Dog,Aggressive,Neutered Male,2 years
+A686857,,Cat,Suffering,Intact Male,3 months
+A686861,,Cat,Suffering,Spayed Female,2 years
+A686862,,Cat,Suffering,Intact Male,5 months
+A686888,Chiquita,Dog,Suffering,Intact Female,14 years
+A686926,,Cat,Suffering,Intact Female,13 years
+A686958,Ace,Dog,Aggressive,Neutered Male,6 years
+A686962,Chikis,Dog,Aggressive,Spayed Female,1 year
+A687005,,Cat,Suffering,Spayed Female,3 years
+A687020,Matilda,Dog,Suffering,Spayed Female,6 years
+A687025,,Dog,Suffering,Intact Male,10 years
+A687082,,Cat,Suffering,Intact Female,4 months
+A687090,Brownie,Dog,Rabies Risk,Intact Male,1 year
+A687099,Chop,Dog,Rabies Risk,Intact Male,9 months
+A687170,,Cat,Suffering,Intact Male,1 year
+A687174,*Beau,Dog,Suffering,Neutered Male,3 years
+A687223,*Michael,Dog,Aggressive,Intact Male,3 years
+A687244,,Dog,Suffering,Intact Female,10 years
+A687295,,Dog,Aggressive,Intact Male,3 years
+A687296,,Dog,Aggressive,Intact Female,4 years
+A687302,Rusty,Dog,Aggressive,Neutered Male,3 years
+A687331,,Cat,Suffering,Intact Male,2 months
+A687453,,Dog,Aggressive,Intact Male,2 years
+A687514,,Cat,Suffering,Spayed Female,2 months
+A687580,Chocolate,Dog,Aggressive,Intact Male,2 years
+A687590,Rocco,Dog,Aggressive,Intact Male,4 years
+A687604,,Cat,Suffering,Intact Male,4 years
+A687608,,Cat,Suffering,Intact Female,1 month
+A687637,,Cat,Suffering,Intact Female,5 months
+A687699,,Dog,Suffering,Intact Female,1 year
+A687748,,Dog,Suffering,Intact Female,9 months
+A687845,Lala,Dog,Behavior,Intact Female,2 years
+A687866,Gray,Cat,Rabies Risk,Neutered Male,2 years
+A687914,Ginger,Cat,Suffering,Intact Female,2 years
+A687917,,Cat,Suffering,Intact Female,15 years
+A687919,,Cat,Suffering,Intact Female,1 month
+A687995,,Cat,Medical,Intact Male,1 year
+A688003,,Cat,Suffering,Intact Male,5 months
+A688009,Junior,Dog,Aggressive,Intact Male,1 year
+A688028,*Maximus,Dog,Aggressive,Neutered Male,2 years
+A688059,*Tina,Cat,Suffering,Intact Female,5 weeks
+A688070,*Tangelo,Cat,Medical,Intact Male,1 month
+A688073,,Cat,Suffering,Intact Female,10 years
+A688078,,Cat,Suffering,Unknown,2 months
+A688115,Duke,Dog,Rabies Risk,Neutered Male,1 year
+A688122,*Grace,Dog,Suffering,Spayed Female,12 years
+A688127,,Dog,Suffering,Intact Female,3 days
+A688160,*Freddie,Dog,Aggressive,Intact Male,2 years
+A688174,,Cat,Suffering,Intact Female,10 years
+A688176,*Paloma,Dog,Behavior,Spayed Female,2 years
+A688196,Max,Dog,Suffering,Neutered Male,9 years
+A688263,,Cat,Suffering,Neutered Male,3 years
+A688287,,Dog,Suffering,Intact Male,5 years
+A688309,*Bambi,Dog,Behavior,Intact Female,2 years
+A688316,,Cat,Suffering,Intact Male,2 weeks
+A688317,,Cat,Suffering,Intact Male,2 weeks
+A688321,*Jenny,Cat,Suffering,Spayed Female,1 year
+A688430,Kiedis,Dog,Suffering,Neutered Male,6 years
+A688437,Duke,Dog,Suffering,Neutered Male,14 years
+A688441,Zee,Cat,Suffering,Spayed Female,7 months
+A688448,*Chauncy,Dog,Behavior,Neutered Male,1 year
+A688492,,Dog,Suffering,Intact Female,8 years
+A688582,*Caramel,Dog,Behavior,Intact Female,3 years
+A688658,,Cat,Suffering,Intact Male,1 month
+A688721,Inky,Cat,Suffering,Neutered Male,12 years
+A688768,*Tiffany,Dog,Aggressive,Spayed Female,1 year
+A688785,,Dog,Aggressive,Intact Male,2 years
+A688820,Freckles,Dog,Aggressive,Intact Female,8 years
+A688841,,Cat,Suffering,Intact Female,2 months
+A688843,*Jesse,Cat,Rabies Risk,Neutered Male,7 months
+A688883,,Dog,Behavior,Intact Male,1 year
+A688907,,Cat,Suffering,Unknown,2 years
+A689039,Bruno,Dog,Aggressive,Neutered Male,1 year
+A689062,Lita,Dog,Aggressive,Intact Female,5 years
+A689071,,Cat,Suffering,Intact Female,8 months
+A689075,,Cat,Suffering,Spayed Female,2 years
+A689089,,Cat,Suffering,Neutered Male,13 years
+A689099,*Cherry,Dog,Rabies Risk,Spayed Female,2 years
+A689124,,Dog,Suffering,Intact Male,9 years
+A689138,,Cat,Suffering,Intact Female,4 weeks
+A689141,,Dog,Suffering,Intact Female,1 month
+A689146,,Cat,Rabies Risk,Intact Female,1 month
+A689192,,Cat,Suffering,Intact Male,3 weeks
+A689193,,Cat,Suffering,Intact Male,3 weeks
+A689194,*Nimby,Dog,Aggressive,Intact Male,3 years
+A689208,,Cat,Suffering,Neutered Male,2 years
+A689260,Gambit,Dog,Suffering,Neutered Male,7 years
+A689295,*Shakespeare,Cat,Suffering,Intact Male,1 month
+A689342,Harley,Dog,Suffering,Neutered Male,1 year
+A689371,,Cat,Suffering,Unknown,3 weeks
+A689391,,Cat,Suffering,Intact Male,1 month
+A689393,,Dog,Suffering,Intact Male,2 years
+A689422,*Belle,Dog,Aggressive,Intact Female,7 years
+A689496,Winston,Dog,Suffering,Intact Male,10 years
+A689512,,Cat,Suffering,Unknown,3 years
+A689624,*Frank,Dog,Medical,Neutered Male,3 years
+A689626,,Cat,Suffering,Intact Female,1 month
+A689711,,Cat,Suffering,Neutered Male,7 years
+A689728,,Dog,Behavior,Intact Female,3 years
+A689731,,Dog,Behavior,Intact Male,1 year
+A689739,,Dog,Suffering,Intact Female,2 years
+A689783,,Cat,Suffering,Intact Female,5 months
+A689785,,Dog,Suffering,Neutered Male,10 years
+A689789,,Dog,Medical,Intact Male,2 years
+A689794,*Lyle,Dog,Behavior,Neutered Male,2 years
+A689810,,Cat,Suffering,Intact Male,1 month
+A689821,Cookie,Dog,Aggressive,Intact Female,1 year
+A689823,,Dog,Medical,Intact Male,4 months
+A689827,Hulk,Dog,Aggressive,Neutered Male,3 years
+A689957,Weiser,Cat,Suffering,Neutered Male,20 years
+A689961,Max,Dog,Behavior,Intact Male,1 year
+A689965,,Cat,Suffering,Intact Male,1 year
+A689981,,Dog,Suffering,Intact Female,9 years
+A689988,Chico,Dog,Suffering,Intact Male,10 years
+A690002,,Cat,Medical,Intact Male,8 years
+A690034,,Cat,Suffering,Intact Female,6 years
+A690069,,Cat,Suffering,Intact Female,3 weeks
+A690081,,Dog,Suffering,Intact Male,4 months
+A690108,Ruffy,Dog,Rabies Risk,Neutered Male,4 years
+A690146,Tiger,Dog,Aggressive,Neutered Male,4 years
+A690147,Bruiser,Dog,Aggressive,Intact Male,11 years
+A690216,*Luigi,Dog,Behavior,Intact Male,1 year
+A690217,Moose,Dog,Aggressive,Neutered Male,1 year
+A690235,*Forrest,Dog,Suffering,Neutered Male,8 years
+A690256,*Mimi,Dog,Aggressive,Spayed Female,1 year
+A690263,,Cat,Suffering,Intact Male,3 years
+A690285,,Dog,Suffering,Unknown,8 years
+A690297,,Cat,Suffering,Spayed Female,1 year
+A690386,,Cat,Suffering,Intact Male,4 months
+A690405,Parker,Dog,Aggressive,Neutered Male,4 years
+A690406,,Cat,Suffering,Neutered Male,4 years
+A690423,Lolly,Dog,Aggressive,Spayed Female,4 years
+A690435,*Portia,Dog,Aggressive,Spayed Female,5 years
+A690446,,Cat,Suffering,Neutered Male,2 years
+A690447,,Dog,Suffering,Neutered Male,14 years
+A690456,Bonnie,Dog,Aggressive,Intact Female,4 years
+A690462,,Cat,Suffering,Intact Female,6 months
+A690516,,Cat,Suffering,Intact Female,5 years
+A690525,*Trenton,Dog,Behavior,Neutered Male,1 year
+A690547,,Dog,Suffering,Intact Female,2 years
+A690571,,Dog,Suffering,Intact Female,2 years
+A690618,,Cat,Suffering,Intact Female,4 weeks
+A690696,*Leia,Dog,Behavior,Intact Female,5 years
+A690705,Roxy,Dog,Behavior,Intact Female,1 year
+A690737,,Cat,Suffering,Intact Male,1 weeks
+A690757,Beans,Dog,Rabies Risk,Intact Female,1 year
+A690763,,Dog,Suffering,Intact Female,9 years
+A690765,Magnum Pi,Dog,Behavior,Intact Male,5 years
+A690790,,Dog,Aggressive,Intact Male,3 years
+A690794,Lennon,Dog,Aggressive,Neutered Male,1 year
+A690797,,Cat,Suffering,Intact Male,12 years
+A690798,Spot,Dog,Suffering,Intact Male,1 month
+A690799,Tips,Dog,Suffering,Intact Female,1 month
+A690820,Honey,Dog,Aggressive,Spayed Female,5 years
+A690833,*Marmalade,Cat,Suffering,Intact Male,4 weeks
+A690843,,Cat,Suffering,Intact Male,1 year
+A690845,*Big Red,Dog,Aggressive,Neutered Male,3 years
+A690909,,Cat,Suffering,Intact Female,9 years
+A690927,,Cat,Suffering,Intact Female,1 month
+A691012,Pj,Dog,Aggressive,Neutered Male,4 years
+A691020,,Cat,Rabies Risk,Unknown,4 months
+A691049,*Ridley,Dog,Behavior,Neutered Male,3 years
+A691094,,Cat,Suffering,Intact Female,1 month
+A691106,,Cat,Rabies Risk,Intact Female,1 month
+A691108,,Cat,Suffering,Unknown,3 months
+A691120,,Cat,Suffering,Intact Female,8 months
+A691124,,Dog,Suffering,Intact Female,11 years
+A691125,,Cat,Suffering,Unknown,3 months
+A691240,,Dog,Suffering,Intact Female,10 years
+A691259,,Cat,Suffering,Unknown,2 months
+A691270,Shorty,Dog,Suffering,Intact Male,1 month
+A691277,*Clove,Cat,Suffering,Intact Female,2 months
+A691292,,Dog,Aggressive,Intact Male,2 years
+A691298,,Cat,Suffering,Intact Male,2 years
+A691306,Kane,Dog,Aggressive,Neutered Male,4 years
+A691313,,Cat,Suffering,Intact Female,12 years
+A691330,,Dog,Suffering,Intact Male,3 years
+A691336,Lilipop,Dog,Medical,Spayed Female,5 years
+A691337,Pup,Dog,Aggressive,Intact Female,2 years
+A691339,Muneca,Dog,Suffering,Intact Female,2 years
+A691355,Jonny Cash,Dog,Rabies Risk,Neutered Male,3 years
+A691391,,Cat,Medical,Intact Female,3 years
+A691405,Angel,Dog,Aggressive,Spayed Female,3 years
+A691423,Blacky,Dog,Suffering,Intact Male,7 years
+A691437,*Philippe,Cat,Suffering,Intact Male,1 month
+A691454,*Beloved,Cat,Suffering,Intact Male,1 year
+A691559,Tigey Sue,Cat,Suffering,Spayed Female,12 years
+A691580,,Cat,Suffering,Intact Female,1 month
+A691587,King,Dog,Court/Investigation,Intact Male,2 years
+A691613,*Kasey,Cat,Suffering,Intact Female,2 months
+A691626,Raja,Cat,Suffering,Spayed Female,15 years
+A691644,,Cat,Suffering,Intact Female,1 month
+A691685,,Dog,Suffering,Intact Male,6 years
+A691693,,Cat,Suffering,Spayed Female,3 years
+A691694,Mango,Cat,Suffering,Spayed Female,10 years
+A691702,,Cat,Suffering,Unknown,5 months
+A691719,Georgia,Dog,Aggressive,Spayed Female,2 years
+A691810,,Dog,Suffering,Intact Female,14 years
+A691813,Oso,Dog,Rabies Risk,Intact Male,2 years
+A691826,Todd,Cat,Suffering,Neutered Male,11 years
+A691828,Lily,Dog,Aggressive,Intact Female,2 years
+A691838,Avaddon,Dog,Suffering,Neutered Male,12 years
+A691842,,Dog,Suffering,Intact Male,5 months
+A691853,,Dog,Suffering,Intact Male,8 years
+A691859,,Cat,Suffering,Intact Female,2 years
+A691861,,Dog,Suffering,Intact Female,3 years
+A691867,,Cat,Suffering,Intact Male,5 months
+A691871,,Cat,Suffering,Intact Female,4 weeks
+A691902,Chichita,Dog,Aggressive,Intact Female,1 year
+A691968,,Cat,Suffering,Intact Female,7 years
+A691979,,Cat,Suffering,Intact Female,6 months
+A691997,Chicka,Dog,Suffering,Spayed Female,2 years
+A692010,,Dog,Suffering,Intact Male,5 years
+A692033,Brick,Dog,Court/Investigation,Neutered Male,3 years
+A692059,,Cat,Suffering,Intact Male,1 month
+A692060,,Cat,Suffering,Intact Female,1 month
+A692070,,Cat,Suffering,Intact Female,3 months
+A692079,,Cat,Suffering,Intact Female,4 years
+A692121,,Cat,Suffering,Neutered Male,1 year
+A692122,,Dog,Suffering,Unknown,4 weeks
+A692125,,Dog,Behavior,Intact Male,2 years
+A692158,,Dog,Suffering,Intact Female,3 months
+A692190,Henry,Dog,Suffering,Neutered Male,6 years
+A692191,,Dog,Suffering,Intact Female,8 years
+A692197,Bubba,Dog,Suffering,Neutered Male,2 years
+A692208,,Cat,Suffering,Intact Female,2 months
+A692234,,Cat,Suffering,Intact Female,1 month
+A692256,,Dog,Suffering,Intact Male,3 years
+A692274,Charlie,Dog,Rabies Risk,Neutered Male,4 years
+A692322,,Dog,Suffering,Intact Female,2 months
+A692344,,Cat,Suffering,Neutered Male,10 years
+A692360,,Cat,Suffering,Intact Male,2 years
+A692369,Jack,Dog,Rabies Risk,Neutered Male,1 year
+A692382,,Dog,Suffering,Intact Male,2 years
+A692408,Storm,Dog,Suffering,Spayed Female,5 years
+A692414,,Cat,Suffering,Neutered Male,13 years
+A692416,,Dog,Suffering,Intact Female,2 years
+A692427,,Cat,Suffering,Intact Female,7 months
+A692433,,Dog,Suffering,Intact Male,8 months
+A692441,Wolfe,Dog,Suffering,Intact Male,7 months
+A692444,,Cat,Medical,Intact Male,2 months
+A692449,*Daisy,Dog,Aggressive,Spayed Female,2 years
+A692465,Mary,Dog,Suffering,Intact Female,1 month
+A692472,,Cat,Suffering,Intact Male,2 months
+A692485,,Cat,Suffering,Intact Female,20 years
+A692500,Kayo,Dog,Aggressive,Neutered Male,6 years
+A692535,*Oswald,Cat,Suffering,Spayed Female,12 years
+A692632,Nala,Dog,Aggressive,Spayed Female,5 years
+A692658,Chicken Kitt,Cat,Suffering,Intact Female,1 month
+A692659,,Cat,Suffering,Spayed Female,10 years
+A692739,,Cat,Suffering,Intact Male,1 month
+A692765,,Cat,Suffering,Intact Male,2 months
+A692819,Spider,Dog,Aggressive,Neutered Male,3 years
+A692855,*Nero,Dog,Aggressive,Neutered Male,2 years
+A692891,,Dog,Suffering,Intact Female,3 months
+A692900,,Dog,Suffering,Intact Female,2 years
+A692909,Zana,Dog,Aggressive,Spayed Female,1 year
+A692956,,Cat,Suffering,Neutered Male,10 years
+A693045,,Cat,Suffering,Intact Male,6 years
+A693052,Steve,Dog,Suffering,Intact Male,2 years
+A693082,Diesel,Dog,Rabies Risk,Neutered Male,2 years
+A693122,,Cat,Suffering,Intact Male,1 month
+A693144,Troy,Dog,Aggressive,Neutered Male,3 years
+A693149,*Simone,Dog,Suffering,Intact Female,8 months
+A693165,*Fern,Dog,Suffering,Spayed Female,12 years
+A693166,*Sylvia,Cat,Suffering,Spayed Female,10 years
+A693224,,Cat,Suffering,Intact Male,1 year
+A693256,Shadow,Dog,Aggressive,Intact Male,5 months
+A693293,,Dog,Suffering,Intact Male,8 years
+A693304,,Dog,Suffering,Intact Female,2 years
+A693318,,Dog,Aggressive,Intact Male,2 years
+A693319,,Dog,Aggressive,Intact Male,2 years
+A693333,,Cat,Suffering,Neutered Male,1 year
+A693338,,Dog,Suffering,Intact Male,3 months
+A693394,Kini,Dog,Aggressive,Spayed Female,2 years
+A693413,,Cat,Suffering,Spayed Female,5 years
+A693457,,Cat,Suffering,Intact Female,10 years
+A693481,,Cat,Suffering,Intact Male,2 years
+A693517,*Chelsea,Dog,Aggressive,Spayed Female,2 years
+A693520,,Dog,Suffering,Intact Female,1 year
+A693551,Pepper,Dog,Behavior,Neutered Male,13 years
+A693562,,Dog,Behavior,Neutered Male,2 years
+A693584,Diego,Dog,Suffering,Neutered Male,7 years
+A693585,,Dog,Suffering,Intact Female,12 years
+A693611,*George,Dog,Suffering,Neutered Male,11 years
+A693618,,Dog,Suffering,Intact Male,2 months
+A693687,Major,Dog,Behavior,Neutered Male,1 year
+A693720,,Cat,Suffering,Intact Female,4 months
+A693787,,Dog,Suffering,Intact Male,2 days
+A693805,Gray-1,Cat,Suffering,Neutered Male,4 years
+A693808,,Cat,Suffering,Intact Male,3 years
+A693818,,Cat,Suffering,Intact Male,2 years
+A693820,,Dog,Suffering,Intact Female,1 year
+A693824,,Cat,Suffering,Intact Female,1 year
+A693825,,Cat,Suffering,Intact Female,2 days
+A693834,,Cat,Suffering,Unknown,3 years
+A693851,,Dog,Suffering,Intact Male,10 years
+A693856,Jizzle,Dog,Aggressive,Neutered Male,1 year
+A693870,,Dog,Suffering,Intact Male,5 years
+A693872,,Cat,Suffering,Intact Male,8 years
+A693911,,Dog,Suffering,Intact Female,1 year
+A693989,Lobo,Dog,Aggressive,Intact Male,4 years
+A693991,Oso,Dog,Aggressive,Intact Male,4 years
+A693994,,Dog,Suffering,Intact Male,6 years
+A694012,Zorro,Dog,Behavior,Neutered Male,11 years
+A694022,,Cat,Suffering,Intact Female,1 month
+A694028,,Cat,Suffering,Intact Female,10 years
+A694038,,Cat,Suffering,Unknown,2 years
+A694062,Bandit,Dog,Rabies Risk,Neutered Male,2 years
+A694072,,Cat,Suffering,Unknown,1 year
+A694139,,Cat,Suffering,Neutered Male,5 years
+A694160,*Annie,Dog,Suffering,Intact Female,2 years
+A694165,,Cat,Medical,Intact Female,6 months
+A694167,Zeus,Dog,Aggressive,Neutered Male,1 year
+A694173,,Dog,Suffering,Intact Male,3 months
+A694181,Gorilla,Dog,Aggressive,Intact Male,2 years
+A694190,*Lily Pad,Cat,Suffering,Neutered Male,12 years
+A694210,,Cat,Suffering,Intact Male,2 years
+A694215,Travis,Dog,Aggressive,Intact Male,2 years
+A694216,Tucker,Dog,Suffering,Intact Male,9 years
+A694223,,Cat,Suffering,Spayed Female,2 years
+A694237,Valentine,Dog,Suffering,Intact Male,3 years
+A694244,Gatsby,Cat,Suffering,Neutered Male,5 years
+A694250,,Cat,Suffering,Intact Female,6 months
+A694251,,Dog,Behavior,Intact Female,2 years
+A694300,,Dog,Suffering,Intact Male,2 years
+A694332,,Dog,Suffering,Intact Male,6 months
+A694335,,Cat,Suffering,Intact Male,2 months
+A694353,,Cat,Suffering,Intact Female,10 years
+A694357,Achilles,Dog,Aggressive,Neutered Male,4 years
+A694361,,Cat,Suffering,Intact Female,1 year
+A694445,,Cat,Suffering,Intact Male,2 years
+A694524,,Cat,Suffering,Unknown,1 year
+A694552,Kila,Dog,Aggressive,Spayed Female,15 years
+A694553,,Cat,Suffering,Unknown,5 years
+A694554,,Cat,Suffering,Intact Female,1 year
+A694606,,Dog,Aggressive,Intact Female,4 years
+A694649,,Cat,Suffering,Intact Female,1 year
+A694690,,Cat,Suffering,Spayed Female,8 years
+A694710,,Cat,Rabies Risk,Intact Female,12 years
+A694739,*Johnny,Dog,Aggressive,Intact Male,3 years
+A694764,,Cat,Suffering,Unknown,3 years
+A694798,*Dixie,Dog,Behavior,Spayed Female,2 years
+A694829,Fawn,Dog,Rabies Risk,Spayed Female,2 years
+A694872,,Cat,Suffering,Intact Female,8 years
+A694880,*Sallie,Dog,Rabies Risk,Spayed Female,3 years
+A694909,Cookie,Dog,Suffering,Spayed Female,10 years
+A694919,,Dog,Suffering,Intact Male,10 years
+A694923,*Amos,Dog,Medical,Intact Male,10 years
+A694928,,Cat,Suffering,Spayed Female,1 year
+A694968,*Caroline,Cat,Suffering,Spayed Female,10 years
+A695056,Nala,Dog,Aggressive,Spayed Female,3 years
+A695212,,Cat,Suffering,Intact Female,12 years
+A695219,*Sarai,Cat,Suffering,Spayed Female,11 years
+A695225,,Cat,Suffering,Intact Male,2 months
+A695257,,Cat,Suffering,Neutered Male,12 years
+A695325,,Dog,Suffering,Intact Female,13 years
+A695345,*Lacey,Dog,Aggressive,Spayed Female,3 years
+A695350,Simba,Dog,Aggressive,Intact Male,1 year
+A695373,,Cat,Suffering,Intact Male,3 years
+A695426,,Cat,Suffering,Neutered Male,1 year
+A695488,Zuko,Dog,Aggressive,Intact Male,6 years
+A695490,,Cat,Suffering,Intact Male,4 years
+A695504,Coco,Dog,Suffering,Spayed Female,3 years
+A695504,Coco,Dog,Aggressive,Spayed Female,3 years
+A695551,Gordo,Dog,Suffering,Intact Male,4 months
+A695617,,Cat,Suffering,Neutered Male,12 years
+A695654,*Asha,Dog,Suffering,Intact Female,8 months
+A695661,,Cat,Suffering,Intact Female,7 years
+A695670,,Dog,Suffering,Intact Male,1 month
+A695672,,Dog,Suffering,Unknown,11 years
+A695709,Hobie,Dog,Rabies Risk,Neutered Male,3 years
+A695723,,Cat,Suffering,Intact Female,6 years
+A695726,,Cat,Suffering,Neutered Male,5 years
+A695750,Loca,Dog,Suffering,Intact Female,13 years
+A695759,*Popsicle,Cat,Suffering,Intact Female,1 year
+A695777,Zulu,Dog,Rabies Risk,Neutered Male,1 year
+A695788,Percy,Dog,Suffering,Spayed Female,5 years
+A695798,Jim,Cat,Suffering,Neutered Male,10 months
+A695798,Jim,Cat,Suffering,Neutered Male,10 months
+A695799,Minion,Dog,Aggressive,Neutered Male,3 years
+A695883,,Dog,Aggressive,Neutered Male,5 years
+A695935,,Cat,Suffering,Intact Male,2 years
+A695944,,Cat,Suffering,Intact Male,4 years
+A695954,,Dog,Suffering,Intact Female,5 years
+A695971,,Cat,Suffering,Intact Male,6 years
+A695984,,Dog,Suffering,Intact Male,10 months
+A696004,Lucy,Dog,Rabies Risk,Spayed Female,5 years
+A696014,,Dog,Suffering,Intact Male,10 months
+A696033,,Cat,Suffering,Intact Female,1 year
+A696070,Katie,Dog,Medical,Spayed Female,9 years
+A696120,Mousie,Dog,Aggressive,Spayed Female,2 years
+A696154,,Cat,Medical,Intact Male,4 months
+A696264,Chocolate,Dog,Aggressive,Neutered Male,2 years
+A696274,,Cat,Suffering,Intact Male,1 year
+A696276,*Rubix,Dog,Aggressive,Intact Male,2 years
+A696278,,Dog,Aggressive,Intact Male,2 years
+A696283,Princess,Dog,Court/Investigation,Spayed Female,3 years
+A696319,,Dog,Suffering,Neutered Male,12 years
+A696366,,Cat,Suffering,Intact Male,5 years
+A696381,Tiger,Dog,Aggressive,Neutered Male,5 years
+A696390,Roswell,Dog,Aggressive,Intact Male,6 years
+A696451,,Dog,Suffering,Intact Male,2 years
+A696454,*Polar,Dog,Suffering,Neutered Male,11 years
+A696478,Max,Dog,Suffering,Intact Male,1 year
+A696502,Buddy,Dog,Medical,Intact Male,4 years
+A696517,,Cat,Suffering,Intact Male,2 years
+A696520,*Skunky,Dog,Aggressive,Intact Female,2 years
+A696527,,Cat,Suffering,Intact Male,2 months
+A696540,*Robbie,Dog,Suffering,Neutered Male,5 years
+A696541,,Dog,Aggressive,Intact Female,4 years
+A696598,,Cat,Suffering,Intact Male,1 year
+A696623,King,Dog,Suffering,Neutered Male,2 years
+A696628,,Cat,Suffering,Intact Male,1 year
+A696683,Cooper,Dog,Behavior,Intact Female,3 years
+A696705,,Cat,Suffering,Neutered Male,10 years
+A696708,,Cat,Suffering,Neutered Male,8 years
+A696716,Biggie,Cat,Suffering,Neutered Male,13 years
+A696721,,Cat,Suffering,Intact Male,1 year
+A696735,,Cat,Suffering,Intact Male,2 years
+A696752,,Dog,Suffering,Intact Female,2 years
+A696760,Chance,Dog,Suffering,Neutered Male,3 years
+A696795,Talia,Dog,Suffering,Spayed Female,13 years
+A696858,Olive Oil,Dog,Suffering,Intact Female,4 months
+A696876,,Cat,Suffering,Unknown,1 year
+A696941,Dottie,Dog,Aggressive,Spayed Female,2 years
+A696954,*Collin,Dog,Aggressive,Intact Male,1 year
+A696960,,Cat,Suffering,Intact Male,2 years
+A696984,,Dog,Suffering,Intact Male,2 years
+A696996,,Cat,Suffering,Neutered Male,7 years
+A697049,*Marigold,Cat,Suffering,Spayed Female,1 year
+A697081,,Cat,Suffering,Intact Male,2 years
+A697092,Rocky,Dog,Aggressive,Neutered Male,3 years
+A697103,,Dog,Suffering,Unknown,3 years
+A697142,Red Girl,Dog,Rabies Risk,Spayed Female,1 year
+A697148,,Dog,Suffering,Neutered Male,4 years
+A697158,*Max,Dog,Medical,Neutered Male,1 year
+A697211,,Cat,Suffering,Intact Male,1 year
+A697230,Minena,Cat,Suffering,Intact Female,9 years
+A697236,Daisy,Dog,Suffering,Unknown,13 years
+A697288,Lina,Dog,Medical,Intact Female,8 years
+A697309,Biscuit,Dog,Suffering,Intact Male,2 months
+A697354,,Cat,Suffering,Intact Male,4 years
+A697390,,Dog,Suffering,Intact Male,8 years
+A697413,B.J.,Cat,Suffering,Intact Female,2 years
+A697424,Pepper,Dog,Rabies Risk,Neutered Male,6 years
+A697473,*Brook,Dog,Suffering,Spayed Female,5 years
+A697475,Coco,Dog,Suffering,Intact Female,14 years
+A697479,,Cat,Suffering,Intact Male,1 year
+A697490,,Dog,Aggressive,Intact Female,1 year
+A697531,,Dog,Aggressive,Intact Female,2 years
+A697536,,Dog,Suffering,Intact Male,12 years
+A697571,Camelia,Dog,Suffering,Intact Female,11 months
+A697573,Gucci,Dog,Behavior,Neutered Male,2 years
+A697596,,Cat,Suffering,Intact Female,2 months
+A697613,,Cat,Suffering,Intact Female,8 years
+A697686,*Remy,Cat,Suffering,Spayed Female,8 years
+A697794,*Trent,Dog,Aggressive,Neutered Male,3 years
+A697797,,Dog,Suffering,Intact Male,2 years
+A697807,,Cat,Suffering,Intact Male,2 years
+A697815,,Cat,Suffering,Neutered Male,12 years
+A697856,Black,Dog,Aggressive,Intact Male,8 years
+A697897,,Cat,Suffering,Intact Male,3 years
+A697909,*Fergie,Dog,Behavior,Spayed Female,1 year
+A697930,,Dog,Rabies Risk,Spayed Female,12 years
+A698009,Panther,Cat,Suffering,Intact Male,2 years
+A698015,Snow,Cat,Suffering,Intact Male,1 year
+A698148,,Cat,Suffering,Intact Male,5 years
+A698154,,Dog,Suffering,Intact Male,2 years
+A698183,*Eleanor,Dog,Suffering,Intact Female,2 years
+A698207,,Cat,Suffering,Intact Male,7 years
+A698220,Chikita,Dog,Aggressive,Spayed Female,2 years
+A698256,*Gertie,Cat,Medical,Spayed Female,3 years
+A698301,*Angel,Cat,Suffering,Intact Female,2 years
+A698329,,Cat,Suffering,Spayed Female,3 years
+A698354,,Dog,Suffering,Neutered Male,10 years
+A698365,,Cat,Suffering,Neutered Male,2 years
+A698431,,Dog,Suffering,Intact Female,2 years
+A698473,Oreo,Dog,Suffering,Neutered Male,1 year
+A698513,,Dog,Suffering,Intact Male,2 years
+A698522,Major,Dog,Medical,Neutered Male,4 years
+A698572,Tito,Dog,Suffering,Neutered Male,13 years
+A698574,,Cat,Suffering,Spayed Female,2 years
+A698578,,Cat,Suffering,Intact Female,1 year
+A698581,Lucky,Dog,Suffering,Neutered Male,4 years
+A698582,,Cat,Suffering,Intact Male,1 year
+A698597,Thiago,Dog,Behavior,Intact Male,2 years
+A698626,*Oscar,Cat,Suffering,Neutered Male,12 years
+A698635,,Cat,Suffering,Intact Female,6 months
+A698641,Sampson,Dog,Suffering,Neutered Male,10 years
+A698692,,Cat,Suffering,Intact Male,2 years
+A698697,Daisy,Cat,Suffering,Spayed Female,14 years
+A698781,Sandy,Dog,Suffering,Spayed Female,3 years
+A698793,Rocky,Dog,Aggressive,Intact Male,4 years
+A698811,,Dog,Rabies Risk,Intact Male,2 months
+A698857,Doobie,Dog,Aggressive,Neutered Male,4 years
+A698858,Zoe,Dog,Aggressive,Spayed Female,3 years
+A698859,Shadow,Dog,Aggressive,Spayed Female,3 years
+A698862,*Pickles,Cat,Suffering,Intact Female,2 years
+A698883,,Cat,Suffering,Intact Male,1 year
+A698938,Cocoa,Dog,Aggressive,Spayed Female,4 years
+A698981,,Cat,Suffering,Intact Female,1 year
+A699014,,Cat,Suffering,Unknown,0 years
+A699047,,Dog,Medical,Unknown,2 months
+A699092,,Cat,Suffering,Neutered Male,5 years
+A699136,,Cat,Suffering,Intact Male,6 years
+A699175,Mojo,Dog,Aggressive,Neutered Male,4 years
+A699284,,Dog,Suffering,Intact Male,2 years
+A699297,*Ruben,Dog,Aggressive,Neutered Male,2 years
+A699350,,Dog,Medical,Intact Female,8 months
+A699387,Javier,Cat,Suffering,Intact Female,14 years
+A699423,,Cat,Suffering,Intact Male,2 years
+A699493,,Cat,Suffering,Neutered Male,5 years
+A699502,,Cat,Suffering,Intact Female,1 year
+A699507,,Cat,Suffering,Unknown,2 years
+A699530,,Cat,Suffering,Intact Female,5 months
+A699549,,Dog,Suffering,Intact Male,3 years
+A699557,Tortoise,Cat,Suffering,Intact Female,13 years
+A699558,Zuester,Dog,Behavior,Neutered Male,2 years
+A699570,Lee,Cat,Suffering,Neutered Male,5 years
+A699573,,Dog,Suffering,Intact Female,7 years
+A699604,Molly,Dog,Behavior,Spayed Female,2 years
+A699736,Princess,Dog,Suffering,Spayed Female,12 years
+A699749,,Cat,Suffering,Intact Female,10 years
+A699752,K.C.,Dog,Suffering,Unknown,14 years
+A699793,,Dog,Suffering,Spayed Female,8 years
+A699827,,Dog,Suffering,Intact Female,1 month
+A699870,Perro,Dog,Aggressive,Intact Female,2 years
+A699884,,Cat,Suffering,Unknown,2 years
+A699942,Tuby,Cat,Suffering,Neutered Male,17 years
+A699957,Lear,Cat,Suffering,Neutered Male,10 years
+A699962,,Dog,Suffering,Intact Female,10 years
+A699974,Caine,Dog,Aggressive,Neutered Male,1 year
+A699976,Smokey,Dog,Aggressive,Spayed Female,2 years
+A700027,,Dog,Aggressive,Intact Female,1 year
+A700039,,Cat,Suffering,Intact Male,2 years
+A700081,,Dog,Medical,Neutered Male,10 years
+A700170,Haze,Dog,Suffering,Spayed Female,7 months
+A700189,,Cat,Rabies Risk,Spayed Female,1 year
+A700192,Star,Dog,Aggressive,Spayed Female,2 years
+A700194,Hershey,Dog,Aggressive,Spayed Female,2 years
+A700196,Cookie,Dog,Aggressive,Spayed Female,4 years
+A700218,,Cat,Suffering,Neutered Male,2 years
+A700228,,Dog,Medical,Intact Female,2 years
+A700274,,Cat,Suffering,Intact Male,5 years
+A700335,*Dorchester,Dog,Rabies Risk,Neutered Male,2 years
+A700354,,Cat,Suffering,Intact Male,4 years
+A700357,,Dog,Suffering,Intact Female,1 month
+A700389,,Cat,Suffering,Intact Male,2 years
+A700419,,Dog,Suffering,Neutered Male,10 years
+A700426,*Marco,Dog,Aggressive,Intact Male,1 year
+A700477,,Dog,Suffering,Intact Female,6 months
+A700528,Booboo,Dog,Suffering,Intact Male,14 years
+A700536,Junior,Dog,Aggressive,Intact Male,2 years
+A700582,,Cat,Suffering,Intact Female,2 years
+A700646,Lady,Dog,Aggressive,Spayed Female,2 years
+A700752,,Cat,Suffering,Unknown,5 years
+A700768,,Dog,Suffering,Intact Male,15 years
+A700769,Max,Dog,Aggressive,Intact Male,1 year
+A700775,,Cat,Suffering,Unknown,3 weeks
+A700776,,Cat,Suffering,Unknown,3 weeks
+A700795,Teddy,Dog,Behavior,Neutered Male,1 year
+A700815,,Cat,Suffering,Intact Male,2 years
+A700865,Jasmine,Dog,Suffering,Intact Female,1 year
+A700948,,Dog,Suffering,Unknown,9 years
+A700984,Minnie,Cat,Suffering,Spayed Female,1 year
+A701001,Skit,Dog,Behavior,Intact Male,5 years
+A701074,,Cat,Suffering,Intact Male,4 weeks
+A701110,Bambi,Dog,Suffering,Spayed Female,3 years
+A701111,*Nytrox,Dog,Rabies Risk,Neutered Male,1 year
+A701126,,Cat,Suffering,Unknown,5 years
+A701143,,Cat,Suffering,Intact Male,5 years
+A701161,Annabelle,Cat,Suffering,Spayed Female,13 years
+A701186,,Cat,Suffering,Neutered Male,2 years
+A701187,*Tandie,Dog,Aggressive,Spayed Female,2 years
+A701189,Lando,Cat,Suffering,Unknown,3 years
+A701246,*Elsie,Cat,Medical,Spayed Female,7 years
+A701292,,Cat,Suffering,Neutered Male,13 years
+A701305,,Dog,Suffering,Intact Female,1 year
+A701321,Big Foot,Cat,Rabies Risk,Neutered Male,5 years
+A701338,,Dog,Suffering,Spayed Female,13 years
+A701345,,Dog,Aggressive,Intact Female,3 years
+A701346,,Dog,Aggressive,Intact Female,3 years
+A701394,,Cat,Suffering,Intact Male,2 years
+A701404,,Dog,Suffering,Intact Female,14 years
+A701506,,Cat,Suffering,Spayed Female,10 years
+A701572,*Bingo,Dog,Suffering,Neutered Male,11 years
+A701659,,Cat,Suffering,Intact Female,1 month
+A701691,Shadow,Dog,Aggressive,Intact Male,2 years
+A701693,,Cat,Suffering,Intact Male,2 years
+A701728,Chico,Dog,Aggressive,Intact Male,2 years
+A701731,Buster,Dog,Aggressive,Intact Male,8 years
+A701757,Alliah,Dog,Suffering,Intact Female,1 year
+A701762,,Dog,Suffering,Intact Female,3 years
+A701778,Macho,Dog,Suffering,Intact Male,4 years
+A701779,*Graham,Cat,Medical,Neutered Male,5 years
+A701827,Coco,Dog,Suffering,Intact Female,1 year
+A701910,Maia,Dog,Behavior,Spayed Female,1 year
+A701914,,Cat,Suffering,Neutered Male,4 years
+A701957,Sugar,Dog,Suffering,Spayed Female,2 years
+A701991,Ursa,Dog,Aggressive,Intact Female,5 years
+A701992,Tau,Dog,Aggressive,Intact Male,5 years
+A701998,Danger,Cat,Suffering,Neutered Male,12 years
+A702006,,Dog,Aggressive,Spayed Female,5 years
+A702032,*Stanley,Cat,Suffering,Intact Male,2 years
+A702065,Kush,Dog,Aggressive,Neutered Male,1 year
+A702079,,Dog,Suffering,Intact Male,7 years
+A702114,Umami,Cat,Suffering,Spayed Female,2 years
+A702163,,Cat,Rabies Risk,Unknown,1 year
+A702171,,Cat,Suffering,Intact Female,1 year
+A702201,*Odie,Cat,Suffering,Intact Male,4 weeks
+A702207,,Cat,Suffering,Neutered Male,12 years
+A702213,,Cat,Suffering,Spayed Female,1 year
+A702220,,Dog,Suffering,Intact Male,2 years
+A702221,,Cat,Suffering,Intact Female,4 weeks
+A702224,*Peter,Cat,Suffering,Intact Male,4 weeks
+A702233,Oreo,Cat,Suffering,Intact Male,9 months
+A702243,,Dog,Suffering,Intact Female,1 month
+A702245,,Cat,Suffering,Unknown,2 weeks
+A702282,,Cat,Rabies Risk,Intact Female,5 months
+A702291,Golden Boy,Cat,Suffering,Neutered Male,8 years
+A702297,,Dog,Suffering,Intact Female,5 years
+A702301,,Cat,Suffering,Intact Female,11 years
+A702309,,Dog,Suffering,Unknown,1 month
+A702317,,Cat,Suffering,Unknown,1 month
+A702321,Grace,Cat,Suffering,Unknown,12 years
+A702351,Spike,Dog,Aggressive,Neutered Male,2 years
+A702356,,Cat,Suffering,Intact Male,1 month
+A702362,,Cat,Suffering,Intact Male,1 year
+A702373,Mane,Dog,Aggressive,Neutered Male,3 years
+A702389,,Cat,Suffering,Intact Female,2 years
+A702486,Hennesy,Dog,Aggressive,Intact Male,2 years
+A702487,*Dolly,Dog,Suffering,Spayed Female,3 years
+A702509,,Dog,Suffering,Intact Male,5 months
+A702510,,Cat,Suffering,Unknown,1 month
+A702522,Beast,Dog,Suffering,Intact Male,1 year
+A702553,,Dog,Medical,Intact Female,4 weeks
+A702564,,Cat,Suffering,Intact Female,7 months
+A702573,,Cat,Suffering,Neutered Male,3 years
+A702590,Negra,Dog,Aggressive,Spayed Female,2 years
+A702630,*Swirly Girl,Cat,Suffering,Intact Female,4 months
+A702705,*Adrianna,Dog,Aggressive,Spayed Female,1 year
+A702756,,Cat,Suffering,Intact Male,3 weeks
+A702775,,Cat,Suffering,Intact Male,10 years
+A702779,,Cat,Suffering,Intact Female,1 month
+A702817,,Cat,Suffering,Unknown,1 weeks
+A702818,,Cat,Suffering,Unknown,1 weeks
+A702819,,Cat,Suffering,Unknown,1 weeks
+A702820,,Cat,Suffering,Unknown,1 weeks
+A702876,,Cat,Suffering,Intact Male,1 year
+A702878,,Cat,Suffering,Intact Male,1 month
+A702883,Bubush,Cat,Suffering,Neutered Male,18 years
+A702894,Popeye,Dog,Suffering,Intact Male,3 years
+A702918,,Cat,Suffering,Intact Female,2 years
+A702927,*Gretchen,Dog,Medical,Spayed Female,2 years
+A702945,,Cat,Suffering,Unknown,2 days
+A702960,,Cat,Suffering,Intact Female,1 year
+A702993,Chiquis,Dog,Suffering,Spayed Female,3 years
+A703057,Charles,Dog,Aggressive,Intact Male,1 year
+A703075,,Cat,Suffering,Intact Male,2 weeks
+A703094,,Dog,Suffering,Intact Male,8 years
+A703102,,Cat,Suffering,Unknown,4 weeks
+A703137,Chakal,Dog,Suffering,Intact Male,11 years
+A703179,,Cat,Suffering,Intact Male,1 month
+A703233,,Cat,Suffering,Intact Male,4 years
+A703236,Tinkerbell,Dog,Suffering,Unknown,9 years
+A703269,,Dog,Suffering,Intact Female,3 months
+A703334,*Gonzo,Dog,Aggressive,Intact Male,2 years
+A703381,,Cat,Suffering,Intact Female,1 year
+A703396,,Dog,Rabies Risk,Intact Male,5 months
+A703415,*Cooper,Dog,Behavior,Neutered Male,2 years
+A703431,,Dog,Aggressive,Intact Male,1 year
+A703464,,Cat,Suffering,Unknown,4 weeks
+A703465,,Cat,Suffering,Unknown,4 weeks
+A703466,,Cat,Suffering,Unknown,4 weeks
+A703467,,Cat,Suffering,Unknown,4 weeks
+A703471,,Dog,Suffering,Intact Female,3 years
+A703477,,Cat,Medical,Intact Male,1 month
+A703485,Herman,Cat,Suffering,Neutered Male,5 years
+A703494,*Stormy,Cat,Suffering,Intact Female,1 month
+A703504,,Dog,Suffering,Intact Female,2 years
+A703505,,Cat,Suffering,Intact Male,2 years
+A703570,,Dog,Suffering,Intact Male,2 years
+A703648,,Cat,Suffering,Intact Female,1 year
+A703664,,Cat,Suffering,Intact Male,2 years
+A703727,*Crispin,Cat,Suffering,Intact Male,1 month
+A703742,,Cat,Suffering,Intact Female,1 month
+A703771,,Cat,Suffering,Intact Male,1 month
+A703795,Trax,Cat,Rabies Risk,Neutered Male,14 years
+A703888,,Dog,Suffering,Intact Male,1 year
+A703889,,Dog,Suffering,Intact Male,5 years
+A703908,*Pony,Cat,Suffering,Intact Male,4 weeks
+A703921,,Cat,Suffering,Intact Female,4 weeks
+A703956,,Dog,Suffering,Spayed Female,14 years
+A703994,*Cherry,Cat,Suffering,Intact Female,8 months
+A704038,,Cat,Suffering,Intact Male,2 years
+A704082,Diamond,Dog,Aggressive,Intact Female,2 years
+A704085,Red,Dog,Aggressive,Intact Male,4 years
+A704115,,Cat,Suffering,Unknown,1 month
+A704118,*Marshall,Cat,Suffering,Intact Male,1 month
+A704119,*Martina,Cat,Suffering,Intact Female,1 month
+A704130,Layla,Dog,Suffering,Spayed Female,13 years
+A704142,,Cat,Suffering,Spayed Female,12 years
+A704143,Puppy,Dog,Aggressive,Intact Male,2 years
+A704146,,Cat,Suffering,Intact Male,1 month
+A704152,,Cat,Suffering,Intact Male,2 years
+A704198,,Cat,Suffering,Unknown,1 month
+A704201,,Cat,Suffering,Intact Female,8 years
+A704219,,Dog,Medical,Intact Female,3 weeks
+A704224,,Cat,Suffering,Intact Male,1 year
+A704247,,Dog,Aggressive,Spayed Female,1 year
+A704259,,Cat,Suffering,Intact Male,4 months
+A704264,*Sophie,Dog,Aggressive,Intact Female,5 years
+A704266,,Cat,Suffering,Intact Male,1 month
+A704294,,Cat,Suffering,Intact Female,1 year
+A704297,,Cat,Suffering,Intact Male,1 month
+A704303,Koko,Dog,Aggressive,Intact Female,1 year
+A704370,,Cat,Suffering,Spayed Female,12 years
+A704372,,Dog,Suffering,Intact Male,2 years
+A704374,,Cat,Suffering,Neutered Male,6 years
+A704421,Abel,Dog,Behavior,Neutered Male,4 years
+A704443,,Cat,Suffering,Spayed Female,2 years
+A704454,,Cat,Rabies Risk,Intact Female,1 year
+A704465,*Ennis,Cat,Suffering,Intact Male,1 month
+A704468,*Ernie,Cat,Suffering,Intact Male,1 month
+A704484,,Cat,Medical,Intact Female,2 weeks
+A704508,,Cat,Suffering,Intact Male,2 years
+A704524,,Cat,Suffering,Intact Female,1 week
+A704538,,Cat,Suffering,Intact Male,7 years
+A704629,Ivy,Dog,Suffering,Intact Female,9 months
+A704669,,Cat,Rabies Risk,Unknown,3 months
+A704682,,Dog,Suffering,Intact Male,2 years
+A704700,Tom,Cat,Suffering,Neutered Male,2 years
+A704729,,Cat,Suffering,Unknown,2 weeks
+A704743,,Cat,Suffering,Unknown,4 weeks
+A704759,,Cat,Suffering,Unknown,10 years
+A704763,*Welby,Cat,Suffering,Intact Male,1 month
+A704764,,Cat,Suffering,Intact Male,2 years
+A704771,*Isaac,Dog,Aggressive,Intact Male,1 year
+A704775,,Cat,Suffering,Intact Male,3 years
+A704791,*Doc,Cat,Suffering,Neutered Male,2 months
+A704826,,Cat,Suffering,Intact Female,13 years
+A704863,*Alistair,Cat,Suffering,Intact Male,3 months
+A704864,*Artie,Cat,Suffering,Neutered Male,4 months
+A704877,,Cat,Suffering,Intact Male,1 year
+A704885,Precious,Dog,Suffering,Unknown,6 months
+A704927,,Dog,Medical,Intact Female,1 month
+A704935,,Dog,Suffering,Intact Female,14 years
+A704942,,Dog,Suffering,Intact Female,5 months
+A705002,*Jack,Cat,Suffering,Neutered Male,8 years
+A705009,*Road Runner,Cat,Suffering,Intact Male,1 month
+A705015,Corona,Dog,Aggressive,Intact Female,1 year
+A705016,Max,Dog,Aggressive,Neutered Male,1 year
+A705018,*Mason,Cat,Suffering,Intact Male,1 month
+A705021,*Martell,Cat,Suffering,Intact Male,1 month
+A705033,Jet,Cat,Rabies Risk,Intact Male,2 years
+A705054,,Cat,Suffering,Unknown,1 year
+A705179,,Cat,Suffering,Intact Female,7 months
+A705208,,Cat,Suffering,Unknown,1 month
+A705211,Charlie,Dog,Aggressive,Neutered Male,2 years
+A705231,*Yoga,Dog,Medical,Intact Male,1 month
+A705264,,Cat,Suffering,Intact Female,1 year
+A705299,Dexter,Dog,Aggressive,Neutered Male,2 years
+A705315,,Dog,Suffering,Intact Male,13 years
+A705357,,Cat,Medical,Unknown,2 days
+A705388,,Cat,Suffering,Intact Male,8 years
+A705413,,Cat,Suffering,Intact Male,3 years
+A705433,,Dog,Suffering,Intact Male,1 month
+A705436,,Cat,Suffering,Intact Male,1 month
+A705439,Rocky,Dog,Suffering,Intact Male,3 months
+A705475,,Cat,Suffering,Unknown,3 weeks
+A705531,,Cat,Suffering,Intact Female,5 years
+A705546,,Cat,Suffering,Neutered Male,12 years
+A705555,,Cat,Medical,Neutered Male,3 years
+A705561,,Cat,Medical,Intact Female,2 months
+A705584,,Cat,Suffering,Intact Male,1 month
+A705654,*Clementine,Cat,Suffering,Intact Female,1 month
+A705655,,Cat,Suffering,Intact Male,1 month
+A705656,*Rasberry,Cat,Suffering,Intact Female,1 month
+A705657,,Cat,Suffering,Intact Female,1 month
+A705713,,Dog,Suffering,Intact Male,1 month
+A705761,,Cat,Suffering,Unknown,5 years
+A705766,,Cat,Suffering,Neutered Male,8 years
+A705816,,Dog,Suffering,Unknown,4 years
+A705826,,Dog,Suffering,Intact Female,1 month
+A705830,,Cat,Suffering,Intact Male,2 years
+A705837,,Cat,Suffering,Intact Male,1 month
+A705843,,Dog,Suffering,Intact Female,3 months
+A705857,,Cat,Suffering,Intact Male,10 months
+A705866,,Cat,Suffering,Intact Female,1 year
+A705870,*Brandi,Cat,Suffering,Intact Female,2 months
+A705881,,Cat,Suffering,Intact Male,3 years
+A705884,*Georgina,Cat,Suffering,Intact Female,2 months
+A705979,,Cat,Suffering,Neutered Male,10 years
+A705980,,Cat,Suffering,Intact Male,1 month
+A705985,,Cat,Suffering,Intact Male,1 month
+A705995,Sasha,Dog,Aggressive,Intact Female,5 years
+A706106,,Cat,Suffering,Intact Female,2 years
+A706134,,Cat,Suffering,Intact Female,1 month
+A706151,,Cat,Suffering,Unknown,4 weeks
+A706173,*Ford,Cat,Suffering,Neutered Male,10 years
+A706201,,Cat,Rabies Risk,Intact Male,2 years
+A706214,*Bernice,Dog,Suffering,Spayed Female,13 years
+A706229,Elvis,Dog,Suffering,Neutered Male,15 years
+A706232,,Cat,Suffering,Intact Male,1 month
+A706238,*Alice,Cat,Suffering,Intact Female,2 months
+A706262,*Honorina,Cat,Suffering,Intact Female,2 months
+A706263,*Houston,Cat,Suffering,Intact Male,2 months
+A706270,,Dog,Suffering,Intact Male,5 months
+A706310,Zora,Cat,Suffering,Intact Female,16 years
+A706415,,Dog,Suffering,Neutered Male,2 years
+A706422,,Cat,Suffering,Intact Female,1 month
+A706442,,Dog,Suffering,Intact Male,2 years
+A706453,,Dog,Suffering,Intact Male,7 years
+A706455,,Dog,Suffering,Intact Female,12 years
+A706483,Monkey,Cat,Suffering,Intact Female,3 years
+A706501,Randy,Dog,Suffering,Intact Male,9 years
+A706529,,Cat,Suffering,Neutered Male,4 years
+A706553,Chyna,Dog,Suffering,Intact Female,8 months
+A706577,,Dog,Suffering,Intact Female,9 years
+A706595,,Cat,Suffering,Intact Male,3 weeks
+A706682,,Cat,Suffering,Intact Male,1 month
+A706694,,Cat,Suffering,Unknown,4 weeks
+A706695,,Cat,Suffering,Unknown,4 weeks
+A706731,Lucky,Dog,Aggressive,Intact Male,2 years
+A706808,,Cat,Suffering,Intact Female,1 month
+A706809,,Cat,Suffering,Intact Female,1 month
+A706810,,Cat,Suffering,Intact Female,1 month
+A706818,,Cat,Suffering,Intact Female,4 months
+A706832,,Cat,Suffering,Unknown,2 years
+A706850,,Cat,Suffering,Intact Male,3 weeks
+A706859,,Cat,Suffering,Intact Male,5 years
+A706866,,Cat,Suffering,Intact Male,8 years
+A706938,,Dog,Suffering,Neutered Male,9 years
+A706953,,Dog,Medical,Intact Female,6 months
+A706954,,Cat,Suffering,Intact Male,1 month
+A706955,,Cat,Suffering,Intact Female,4 weeks
+A706957,,Dog,Suffering,Intact Female,9 years
+A706958,,Dog,Medical,Intact Male,3 years
+A706961,,Dog,Medical,Intact Female,2 years
+A706963,,Cat,Suffering,Unknown,4 months
+A706970,Colby,Dog,Suffering,Neutered Male,7 years
+A707037,*Cassie,Dog,Aggressive,Spayed Female,3 years
+A707046,Jameson,Dog,Rabies Risk,Neutered Male,3 years
+A707060,,Cat,Suffering,Intact Male,1 month
+A707097,Lily,Cat,Rabies Risk,Spayed Female,1 year
+A707148,*Tonka,Dog,Aggressive,Intact Male,2 years
+A707159,,Dog,Suffering,Intact Male,1 month
+A707255,Cheyenne,Dog,Suffering,Spayed Female,13 years
+A707269,,Cat,Suffering,Unknown,5 years
+A707401,,Cat,Suffering,Spayed Female,13 years
+A707412,,Dog,Suffering,Intact Female,6 years
+A707422,,Cat,Suffering,Intact Female,2 months
+A707429,,Dog,Suffering,Unknown,0 years
+A707498,,Cat,Suffering,Unknown,1 year
+A707507,,Cat,Suffering,Intact Male,1 year
+A707518,,Dog,Suffering,Intact Male,3 years
+A707551,,Cat,Suffering,Intact Male,1 month
+A707564,,Cat,Suffering,Intact Male,1 month
+A707570,,Dog,Behavior,Intact Male,2 years
+A707649,,Dog,Suffering,Intact Male,10 years
+A707696,,Dog,Suffering,Intact Male,1 month
+A707714,,Cat,Suffering,Neutered Male,4 years
+A707747,,Dog,Suffering,Intact Male,2 years
+A707786,Comino,Dog,Suffering,Neutered Male,6 years
+A707879,,Cat,Suffering,Spayed Female,9 years
+A707882,,Cat,Suffering,Intact Female,12 years
+A707918,,Cat,Medical,Intact Male,1 year
+A707923,Little Man,Cat,Medical,Neutered Male,15 years
+A708003,,Cat,Suffering,Intact Male,1 month
+A708004,,Cat,Suffering,Intact Female,1 month
+A708042,*Irene,Dog,Medical,Spayed Female,2 years
+A708078,,Cat,Suffering,Intact Female,9 years
+A708089,,Cat,Suffering,Intact Female,5 months
+A708092,,Cat,Suffering,Intact Female,1 year
+A708173,,Dog,Suffering,Intact Female,1 year
+A708341,,Cat,Suffering,Unknown,4 months
+A708369,,Cat,Suffering,Intact Male,1 year
+A708437,,Cat,Suffering,Spayed Female,2 years
+A708445,,Cat,Suffering,Neutered Male,8 years
+A708461,,Cat,Suffering,Unknown,2 years
+A708497,,Cat,Suffering,Intact Female,2 days
+A708546,,Cat,Suffering,Unknown,2 weeks
+A708583,Lucky,Dog,Suffering,Unknown,4 years
+A708630,Chloe,Dog,Suffering,Spayed Female,4 months
+A708665,,Cat,Suffering,Intact Female,4 years
+A708715,,Cat,Suffering,Intact Male,2 years
+A708753,,Cat,Suffering,Intact Male,2 months
+A708757,Scooter,Cat,Suffering,Neutered Male,16 years
+A708774,Chiquita,Dog,Suffering,Intact Female,6 years
+A708786,,Dog,Aggressive,Intact Male,2 years
+A708799,,Cat,Suffering,Neutered Male,15 years
+A708862,*Valejo,Dog,Aggressive,Intact Male,3 years
+A708863,,Cat,Suffering,Unknown,1 month
+A708922,Ruby,Dog,Suffering,Spayed Female,14 years
+A708938,,Cat,Suffering,Intact Male,4 months
+A709007,,Cat,Medical,Intact Female,4 months
+A709053,,Dog,Suffering,Intact Female,5 years
+A709075,,Cat,Suffering,Intact Male,2 weeks
+A709076,*Roo,Cat,Suffering,Intact Female,3 weeks
+A709171,,Cat,Suffering,Intact Female,1 year
+A709184,,Cat,Suffering,Spayed Female,5 years
+A709217,,Cat,Suffering,Intact Male,1 year
+A709236,,Cat,Suffering,Intact Female,1 year
+A709333,Mary Jane,Dog,Suffering,Intact Female,5 years
+A709339,,Cat,Suffering,Intact Female,1 month
+A709342,Gaston,Dog,Aggressive,Neutered Male,5 years
+A709353,Corazon,Cat,Suffering,Spayed Female,8 years
+A709373,Mojo,Dog,Suffering,Intact Male,4 years
+A709379,,Dog,Medical,Intact Female,4 years
+A709468,,Cat,Suffering,Unknown,3 years
+A709478,Larry,Dog,Suffering,Intact Male,6 months
+A709516,,Cat,Suffering,Intact Male,1 month
+A709642,,Cat,Suffering,Neutered Male,13 years
+A709649,Zeus,Dog,Aggressive,Intact Male,1 year
+A709673,,Dog,Suffering,Intact Female,15 years
+A709694,,Cat,Suffering,Intact Female,1 year
+A709714,,Cat,Suffering,Unknown,1 week
+A709803,Gremlin,Dog,Suffering,Intact Female,16 years
+A709825,,Dog,Suffering,Intact Male,5 years
+A709852,,Dog,Suffering,Intact Male,1 year
+A709898,,Dog,Suffering,Intact Male,5 months
+A709922,,Cat,Suffering,Unknown,3 weeks
+A710064,,Cat,Suffering,Intact Female,1 month
+A710131,Angie,Cat,Suffering,Intact Female,17 years
+A710196,,Cat,Suffering,Intact Male,1 year
+A710227,Sebastian,Cat,Suffering,Neutered Male,12 years
+A710276,*Millie,Cat,Suffering,Intact Female,5 years
+A710357,Gator,Dog,Aggressive,Intact Male,2 years
+A710405,Peanut,Dog,Medical,Intact Male,16 years
+A710435,,Cat,Suffering,Neutered Male,12 years
+A710451,Henry,Dog,Aggressive,Neutered Male,4 years
+A710453,Spawn,Dog,Aggressive,Intact Male,3 years
+A710475,,Cat,Suffering,Intact Male,1 month
+A710490,,Cat,Suffering,Intact Male,3 months
+A710521,*Fred,Cat,Suffering,Intact Male,3 months
+A710593,,Cat,Suffering,Intact Male,1 year
+A710658,,Cat,Suffering,Intact Male,7 months
+A710668,,Cat,Suffering,Intact Male,5 months
+A710720,Honey,Dog,Aggressive,Intact Female,2 years
+A710733,,Cat,Rabies Risk,Intact Female,4 years
+A710751,,Cat,Suffering,Intact Male,4 weeks
+A710763,Ralph,Dog,Aggressive,Neutered Male,5 years
+A710853,Oso,Dog,Aggressive,Neutered Male,2 years
+A710873,,Cat,Suffering,Intact Female,1 month
+A710885,,Cat,Suffering,Intact Female,1 month
+A710889,,Dog,Suffering,Intact Female,1 month
+A710935,Prince,Dog,Suffering,Neutered Male,12 years
+A710963,,Dog,Suffering,Intact Female,1 year
+A711012,,Cat,Suffering,Unknown,3 days
+A711015,,Cat,Suffering,Unknown,3 days
+A711079,Phoebe,Dog,Aggressive,Intact Female,6 years
+A711220,,Cat,Suffering,Intact Female,12 years
+A711323,,Cat,Suffering,Unknown,1 weeks
+A711339,Sadie Rose,Dog,Aggressive,Spayed Female,2 years
+A711340,,Dog,Suffering,Intact Female,2 years
+A711357,,Cat,Suffering,Unknown,2 years
+A711397,,Cat,Suffering,Intact Female,1 month
+A711486,L.C.,Cat,Suffering,Neutered Male,9 years
+A711562,Bino,Dog,Suffering,Intact Male,1 year
+A711567,,Dog,Suffering,Intact Female,3 years
+A711572,*Candy,Dog,Medical,Intact Female,2 years
+A711601,Benclet,Dog,Suffering,Intact Male,6 years
+A711609,,Cat,Suffering,Unknown,2 years
+A711627,,Cat,Suffering,Intact Male,4 weeks
+A711689,Bella,Dog,Suffering,Intact Female,3 years
+A711704,,Cat,Suffering,Intact Female,1 month
+A711705,,Cat,Suffering,Spayed Female,12 years
+A711707,Mojo,Dog,Rabies Risk,Neutered Male,5 years
+A711718,,Cat,Suffering,Intact Male,1 year
+A711756,,Cat,Suffering,Intact Male,3 years
+A711822,,Dog,Suffering,Intact Female,4 years
+A711886,,Cat,Suffering,Neutered Male,3 years
+A711967,,Cat,Suffering,Neutered Male,9 years
+A711985,,Dog,Suffering,Intact Male,4 months
+A711992,,Dog,Suffering,Neutered Male,11 years
+A712032,,Cat,Suffering,Intact Female,2 months
+A712056,,Cat,,Intact Female,2 years
+A712059,*Hector,Dog,Aggressive,Neutered Male,3 years
+A712084,,Cat,Suffering,Intact Female,15 years
+A712179,,Cat,,Unknown,4 weeks
+A712193,,Dog,Suffering,Intact Male,10 years
+A712222,,Cat,Suffering,Neutered Male,5 years
+A712293,,Cat,Suffering,Intact Male,8 months
+A712328,,Cat,Suffering,Intact Female,10 years
+A712342,Skyla,Dog,Suffering,Spayed Female,14 years
+A712376,,Cat,Suffering,Unknown,2 weeks
+A712493,*Iris,Cat,Suffering,Spayed Female,5 years
+A712527,*Snickers,Cat,Suffering,Intact Male,1 month
+A712618,,Cat,Suffering,Unknown,3 days
+A712715,,Cat,Suffering,Unknown,3 weeks
+A712730,,Cat,Suffering,Intact Male,2 years
+A712770,,Cat,Suffering,Neutered Male,5 years
+A712876,,Cat,Suffering,Intact Male,1 month
+A713158,Lucerito,Dog,Suffering,Intact Female,14 years
+A713207,,Cat,Suffering,Intact Male,1 month
+A713224,,Cat,Suffering,Intact Male,2 months
+A713240,,Dog,Suffering,Neutered Male,16 years
+A713284,,Cat,Suffering,Unknown,4 weeks
+A713422,,Cat,,Neutered Male,8 years
+A713430,Leo,Dog,Aggressive,Intact Male,2 years
+A713473,,Cat,Rabies Risk,Intact Male,5 years
+A713600,Koda,Cat,Suffering,Neutered Male,7 years
+A713613,,Cat,Suffering,Intact Female,4 weeks
+A713621,Killa,Dog,Aggressive,Neutered Male,2 years
+A713622,Kiki,Dog,Aggressive,Spayed Female,2 years
+A713642,,Cat,Rabies Risk,Intact Female,1 year
+A713700,,Cat,Suffering,Intact Female,1 year
+A713739,Lazzie,Dog,Suffering,Spayed Female,2 years
+A713756,,Cat,Suffering,Unknown,2 years
+A713782,,Cat,Suffering,Intact Female,1 month
+A713927,,Cat,Suffering,Intact Male,1 month
+A713935,,Cat,Suffering,Intact Female,1 month
+A713944,Gorda,Dog,Suffering,Intact Female,4 months
+A713954,Baby,Dog,Behavior,Intact Female,2 years
+A714003,Alexander,Dog,Aggressive,Neutered Male,2 years
+A714010,,Cat,Suffering,Intact Male,1 month
+A714067,Sophie,Dog,Suffering,Intact Female,17 years
+A714131,*Emma,Cat,Suffering,Spayed Female,5 years
+A714168,,Dog,Suffering,Intact Male,6 months
+A714198,Andre,Cat,Suffering,Neutered Male,2 years
+A714273,,Cat,Suffering,Spayed Female,3 years
+A714275,,Cat,Suffering,Intact Male,5 years
+A714484,*Chaucer,Dog,Medical,Neutered Male,10 years
+A714497,,Dog,Suffering,Intact Male,1 year
+A714557,,Cat,Suffering,Unknown,1 month
+A714611,Bodacious,Dog,Suffering,Neutered Male,11 years
+A714618,,Dog,Suffering,Intact Female,8 years
+A714628,,Cat,Suffering,Intact Female,1 month
+A714715,,Cat,Suffering,Intact Male,2 years
+A714784,,Cat,Suffering,Intact Male,4 weeks
+A714873,,Cat,Suffering,Intact Female,2 months
+A714977,,Cat,Suffering,Intact Male,1 month
+A715028,Sasha,Cat,Suffering,Intact Female,1 year
+A715049,Jordan,Dog,Suffering,Neutered Male,3 years
+A715226,,Cat,Suffering,Unknown,1 month
+A715235,,Cat,Suffering,Neutered Male,1 year
+A715264,,Dog,Rabies Risk,Intact Male,2 years
+A715271,,Cat,Suffering,Intact Female,3 years
+A715292,*Nymeria,Cat,Suffering,Intact Female,1 month
+A715302,,Cat,Rabies Risk,Intact Male,1 year
+A715327,,Dog,Suffering,Intact Female,1 year
+A715553,Mr. Spring,Cat,Suffering,Neutered Male,1 year
+A715567,,Dog,Suffering,Intact Female,2 years
+A715590,,Cat,Suffering,Unknown,2 years
+A715627,Damu,Dog,Court/Investigation,Intact Male,5 years
+A715679,,Cat,Suffering,Intact Male,3 years
+A715684,,Cat,Suffering,Intact Female,2 years
+A715687,,Dog,Suffering,Intact Female,2 years
+A715701,,Cat,Suffering,Spayed Female,8 years
+A715739,Rupert,Dog,Suffering,Neutered Male,17 years
+A715751,Tiger,Dog,Suffering,Intact Female,9 months
+A715803,,Cat,Suffering,Intact Male,1 month
+A715833,Squirt,Dog,Suffering,Intact Female,1 year
+A715834,*Turkey,Cat,Suffering,Neutered Male,3 years
+A715860,,Cat,Rabies Risk,Intact Male,2 months
+A715868,,Dog,Rabies Risk,Intact Female,2 months
+A715954,,Dog,Suffering,Intact Male,1 year
+A716005,Indio,Dog,At Vet,Intact Male,2 years
+A716039,Dirty,Cat,Suffering,Neutered Male,1 year
+A716088,,Cat,Medical,Intact Male,6 months
+A716132,Silver,Cat,Suffering,Neutered Male,17 years
+A716318,,Dog,Suffering,Intact Female,2 years
+A716542,Charlie,Dog,Aggressive,Intact Male,4 years
+A716571,,Cat,Suffering,Intact Male,4 years
+A716606,Tanner,Dog,Aggressive,Neutered Male,10 years
+A716661,,Cat,Suffering,Intact Male,3 months
+A716683,,Cat,Suffering,Intact Male,1 month
+A716795,,Cat,Rabies Risk,Unknown,2 months
+A716817,*Rosie,Dog,Suffering,Spayed Female,8 years
+A716847,,Cat,Suffering,Unknown,3 days
+A716851,,Cat,Suffering,Intact Male,2 months
+A716906,,Dog,Suffering,Intact Male,4 months
+A716916,,Cat,Suffering,Intact Female,2 years
+A716940,,Cat,Rabies Risk,Spayed Female,9 years
+A716961,,Dog,Suffering,Intact Female,4 weeks
+A717007,,Dog,Suffering,Neutered Male,16 years
+A717038,,Cat,Rabies Risk,Intact Female,2 years
+A717094,Cookie,Dog,Suffering,Spayed Female,9 years
+A717200,Bella,Dog,Suffering,Intact Female,9 years
+A717276,*Mimi,Dog,Suffering,Spayed Female,2 years
+A717387,*Sarita,Cat,Medical,Spayed Female,7 years
+A717428,Sweety,Dog,Suffering,Intact Female,5 months
+A717538,,Dog,Suffering,Intact Female,10 years
+A717600,*Crosby,Dog,Aggressive,Intact Male,1 year
+A717678,,Cat,Suffering,Unknown,2 years
+A717716,,Dog,Suffering,Intact Male,3 years
+A717757,,Cat,Suffering,Intact Female,1 year
+A717767,,Cat,Suffering,Intact Male,1 year
+A717901,*Lily,Cat,Medical,Spayed Female,8 years
+A717971,,Cat,Suffering,Intact Male,3 months
+A718070,,Dog,Suffering,Intact Female,1 year
+A718133,,Dog,Suffering,Unknown,16 years
+A718214,Chad,Dog,Aggressive,Neutered Male,5 years
+A718270,Rocky,Dog,Medical,Neutered Male,2 years
+A718274,Princess,Cat,Suffering,Spayed Female,3 years
+A718304,,Cat,Suffering,Intact Male,2 years
+A718308,*Osiris,Dog,Aggressive,Neutered Male,2 years
+A718309,*Lynessa,Cat,Suffering,Intact Female,1 month
+A718361,,Cat,Suffering,Intact Male,4 months
+A718378,,Cat,Rabies Risk,Intact Male,6 months
+A718442,,Cat,Suffering,Neutered Male,3 years
+A718448,,Cat,Suffering,Intact Female,2 years
+A718478,,Dog,Suffering,Intact Male,2 years
+A718498,Snoop Dog,Dog,Suffering,Intact Male,1 year
+A718518,*Dame,Dog,Suffering,Intact Female,12 years
+A718535,,Cat,Suffering,Spayed Female,3 years
+A718566,*Eleonora,Cat,Suffering,Intact Female,10 years
+A718575,,Cat,Suffering,Intact Male,2 years
+A718654,Goliath,Dog,Aggressive,Neutered Male,3 years
+A718738,,Dog,Suffering,Intact Female,12 years
+A718795,*Emerald,Cat,At Vet,Spayed Female,16 years
+A718874,,Cat,Suffering,Unknown,5 years
+A718886,Shelton,Dog,Aggressive,Neutered Male,2 years
+A718958,,Cat,Medical,Intact Female,12 years
+A719004,,Dog,Suffering,Intact Male,2 years
+A719033,Kio,Dog,Suffering,Neutered Male,12 years
+A719076,,Cat,Rabies Risk,Intact Female,3 months
+A719089,,Cat,Suffering,Neutered Male,3 years
+A719188,,Cat,Suffering,Intact Male,3 years
+A719278,,Cat,Suffering,Unknown,2 years
+A719317,,Dog,Suffering,Intact Male,7 years
+A719435,,Cat,Suffering,Intact Male,1 year
+A719531,,Cat,Suffering,Neutered Male,15 years
+A719628,,Cat,Suffering,Intact Male,6 months
+A719661,Minina,Cat,Suffering,Intact Female,6 months
+A719785,,Cat,Suffering,Intact Male,2 years
+A719918,*Linus,Dog,Aggressive,Neutered Male,2 years
+A719972,Daisy,Dog,Suffering,Spayed Female,13 years
+A720109,,Dog,Suffering,Intact Female,2 months
+A720212,,Dog,Suffering,Intact Male,13 years
+A720232,Tucker,Dog,Aggressive,Neutered Male,1 year
+A720249,*Whiskers,Cat,Suffering,Intact Male,4 years
+A720262,*Lucky,Dog,Suffering,Neutered Male,8 months
+A720287,,Cat,Suffering,Intact Male,5 years
+A720310,,Cat,Suffering,Intact Female,1 year
+A720359,,Cat,Suffering,Intact Male,3 months
+A720388,Precious,Dog,Aggressive,Intact Female,2 years
+A720463,,Cat,Rabies Risk,Neutered Male,3 years
+A720532,*Ellie,Cat,At Vet,Spayed Female,2 years
+A720574,Mimi,Cat,Suffering,Spayed Female,10 years
+A720583,Jaguar,Cat,Medical,Intact Male,9 months
+A720692,,Dog,Rabies Risk,Intact Female,1 month
+A720706,,Cat,Suffering,Intact Male,5 months
+A720802,Diesel,Dog,Aggressive,Neutered Male,1 year
+A720891,*Henry,Cat,Suffering,Neutered Male,4 years
+A720908,,Cat,Suffering,Intact Male,1 year
+A721045,Buddy,Dog,Suffering,Neutered Male,13 years
+A721056,Buck,Dog,,Intact Male,5 years
+A721076,,Dog,Suffering,Intact Male,2 months
+A721216,,Cat,Suffering,Intact Female,1 year
+A721351,*Ruby,Dog,Suffering,Spayed Female,1 year
+A721369,,Cat,Suffering,Intact Male,6 months
+A721429,Princessa,Dog,,Intact Female,2 years
+A721435,,Dog,Aggressive,Intact Female,2 years
+A721436,,Cat,Suffering,Unknown,2 weeks
+A721441,,Dog,Aggressive,Intact Female,2 years
+A721442,,Dog,Aggressive,Intact Female,1 year
+A721501,Lola Rey,Dog,Rabies Risk,Spayed Female,1 year
+A721565,Arthur,Dog,Aggressive,Neutered Male,9 years
+A721573,Squirt,Dog,Aggressive,Intact Male,1 year
+A721663,,Cat,Suffering,Unknown,1 year
+A721667,Chita,Dog,Suffering,Intact Female,17 years
+A721672,,Cat,Suffering,Unknown,5 years
+A721673,Stack,Dog,Suffering,Intact Male,3 months
+A721777,Luna,Dog,Aggressive,Spayed Female,4 years
+A721810,,Cat,Suffering,Neutered Male,2 years
+A721834,,Dog,Suffering,Intact Male,2 years
+A721853,,Cat,Suffering,Neutered Male,5 years
+A721857,,Cat,Suffering,Neutered Male,2 years
+A721958,Precious,Dog,Suffering,Intact Female,12 years
+A722056,Eddie,Dog,Aggressive,Neutered Male,3 years
+A722300,Sniffles,Dog,Suffering,Spayed Female,9 years
+A722475,,Cat,Suffering,Intact Male,2 years
+A722566,,Cat,Suffering,Intact Female,5 years
+A723108,,Cat,Suffering,Intact Female,5 years
+A723148,,Cat,Suffering,Intact Male,1 year
+A723274,,Cat,Suffering,Intact Male,2 years
+A723432,,Cat,Suffering,Unknown,3 weeks
+A723449,,Cat,Suffering,Intact Female,1 year
+A723456,,Dog,Suffering,Intact Male,16 years
+A723478,*Joan Jett,Dog,Suffering,Spayed Female,8 years
+A723529,*Simba,Cat,Suffering,Neutered Male,1 year
+A723715,,Cat,Suffering,Neutered Male,8 years
+A723756,Leo,Dog,Behavior,Neutered Male,2 years
+A723766,Colonel,Dog,Aggressive,Neutered Male,2 years
+A723767,Princess,Dog,Aggressive,Spayed Female,2 years
+A723848,,Cat,Suffering,Intact Male,12 years
+A723905,,Cat,Rabies Risk,Neutered Male,2 years
+A723963,Bite Cat,Cat,Suffering,Unknown,2 years
+A723967,,Cat,Suffering,Intact Male,2 weeks
+A723993,Videl,Dog,Suffering,Spayed Female,16 years
+A724099,,Cat,Rabies Risk,Intact Male,4 years
+A724120,Candy,Dog,Aggressive,Spayed Female,3 years
+A724328,,Dog,Suffering,Intact Male,4 weeks
+A724334,Becky,Dog,Suffering,Intact Female,2 years
+A724403,Pedro,Dog,Suffering,Neutered Male,2 years
+A724435,,Cat,Suffering,Intact Female,1 year
+A724509,Trooper,Dog,Aggressive,Neutered Male,1 year
+A724525,,Dog,Suffering,Intact Female,2 years
+A724540,,Cat,Suffering,Neutered Male,15 years
+A724598,,Cat,Suffering,Unknown,3 days
+A724603,,Dog,Rabies Risk,Intact Male,1 month
+A724611,,Cat,Rabies Risk,Neutered Male,5 years
+A724626,,Cat,Suffering,Intact Male,2 years
+A724641,*Scotty,Dog,Suffering,Neutered Male,3 years
+A724682,Bear,Cat,Suffering,Neutered Male,10 years
+A724688,Princess,Cat,Suffering,Spayed Female,1 year
+A724702,,Cat,Suffering,Intact Male,1 year
+A724728,,Cat,Suffering,Unknown,2 years
+A724742,,Cat,Suffering,Unknown,2 weeks
+A724744,,Cat,Rabies Risk,Neutered Male,6 years
+A724758,*Growler,Dog,Aggressive,Intact Male,1 year
+A724857,Chico,Dog,Aggressive,Intact Male,4 years
+A724888,Vivienne,Cat,Medical,Spayed Female,7 years
+A724895,,Cat,Rabies Risk,Intact Female,1 year
+A724896,,Cat,Suffering,Intact Male,1 month
+A724897,,Cat,Suffering,Intact Male,1 month
+A724898,,Cat,Suffering,Intact Male,1 month
+A724942,,Cat,Suffering,Intact Male,4 weeks
+A725158,*Oscar,Cat,Suffering,Intact Male,4 weeks
+A725175,Junior,Dog,Aggressive,Neutered Male,5 years
+A725287,,Cat,Suffering,Intact Male,3 years
+A725294,,Cat,Suffering,Unknown,1 weeks
+A725313,,Cat,Suffering,Intact Female,5 months
+A725440,Bonbon,Dog,Aggressive,Intact Female,2 years
+A725736,,Cat,Suffering,Unknown,1 year
+A725747,*Phoebe,Dog,Suffering,Spayed Female,2 years
+A725779,,Cat,Suffering,Intact Female,1 year
+A725888,,Cat,Suffering,Spayed Female,13 years
+A725915,Snagglepuss,Cat,Suffering,Neutered Male,19 years
+A726063,Jackie,Cat,Rabies Risk,Intact Female,2 years
+A726064,,Dog,Suffering,Intact Female,2 years
+A726099,Sparky,Dog,Suffering,Neutered Male,3 years
+A726145,Lucky,Dog,Suffering,Neutered Male,8 years
+A726227,,Cat,Rabies Risk,Intact Male,9 months
+A726246,,Cat,Suffering,Intact Male,9 years
+A726299,Oscar,Cat,Suffering,Neutered Male,12 years
+A726340,*Sammy,Cat,Suffering,Intact Male,2 months
+A726450,Knight,Dog,Medical,Neutered Male,13 years
+A726452,Sofia,Dog,Suffering,Intact Female,6 months
+A726530,*Theo,Cat,Suffering,Intact Male,5 months
+A726627,,Cat,Suffering,Intact Female,1 month
+A726760,,Cat,Suffering,Neutered Male,10 years
+A726822,,Dog,Suffering,Neutered Male,6 years
+A726867,,Cat,Medical,Neutered Male,10 years
+A726905,,Dog,Suffering,Neutered Male,13 years
+A726918,,Cat,Suffering,Intact Male,4 years
+A726931,,Cat,Suffering,Unknown,2 weeks
+A726970,*Earl,Cat,Suffering,Intact Male,1 month
+A727029,*Charlie,Cat,Suffering,Intact Male,1 month
+A727231,,Cat,Suffering,Unknown,1 month
+A727310,,Cat,Suffering,Unknown,2 years
+A727426,Jj,Dog,Aggressive,Neutered Male,2 years
+A727438,,Cat,Suffering,Unknown,1 weeks
+A727476,,Cat,Suffering,Intact Female,6 days
+A727628,Benji,Dog,Rabies Risk,Neutered Male,4 years
+A727632,,Cat,Suffering,Intact Female,4 weeks
+A727680,,Cat,Suffering,Intact Male,1 month
+A727699,,Cat,Suffering,Spayed Female,10 years
+A727773,Einstein,Dog,Suffering,Neutered Male,10 years
+A727778,,Cat,Suffering,Intact Male,2 weeks
+A727808,,Cat,Suffering,Spayed Female,2 years
+A727869,,Cat,Rabies Risk,Unknown,2 months
+A727877,,Cat,Suffering,Intact Female,7 months
+A727899,,Cat,Suffering,Intact Male,2 months
+A727916,,Cat,Suffering,Intact Female,4 weeks
+A727935,*Jane,Cat,Suffering,Intact Female,1 month
+A727982,,Cat,Suffering,Intact Male,1 month
+A728008,,Cat,Medical,Intact Female,2 months
+A728033,,Cat,,Unknown,1 month
+A728064,,Cat,Medical,Unknown,4 weeks
+A728074,,Cat,Suffering,Intact Male,3 months
+A728107,,Dog,Suffering,Intact Male,10 months
+A728131,,Dog,Suffering,Intact Male,2 months
+A728149,,Cat,Suffering,Intact Female,1 year
+A728151,Zeke,Cat,Medical,Neutered Male,2 years
+A728296,,Cat,Suffering,Intact Female,3 years
+A728302,,Dog,Suffering,Intact Male,2 days
+A728315,*Frannie,Dog,At Vet,Spayed Female,13 years
+A728342,,Cat,Suffering,Intact Female,2 years
+A728401,,Cat,Suffering,Intact Female,3 months
+A728445,King Max,Dog,Behavior,Neutered Male,1 year
+A728528,Chato,Dog,Suffering,Intact Male,6 years
+A728537,,Cat,Suffering,Unknown,1 month
+A728554,,Cat,Suffering,Intact Female,4 weeks
+A728564,,Dog,Aggressive,Intact Female,3 years
+A728569,*Zoe,Dog,Medical,Spayed Female,10 years
+A728677,,Dog,Suffering,Intact Female,2 years
+A728737,,Dog,Suffering,Intact Male,1 month
+A728789,King,Dog,Aggressive,Neutered Male,2 years
+A728792,Odin,Dog,Court/Investigation,Neutered Male,4 years
+A728858,,Cat,Suffering,Intact Female,3 months
+A728925,,Cat,Suffering,Unknown,2 years
+A728958,,Dog,Suffering,Intact Male,10 years
+A729002,,Cat,Suffering,Intact Male,3 months
+A729044,,Cat,Suffering,Unknown,4 weeks
+A729119,,Cat,Medical,Unknown,4 weeks
+A729186,*Gates,Cat,Suffering,Intact Male,1 month
+A729192,,Dog,,Intact Female,2 years
+A729205,,Cat,Suffering,Intact Female,1 year
+A729300,Mocha,Dog,Court/Investigation,Intact Female,9 years
+A729302,Buddy,Dog,Court/Investigation,Intact Male,3 years
+A729303,Rusty,Dog,Court/Investigation,Intact Male,3 years
+A729304,Baby,Dog,Court/Investigation,Spayed Female,5 years
+A729339,,Cat,Medical,Intact Male,2 years
+A729342,,Dog,Suffering,Neutered Male,8 months
+A729462,*Sailor,Cat,Suffering,Neutered Male,1 year
+A729498,,Cat,Suffering,Intact Male,1 month
+A729517,,Cat,Suffering,Intact Female,4 weeks
+A729521,,Cat,Suffering,Unknown,6 years
+A729630,,Cat,Suffering,Intact Male,1 month
+A729631,Damu,Dog,Rabies Risk,Intact Male,8 months
+A729634,Missy,Dog,Rabies Risk,Spayed Female,8 months
+A729677,,Cat,Suffering,Intact Female,1 month
+A729683,Jax,Dog,Aggressive,Intact Male,4 years
+A729785,Daisy,Dog,Suffering,Spayed Female,8 months
+A729845,,Cat,Suffering,Intact Male,2 years
+A729917,,Cat,Suffering,Intact Female,4 weeks
+A730012,,Cat,Suffering,Intact Female,12 years
+A730125,,Cat,Suffering,Intact Male,1 month
+A730132,*Keroppi,Cat,Suffering,Intact Male,2 months
+A730154,,Cat,Suffering,Neutered Male,3 years
+A730207,,Cat,Suffering,Spayed Female,5 years
+A730327,,Cat,Suffering,Unknown,1 year
+A730346,,Cat,Suffering,Intact Male,4 weeks
+A730446,,Cat,Suffering,Spayed Female,3 years
+A730580,,Cat,Suffering,Intact Female,4 weeks
+A730660,,Cat,Suffering,Intact Female,2 years
+A730733,,Dog,Medical,Intact Female,10 years
+A730809,Chichi Boy,Cat,Aggressive,Intact Male,2 years
+A730811,Oscar,Dog,Suffering,Neutered Male,16 years
+A730856,,Cat,Suffering,Intact Female,1 year
+A730881,Dice,Dog,Suffering,Spayed Female,10 years
+A730888,Kaly,Dog,Rabies Risk,Spayed Female,1 year
+A731002,,Cat,Suffering,Spayed Female,4 years
+A731086,Cinnimon,Dog,Suffering,Spayed Female,10 years
+A731162,Roxy,Dog,Suffering,Spayed Female,1 year
+A731374,,Cat,Suffering,Intact Female,1 month
+A731375,,Cat,Suffering,Intact Male,1 month
+A731428,,Dog,Suffering,Neutered Male,10 years
+A731507,,Cat,Suffering,Unknown,2 months
+A731535,,Cat,Suffering,Neutered Male,5 months
+A731594,,Cat,Suffering,Intact Male,4 years
+A731618,Bodie,Dog,Aggressive,Neutered Male,4 years
+A731735,*Benetta,Cat,Rabies Risk,Intact Female,1 year
+A731785,,Cat,Suffering,Intact Male,2 months
+A731828,Milo,Dog,Aggressive,Neutered Male,1 year
+A731922,,Dog,Suffering,Intact Female,14 years
+A731936,,Cat,Suffering,Intact Female,5 months
+A732008,Richard,Dog,Suffering,Neutered Male,7 years
+A732045,*Phelps,Cat,Suffering,Intact Male,4 weeks
+A732136,,Cat,Rabies Risk,Intact Male,1 month
+A732225,,Cat,Suffering,Unknown,15 years
+A732359,,Cat,Suffering,Intact Male,1 month
+A732500,,Dog,Suffering,Neutered Male,6 years
+A732625,Arthur,Dog,Aggressive,Intact Male,2 years
+A732751,,Cat,Suffering,Intact Male,4 weeks
+A732760,,Cat,Suffering,Unknown,1 weeks
+A732764,,Cat,Suffering,Unknown,1 weeks
+A732869,Duke,Dog,Suffering,Neutered Male,8 years
+A732882,,Cat,Suffering,Intact Female,2 years
+A732918,,Cat,Suffering,Intact Male,2 years
+A733181,,Cat,Suffering,Intact Male,4 years
+A733198,,Cat,Suffering,Unknown,3 months
+A733199,,Cat,Suffering,Unknown,3 months
+A733200,,Cat,Suffering,Intact Female,4 weeks
+A733307,,Cat,Rabies Risk,Intact Male,2 years
+A733406,,Cat,Suffering,Spayed Female,5 years
+A733461,,Cat,Suffering,Neutered Male,4 years
+A733591,Jordan,Dog,Aggressive,Spayed Female,6 years
+A733646,*Chrissy,Cat,Medical,Intact Female,2 months
+A733844,,Cat,Suffering,Intact Female,1 month
+A734221,Dro,Dog,Aggressive,Neutered Male,2 years
+A734311,,Cat,Suffering,Intact Female,1 month
+A734397,,Cat,Rabies Risk,Intact Male,1 year
+A734531,,Cat,Suffering,Spayed Female,1 year
+A734686,,Dog,Suffering,Intact Male,5 years
+A734823,,Cat,Suffering,Intact Female,1 month
+A734852,,Cat,Suffering,Spayed Female,5 years
+A734856,,Cat,Suffering,Intact Male,4 years
+A734864,,Cat,Suffering,Intact Female,1 month
+A735122,,Cat,Suffering,Intact Male,3 months
+A735149,Milo,Dog,Suffering,Neutered Male,3 years
+A735158,Casper,Dog,Suffering,Intact Male,7 years
+A735243,,Cat,Suffering,Intact Male,1 month
+A735366,,Cat,Suffering,Intact Male,2 years
+A735370,Kiki,Dog,Suffering,Intact Male,9 years
+A735445,,Dog,Suffering,Intact Female,2 months
+A735446,,Cat,Suffering,Intact Female,6 months
+A735468,,Cat,Rabies Risk,Intact Female,1 year
+A735825,,Cat,Suffering,Unknown,3 years
+A735944,,Cat,Suffering,Intact Female,2 months
+A736021,,Cat,Suffering,Intact Male,3 years
+A736069,,Cat,Suffering,Unknown,4 weeks
+A736087,,Cat,Suffering,Intact Male,2 weeks
+A736220,,Cat,Suffering,Intact Male,3 months
+A736221,,Cat,Suffering,Unknown,2 years
+A736370,Buddy,Dog,Suffering,Intact Male,3 years
+A736663,Nicks,Cat,Suffering,Neutered Male,5 years
+A736715,,Cat,Suffering,Spayed Female,3 years
+A736731,,Dog,Suffering,Intact Female,3 years
+A736776,Honeycut,Dog,Suffering,Intact Male,15 years
+A736831,,Cat,Suffering,Intact Female,1 year
+A736840,,Dog,Suffering,Intact Female,4 months
+A736865,Mr Cutie,Cat,Suffering,Spayed Female,10 years
+A737022,,Cat,Suffering,Unknown,5 months
+A737045,,Dog,Suffering,Unknown,1 month
+A737055,,Cat,Suffering,Unknown,4 months
+A737070,Taz,Dog,Aggressive,Neutered Male,1 year
+A737074,,Dog,Suffering,Unknown,4 weeks
+A737084,,Cat,,Unknown,2 years
+A737162,,Cat,Suffering,Intact Male,2 years
+A737188,,Cat,Suffering,Unknown,2 years
+A737349,,Dog,Suffering,Intact Female,1 year
+A737358,Bear,Dog,Aggressive,Neutered Male,1 year
+A737393,,Cat,Suffering,Intact Male,2 years
+A737395,,Cat,Suffering,Intact Female,2 months
+A737408,*Patriot,Dog,Suffering,Neutered Male,12 years
+A737429,,Cat,Medical,Neutered Male,1 year
+A737457,,Cat,Suffering,Neutered Male,8 years
+A737464,,Cat,Suffering,Intact Male,7 years
+A737521,,Cat,Suffering,Intact Male,0 years
+A737553,,Cat,Suffering,Neutered Male,5 years
+A737566,,Cat,Rabies Risk,Intact Female,4 months
+A737599,*Cranberry,Cat,Suffering,Intact Female,1 month
+A737641,,Cat,Suffering,Intact Male,1 year
+A737793,Fifi,Dog,Medical,Intact Female,2 years
+A737808,,Cat,Suffering,Intact Male,3 years
+A737840,,Cat,Suffering,Unknown,2 years
+A737888,,Cat,Suffering,Intact Female,1 year
+A737930,King,Dog,Suffering,Intact Male,1 year
+A737945,,Cat,Suffering,Neutered Male,2 years
+A738166,,Dog,Suffering,Unknown,6 months
+A738330,,Cat,,Neutered Male,1 year
+A738358,,Cat,Suffering,Neutered Male,5 years
+A738364,,Dog,Suffering,Neutered Male,12 years
+A738367,*Ellie,Cat,Suffering,Spayed Female,1 year
+A738398,,Cat,Suffering,Intact Male,2 years
+A738647,,Dog,Suffering,Neutered Male,2 years
+A738660,,Cat,Suffering,Intact Female,2 years
+A738771,,Cat,Suffering,Intact Female,1 year
+A738826,,Cat,Suffering,Intact Male,2 months
+A738858,,Cat,Suffering,Spayed Female,1 year
+A738895,,Cat,Suffering,Unknown,3 months
+A738994,,Cat,Suffering,Intact Female,10 years
+A738998,Cheche,Dog,Suffering,Intact Female,4 years
+A739079,,Cat,Suffering,Neutered Male,5 years
+A739086,Jojo,Dog,Suffering,Intact Male,2 years
+A739142,Gloria,Dog,Suffering,Intact Female,11 years
+A739192,,Cat,Suffering,Intact Female,1 year
+A739203,,Cat,Suffering,Intact Male,4 weeks
+A739280,,Cat,Suffering,Neutered Male,1 year
+A739333,*Bea,Cat,Suffering,Intact Female,2 months
+A739376,,Cat,Suffering,Neutered Male,2 years
+A739559,,Cat,Suffering,Intact Female,1 year
+A739678,,Dog,Suffering,Neutered Male,4 years
+A739703,Belle,Dog,Suffering,Intact Female,1 month
+A739727,,Cat,Suffering,Intact Female,1 year
+A739779,Capone,Dog,Aggressive,Intact Male,2 years
+A739785,,Dog,Suffering,Intact Female,4 months
+A740156,Bully,Dog,Suffering,Intact Male,1 year
+A740279,,Dog,Suffering,Intact Female,2 years
+A740375,,Dog,Suffering,Intact Female,1 year
+A740544,Snuggles,Dog,Suffering,Intact Female,15 years
+A740561,*Klaus,Cat,At Vet,Neutered Male,9 years
+A740672,,Cat,Suffering,Neutered Male,2 years
+A740745,,Cat,Suffering,Spayed Female,5 years
+A741103,,Dog,Suffering,Unknown,1 month
+A741403,,Cat,Medical,Neutered Male,4 years
+A741436,Springer,Dog,Behavior,Neutered Male,5 years
+A741486,,Cat,Suffering,Unknown,9 years
+A741590,,Cat,Suffering,Neutered Male,2 years
+A741614,,Cat,Suffering,Intact Male,1 year
+A741754,,Cat,Medical,Intact Female,10 years
+A741794,,Dog,Suffering,Intact Male,2 years
+A741843,Thomas,Cat,Suffering,Neutered Male,1 year
+A742139,Leo,Dog,Suffering,Intact Male,8 years
+A742165,,Dog,Suffering,Intact Male,1 year
+A742180,Tho-1,Cat,Suffering,Neutered Male,15 years
+A742193,,Cat,Suffering,Intact Male,2 years
+A742391,,Cat,Suffering,Unknown,5 months
+A742416,,Cat,Suffering,Intact Male,3 years
+A742433,Buddy,Cat,Suffering,Neutered Male,15 years
+A742592,Danny,Dog,Aggressive,Neutered Male,6 years
+A742639,Cowboy,Dog,Court/Investigation,Intact Male,2 years
+A742640,Bella,Dog,Court/Investigation,Intact Female,11 months
+A742641,Cocoa,Dog,Court/Investigation,Intact Female,3 years
+A742706,,Cat,Suffering,Unknown,1 year
+A742769,,Cat,Medical,Intact Male,3 years
+A742786,Tiny,Dog,Aggressive,Intact Female,3 years
+A742914,Jasmine,Cat,Suffering,Intact Female,14 years
+A743025,Troy,Cat,Suffering,Neutered Male,1 year
+A743077,,Cat,Suffering,Intact Female,1 year
+A743114,,Cat,Suffering,Intact Female,2 years
+A743212,Goofs,Cat,Suffering,Neutered Male,10 years
+A743256,,Cat,Suffering,Intact Male,2 years
+A743308,,Dog,Suffering,Intact Female,3 years
+A743703,Andy,Cat,Suffering,Spayed Female,19 years
+A743730,,Cat,Suffering,Intact Male,8 years
+A743731,,Cat,Suffering,Unknown,4 years
+A743890,,Cat,At Vet,Unknown,1 year
+A743911,Chester,Cat,Medical,Intact Male,10 months
+A743918,Mac,Dog,Suffering,Neutered Male,17 years
+A744028,,Dog,Suffering,Intact Female,1 year
+A744044,,Dog,Suffering,Intact Male,2 years
+A744070,,Cat,Rabies Risk,Spayed Female,3 years
+A744619,,Dog,,Intact Female,5 months
+A744712,,Cat,Suffering,Spayed Female,1 year
+A744732,Prieta,Cat,Suffering,Spayed Female,22 years
+A744783,Emma,Cat,Suffering,Spayed Female,5 years
+A744830,Edward Hyde,Dog,,Neutered Male,9 years
+A744863,,Cat,,Unknown,2 years
+A745010,,Cat,Suffering,Neutered Male,2 years
+A745046,,Cat,At Vet,Neutered Male,7 years
+A745188,,Cat,Suffering,Unknown,3 days
+A745192,,Cat,,Intact Female,1 year
+A745206,,Cat,,Intact Male,1 year
+A745394,,Cat,Suffering,Unknown,2 months
+A745798,Jake,Cat,Suffering,Neutered Male,11 years
+A745913,,Dog,Suffering,Intact Female,1 year
+A745927,,Cat,Suffering,Intact Female,10 years
+A745946,*Toodles,Dog,Medical,Neutered Male,13 years
+A746378,,Cat,Suffering,Spayed Female,2 years
+A746410,,Dog,Suffering,Intact Female,1 year
+A746438,,Cat,Suffering,Intact Male,3 years
+A746444,,Cat,Suffering,Intact Male,1 year
+A746633,,Cat,Suffering,Intact Male,2 years
+A746644,,Cat,Suffering,Neutered Male,2 years
+A746685,,Cat,Suffering,Intact Male,1 week
+A746702,,Cat,Suffering,Unknown,12 years
+A746725,,Cat,Suffering,Unknown,3 weeks
+A746777,,Cat,At Vet,Intact Male,1 year
+A746905,,Cat,At Vet,Intact Male,2 years
+A746986,Max,Dog,Suffering,Intact Male,2 years
+A746992,Panda,Dog,Suffering,Spayed Female,14 years
+A747010,,Dog,Suffering,Intact Male,4 weeks
+A747063,,Dog,At Vet,Intact Female,4 years
+A747136,,Dog,Rabies Risk,Intact Male,4 years
+A747270,,Cat,Suffering,Intact Male,1 month
+A747403,,Cat,Suffering,Intact Male,3 years
+A747414,Hambone,Cat,,Neutered Male,5 years
+A747428,,Cat,Suffering,Intact Male,4 weeks
+A747545,,Cat,Medical,Unknown,8 years
+A747555,,Cat,Suffering,Intact Female,5 years
+A747573,,Cat,Suffering,Unknown,10 years
+A747733,Hustler,Dog,Aggressive,Neutered Male,2 years
+A747978,,Dog,Suffering,Intact Female,8 years
+A748009,Snoop,Dog,Behavior,Intact Male,2 years
+A748085,,Cat,Suffering,Unknown,3 weeks
+A748296,Brownie,Dog,Suffering,Spayed Female,15 years
+A748562,George,Dog,Suffering,Neutered Male,4 years
+A748628,,Cat,Suffering,Intact Male,3 years
+A748687,,Cat,Suffering,Unknown,2 weeks
+A748769,*Pancakes,Cat,Medical,Intact Female,1 month
+A748785,,Cat,Suffering,Intact Female,3 weeks
+A748902,*Hoppus,Cat,,Intact Male,1 month
+A749123,,Cat,Suffering,Intact Male,5 months
+A749222,,Dog,Suffering,Intact Male,7 months
+A749251,,Cat,Suffering,Unknown,2 years
+A749253,Orange,Cat,Suffering,Intact Female,0 years
+A749256,,Cat,Medical,Intact Female,2 months
+A749269,,Cat,Suffering,Intact Female,6 months
+A749386,,Cat,Suffering,Neutered Male,8 years
+A749452,,Cat,Suffering,Neutered Male,10 years
+A749523,,Cat,Suffering,Intact Male,3 weeks
+A749538,,Cat,Suffering,Spayed Female,12 years
+A749654,,Dog,Suffering,Intact Male,1 year
+A749656,,Cat,At Vet,Unknown,2 months
+A749763,Carita,Cat,Suffering,Intact Female,4 years
+A749821,,Cat,Suffering,Intact Male,2 years
+A749892,,Cat,Suffering,Intact Male,1 month
+A749903,Macy,Dog,Suffering,Spayed Female,15 years
+A749905,Blue,Dog,Suffering,Intact Male,5 years
+A750051,*Mia,Cat,At Vet,Intact Female,1 month
+A750160,,Dog,Suffering,Intact Male,4 weeks
+A750223,,Dog,Suffering,Intact Male,2 years
+A750324,,Cat,Underage,Unknown,1 day
+A750354,,Cat,Suffering,Unknown,2 years
+A750399,,Cat,Suffering,Intact Male,5 weeks
+A750401,,Cat,Suffering,Unknown,4 weeks
+A750435,,Cat,Suffering,Intact Male,3 weeks
+A750502,Rocket,Cat,Suffering,Intact Male,2 months
+A750530,Pepper,Dog,Behavior,Neutered Male,4 years
+A750591,,Cat,Suffering,Unknown,1 month
+A750599,,Cat,Suffering,Intact Female,2 weeks
+A750613,,Cat,Suffering,Intact Male,8 years
+A750897,,Cat,Suffering,Intact Male,4 weeks
+A750923,,Cat,Suffering,Intact Female,7 years
+A750946,,Cat,Suffering,Intact Male,1 month
+A750977,Slim,Cat,Suffering,Intact Female,14 years
+A750998,Queen,Dog,Rabies Risk,Spayed Female,3 months
+A751034,,Cat,Suffering,Intact Male,2 weeks
+A751035,,Cat,Suffering,Unknown,2 weeks
+A751051,,Cat,Rabies Risk,Unknown,1 year
+A751172,*Kenzie,Cat,Suffering,Intact Female,1 month
+A751207,,Cat,Suffering,Intact Female,6 years
+A751387,Chewy,Dog,Suffering,Neutered Male,10 years
+A751422,,Cat,Suffering,Intact Female,1 month
+A751424,,Cat,Rabies Risk,Intact Male,1 month
+A751446,*Beatrice,Cat,Suffering,Intact Female,4 weeks
+A751546,,Cat,Suffering,Unknown,4 weeks
+A751549,,Cat,Suffering,Intact Female,1 year
+A751612,,Cat,Suffering,Intact Male,1 year
+A751641,,Cat,Suffering,Intact Male,1 month
+A751668,,Cat,Suffering,Intact Female,5 years
+A751677,Miss Miss,Cat,Suffering,Unknown,20 years
+A751694,,Cat,Suffering,Unknown,3 months
+A751709,,Cat,Suffering,Unknown,3 weeks
+A751713,*Jelly,Cat,Suffering,Intact Female,3 weeks
+A751786,,Cat,Suffering,Intact Male,3 months
+A751867,,Dog,Medical,Intact Female,5 years
+A751967,,Cat,Suffering,Unknown,2 months
+A751972,,Cat,Suffering,Intact Female,1 month
+A752037,Scruffles,Dog,Suffering,Intact Male,18 years
+A752039,,Cat,Suffering,Unknown,3 months
+A752146,*Biscuit,Cat,Medical,Intact Male,2 months
+A752173,,Cat,Suffering,Intact Female,1 month
+A752212,,Cat,Suffering,Unknown,4 weeks
+A752308,Paxton,Cat,Rabies Risk,Spayed Female,6 years
+A752345,,Cat,Suffering,Unknown,2 years
+A752400,,Cat,Suffering,Intact Female,2 weeks
+A752467,,Cat,Suffering,Unknown,4 weeks
+A752469,,Cat,Suffering,Unknown,4 weeks
+A752470,,Cat,Suffering,Unknown,4 weeks
+A752471,,Cat,Suffering,Unknown,4 weeks
+A752515,,Cat,Suffering,Intact Male,3 weeks
+A752581,,Cat,Suffering,Intact Female,2 months
+A752632,,Cat,Suffering,Intact Female,1 month
+A752655,*Patti,Cat,Suffering,Spayed Female,6 years
+A752787,*Johnny,Cat,Suffering,Intact Male,4 weeks
+A752800,,Cat,Suffering,Unknown,1 month
+A752818,,Cat,Suffering,Neutered Male,5 years
+A752823,,Cat,Suffering,Unknown,12 years
+A752824,,Cat,Suffering,Intact Male,2 years
+A752942,*Chirp,Cat,At Vet,Intact Female,1 month
+A752946,*Tweet,Cat,At Vet,Intact Female,1 month
+A752985,*Jasmine,Dog,Medical,Spayed Female,1 year
+A753174,Abby,Dog,Suffering,Spayed Female,12 years
+A753250,,Dog,Suffering,Intact Female,4 years
+A753356,,Cat,Suffering,Unknown,2 months
+A753372,,Cat,Suffering,Neutered Male,15 years
+A753378,,Cat,Suffering,Neutered Male,3 years
+A753379,,Cat,Suffering,Neutered Male,10 years
+A753483,Eli James,Dog,Rabies Risk,Intact Male,2 months
+A753501,,Cat,Suffering,Intact Female,1 week
+A753607,,Cat,At Vet,Intact Female,1 year
+A753661,,Cat,Suffering,Intact Male,1 month
+A753743,,Cat,Suffering,Intact Male,3 weeks
+A753792,,Cat,Suffering,Neutered Male,8 years
+A753832,,Dog,Suffering,Intact Female,7 years
+A753928,,Cat,Suffering,Intact Male,6 months
+A754045,*George,Dog,Suffering,Intact Male,7 years
+A754057,,Cat,At Vet,Unknown,2 years
+A754121,,Cat,Suffering,Intact Female,5 years
+A754180,,Cat,Suffering,Intact Female,1 month
+A754337,,Cat,Suffering,Intact Male,1 month
+A754385,,Dog,At Vet,Unknown,2 years
+A754419,Alle,Cat,Suffering,Spayed Female,13 years
+A754578,,Dog,At Vet,Intact Male,1 year
+A754646,,Cat,Suffering,Intact Male,4 weeks
+A754828,Bonita,Cat,Suffering,Intact Female,2 months
+A755039,,Cat,Suffering,Intact Female,12 years
+A755054,,Dog,Suffering,Unknown,2 months
+A755218,*Licorice,Cat,Suffering,Intact Female,1 month
+A755413,,Cat,Suffering,Intact Male,1 year
+A755445,Onyx,Cat,Suffering,Neutered Male,10 years
+A755718,,Cat,Suffering,Neutered Male,1 year
+A755725,,Cat,At Vet,Unknown,5 months
+A755772,,Cat,Suffering,Neutered Male,2 years
+A755787,,Cat,Suffering,Intact Female,2 years
+A755850,,Cat,Suffering,Spayed Female,2 years
+A755870,,Cat,Suffering,Spayed Female,2 years
+A756009,,Cat,Suffering,Intact Female,4 weeks
+A756047,,Dog,Suffering,Neutered Male,12 years
+A756157,,Cat,Suffering,Neutered Male,3 years
+A756232,,Cat,Suffering,Spayed Female,1 year
+A756317,,Cat,Suffering,Intact Male,4 weeks
+A756374,Romeo,Dog,Suffering,Intact Male,10 years
+A756447,Pachuco Jr.,Dog,At Vet,Intact Male,1 year
+A756462,,Cat,Suffering,Intact Male,3 months
+A756561,,Cat,Suffering,Intact Female,5 weeks
+A756564,Speckles,Cat,Suffering,Spayed Female,2 years
+A756622,,Dog,Suffering,Intact Female,1 year
+A756627,,Cat,Medical,Intact Male,5 months
+A756632,Callie,Cat,Suffering,Spayed Female,16 years
+A756710,,Cat,Suffering,Intact Female,5 years
+A756751,Lulu Bell,Cat,Suffering,Spayed Female,18 years
+A756890,Shadow,Cat,Suffering,Spayed Female,2 years
+A757025,,Cat,Suffering,Intact Male,1 month
+A757117,,Cat,Suffering,Intact Female,4 weeks
+A757137,,Cat,Suffering,Intact Female,2 months
+A757147,,Dog,Suffering,Intact Female,5 years
+A757272,,Cat,Suffering,Unknown,2 years
+A757464,,Cat,At Vet,Intact Male,2 years
+A757573,,Cat,Suffering,Intact Female,3 weeks
+A757592,,Cat,Medical,Unknown,2 months
+A757599,Loki,Cat,Suffering,Intact Male,6 months
+A757670,Minnie,Dog,Aggressive,Spayed Female,3 years
+A757684,,Cat,Suffering,Intact Female,2 months
+A757847,,Cat,Suffering,Intact Female,12 years
+A757920,,Cat,Suffering,Unknown,13 years
+A757963,*Luna,Cat,Suffering,Intact Female,1 year
+A757981,,Cat,Suffering,Neutered Male,10 years
+A758041,,Cat,Suffering,Neutered Male,4 years
+A758134,,Cat,Suffering,Unknown,1 week
+A758208,*Shetara,Cat,Suffering,Intact Female,5 years
+A758225,,Dog,Suffering,Unknown,4 weeks
+A758245,,Cat,Suffering,Intact Male,4 months
+A758286,,Cat,Suffering,Intact Male,4 months
+A758292,,Cat,Medical,Spayed Female,10 years
+A758333,,Cat,Suffering,Intact Male,1 month
+A758392,,Dog,Suffering,Intact Male,6 months
+A758416,Parker,Cat,Suffering,Neutered Male,8 years
+A758458,Melli,Cat,Suffering,Intact Female,8 years
+A758537,,Cat,Suffering,Intact Male,4 months
+A758598,,Cat,Suffering,Neutered Male,9 years
+A758844,,Dog,Suffering,Intact Female,5 months
+A758902,,Dog,At Vet,Intact Female,1 year
+A759021,,Cat,Suffering,Unknown,2 years
+A759097,Kash,Dog,Aggressive,Intact Male,2 years
+A759245,,Cat,Suffering,Spayed Female,2 years
+A759268,,Dog,Suffering,Intact Female,2 months
+A759272,,Dog,Suffering,Intact Female,4 weeks
+A759301,,Cat,Suffering,Intact Male,1 month
+A759453,Jinx,Cat,Suffering,Spayed Female,5 years
+A759502,,Cat,Suffering,Intact Male,1 month
+A759641,,Cat,Suffering,Intact Female,2 years
+A759710,,Cat,Medical,Unknown,4 weeks
+A759757,Tiny,Dog,Suffering,Intact Male,5 years
+A759856,Butter,Cat,Suffering,Intact Male,2 years
+A759972,,Dog,Suffering,Intact Male,12 years
+A760110,,Cat,Suffering,Intact Male,2 years
+A760144,Princess,Dog,Suffering,Unknown,15 years
+A760157,,Dog,Suffering,Intact Male,2 years
+A760190,,Cat,Suffering,Unknown,2 years
+A760225,,Cat,Suffering,Unknown,1 month
+A760229,,Cat,Suffering,Intact Male,10 years
+A760276,,Cat,Suffering,Unknown,1 month
+A760321,,Cat,Suffering,Intact Male,4 months
+A760368,,Cat,Suffering,Intact Female,3 years
+A760534,,Cat,Suffering,Intact Female,2 years
+A760558,,Cat,Rabies Risk,Unknown,2 years
+A760563,,Cat,Suffering,Unknown,1 year
+A760606,,Cat,Suffering,Unknown,6 years
+A760728,Lazarus,Cat,Suffering,Unknown,6 months
+A760985,,Cat,Suffering,Neutered Male,2 years
+A761010,,Cat,Suffering,Spayed Female,13 years
+A761021,,Cat,At Vet,Unknown,1 year
+A761104,Spots,Dog,Suffering,Intact Male,3 years
+A761146,Jasper,Dog,Suffering,Neutered Male,4 years
+A761162,,Cat,Suffering,Unknown,4 weeks
+A761200,,Cat,Suffering,Intact Male,3 months
+A761279,,Dog,Suffering,Intact Female,2 years
+A761360,,Cat,Suffering,Intact Female,1 year
+A761428,Willie,Dog,Aggressive,Intact Male,2 years
+A761538,,Cat,Suffering,Spayed Female,8 years
+A761557,,Cat,Medical,Unknown,6 years
+A761703,,Cat,Suffering,Intact Female,2 weeks
+A761730,,Cat,Rabies Risk,Spayed Female,1 year
+A761849,,Cat,Suffering,Intact Female,2 years
+A761889,,Cat,Suffering,Unknown,1 year
+A762024,Puppy,Dog,Suffering,Intact Female,1 month
+A762149,,Cat,Suffering,Intact Male,1 month
+A762159,,Cat,Suffering,Unknown,1 year
+A762283,,Cat,Rabies Risk,Unknown,2 months
+A762483,,Dog,Suffering,Intact Female,1 year
+A762565,Meeka,Cat,Suffering,Spayed Female,9 months
+A762567,,Cat,Suffering,Neutered Male,12 years
+A762627,,Cat,Suffering,Neutered Male,12 years
+A762629,,Dog,Suffering,Unknown,10 years
+A762650,,Cat,Suffering,Unknown,4 months
+A762744,,Cat,Suffering,Intact Male,6 months
+A762764,Luna,Cat,Suffering,Intact Male,5 months
+A762807,,Cat,Suffering,Intact Female,3 months
+A762880,,Dog,Suffering,Intact Male,3 years
+A762900,,Cat,Suffering,Spayed Female,6 years
+A763148,Maudie,Cat,Suffering,Spayed Female,5 years
+A763192,Fergie,Dog,Suffering,Intact Female,14 years
+A763194,Lemonade,Cat,Suffering,Spayed Female,4 years
+A763285,,Cat,Suffering,Neutered Male,15 years
+A763701,Sir Topemcat,Cat,Suffering,Neutered Male,4 months
+A763886,Milo,Cat,Suffering,Spayed Female,8 years
+A763908,,Cat,Suffering,Intact Male,10 years
+A763923,,Dog,Suffering,Intact Female,7 months
+A764156,,Dog,Suffering,Intact Female,10 years
+A764203,,Dog,Suffering,Intact Female,5 years
+A764391,,Dog,Suffering,Intact Female,6 months
+A764474,,Cat,Suffering,Intact Female,2 years
+A764549,,Cat,Suffering,Intact Female,12 years
+A764601,Cooper,Dog,At Vet,Intact Male,4 years
+A764604,Phoenix,Cat,Suffering,Intact Female,10 months
+A764632,,Cat,Suffering,Intact Female,1 year
+A764653,Gordy,Dog,Suffering,Intact Female,14 years
+A764722,,Dog,Rabies Risk,Intact Male,2 months
+A764844,,Dog,Suffering,Neutered Male,10 years
+A764846,,Dog,Suffering,Spayed Female,10 months
+A764945,,Dog,Suffering,Intact Male,4 years
+A765191,,Dog,Suffering,Intact Female,1 year
+A765198,,Cat,Suffering,Neutered Male,3 months
+A765375,,Cat,Suffering,Intact Female,5 months
+A765482,,Cat,Suffering,Intact Male,3 years
+A765542,,Cat,Suffering,Intact Male,2 years
+A765697,,Cat,At Vet,Unknown,1 year
+A765702,,Cat,Rabies Risk,Neutered Male,3 months
+A765899,,Dog,Suffering,Neutered Male,7 years
+A765914,,Cat,Suffering,Intact Male,1 year
+A765960,,Dog,Suffering,Intact Male,8 years
+A766248,,Cat,Medical,Neutered Male,5 years
+A766365,,Dog,Suffering,Intact Male,1 year
+A766527,,Cat,At Vet,Unknown,2 years
+A766529,Snowy,Dog,Suffering,Intact Female,1 weeks
+A766537,,Cat,Suffering,Intact Male,2 years
+A766562,Cubby,Dog,At Vet,Neutered Male,15 years
+A766620,,Cat,Suffering,Intact Male,3 years
+A766755,,Cat,Suffering,Neutered Male,2 years
+A766764,,Dog,Medical,Neutered Male,8 years
+A766782,,Dog,Suffering,Intact Female,1 year
+A766829,,Cat,Suffering,Neutered Male,2 years
+A766850,,Cat,At Vet,Unknown,8 years
+A766851,,Cat,At Vet,Unknown,2 months
+A767002,Momma,Cat,Suffering,Spayed Female,12 years
+A767005,,Cat,Suffering,Intact Female,2 years
+A767006,,Cat,Suffering,Unknown,5 years
+A767025,,Cat,At Vet,Intact Male,1 year
+A767112,Gaylene,Cat,Suffering,Unknown,2 years
+A767240,,Dog,Medical,Intact Male,4 weeks
+A767323,,Cat,Rabies Risk,Intact Female,5 years
+A767415,*Marsha,Cat,Suffering,Spayed Female,10 years
+A767419,Trigger,Dog,Suffering,Neutered Male,16 years
+A767582,*Cherry,Cat,At Vet,Intact Female,4 weeks
+A767630,Vic-7,Cat,Suffering,Spayed Female,8 years
+A767728,,Cat,Suffering,Intact Male,3 years
+A767845,,Dog,At Vet,Intact Male,7 months
+A767942,,Cat,At Vet,Unknown,3 months
+A768228,,Cat,Suffering,Spayed Female,15 years
+A768345,Gunner,Dog,Aggressive,Neutered Male,5 years
+A768365,Panda,Dog,Suffering,Neutered Male,2 years
+A768409,,Cat,Rabies Risk,Unknown,1 year
+A768439,,Cat,Suffering,Intact Male,5 months
+A768525,Oido,Cat,Suffering,Neutered Male,5 years
+A768636,,Dog,Suffering,Intact Female,3 months
+A768782,Loki,Cat,Rabies Risk,Neutered Male,8 years
+A768969,,Cat,Suffering,Intact Female,5 months
+A769007,,Dog,Rabies Risk,Intact Female,1 month
+A769020,Max,Dog,Medical,Neutered Male,2 months
+A769067,Baby Girl,Dog,Suffering,Spayed Female,10 years
+A769126,,Cat,Medical,Spayed Female,1 year
+A769141,,Cat,Suffering,Intact Male,1 year
+A769157,,Dog,Suffering,Intact Male,1 year
+A769163,Clyde,Dog,Suffering,Neutered Male,10 years
+A769181,,Cat,Suffering,Intact Male,5 years
+A769339,,Dog,Suffering,Intact Female,10 years
+A769415,,Cat,Suffering,Unknown,3 days
+A769546,,Cat,Suffering,Neutered Male,10 years
+A769566,,Cat,Suffering,Intact Male,9 years
+A769570,,Cat,Suffering,Intact Male,2 years
+A769616,,Cat,Suffering,Spayed Female,10 years
+A769652,Oso,Cat,Suffering,Neutered Male,2 years
+A769663,,Cat,Suffering,Intact Male,2 years
+A769739,Marilyn,Cat,Suffering,Intact Female,5 months
+A769743,,Cat,Suffering,Intact Female,6 years
+A769807,,Cat,Suffering,Neutered Male,15 years
+A769823,,Cat,Suffering,Intact Male,8 years
+A769952,,Dog,At Vet,Unknown,5 years
+A769982,Unknown,Cat,Suffering,Intact Female,6 years
+A770022,,Cat,Suffering,Intact Female,4 weeks
+A770033,,Cat,Suffering,Unknown,0 years
+A770035,,Cat,Suffering,Unknown,0 years
+A770067,,Cat,At Vet,Intact Male,2 years
+A770334,,Cat,Suffering,Spayed Female,5 years
+A770335,,Cat,Suffering,Spayed Female,5 years
+A770340,,Cat,Suffering,Spayed Female,1 year
+A770388,,Dog,Suffering,Intact Male,9 years
+A770408,,Cat,Suffering,Intact Male,4 years
+A770436,,Cat,Suffering,Intact Male,5 years
+A770490,Rookie,Dog,Suffering,Neutered Male,8 years
+A770531,,Cat,Suffering,Spayed Female,10 years
+A770551,,Cat,Suffering,Unknown,2 years
+A770568,,Cat,Suffering,Neutered Male,2 months
+A770671,,Cat,Suffering,Neutered Male,2 years
+A770761,,Cat,Suffering,Intact Female,12 years
+A770831,,Cat,Suffering,Intact Female,1 year
+A770866,Unknown,Cat,Suffering,Intact Male,8 years
+A770888,,Cat,Suffering,Intact Female,1 month
+A770956,,Cat,Suffering,Neutered Male,5 years
+A770968,Unknown,Cat,Suffering,Intact Male,10 years
+A770979,,Cat,Suffering,Spayed Female,7 years
+A771032,,Cat,Suffering,Unknown,1 year
+A771068,,Dog,Suffering,Intact Female,4 years
+A771080,*Twilight,Cat,At Vet,Intact Female,3 weeks
+A771204,,Dog,At Vet,Unknown,2 years
+A771205,,Cat,Suffering,Unknown,2 years
+A771207,,Cat,Suffering,Spayed Female,12 years
+A771258,,Cat,Suffering,Intact Female,2 years
+A771265,Chichi,Dog,Suffering,Intact Male,7 years
+A771431,,Cat,Suffering,Intact Male,1 year
+A771445,Cowboy,Dog,Suffering,Intact Male,3 years
+A771529,,Cat,Suffering,Unknown,4 weeks
+A771622,,Cat,Suffering,Intact Female,3 weeks
+A771693,,Cat,Suffering,Intact Female,2 months
+A771701,,Cat,At Vet,Unknown,5 years
+A771713,,Cat,Suffering,Intact Female,1 week
+A771768,,Cat,Suffering,Unknown,1 month
+A771770,,Cat,At Vet,Unknown,3 months
+A771815,,Dog,Suffering,Intact Male,2 years
+A771889,,Cat,At Vet,Intact Female,1 month
+A771933,Unknown,Cat,Suffering,Intact Male,2 years
+A771951,,Cat,Suffering,Intact Male,2 weeks
+A772032,,Cat,Suffering,Intact Female,3 days
+A772044,,Cat,Suffering,Intact Female,9 months
+A772182,,Cat,Suffering,Intact Male,3 weeks
+A772291,,Cat,Suffering,Unknown,4 weeks
+A772313,,Cat,Suffering,Intact Female,11 years
+A772549,,Cat,At Vet,Unknown,1 year
+A772622,,Cat,Suffering,Unknown,2 years
+A772637,,Cat,Suffering,Intact Female,4 weeks
+A772734,,Dog,Suffering,Spayed Female,2 years
+A772757,,Cat,Suffering,Unknown,4 days
+A772880,,Cat,Suffering,Unknown,2 weeks
+A772881,,Cat,Suffering,Intact Male,2 weeks
+A773030,,Cat,Suffering,Intact Male,1 month
+A773131,,Cat,Suffering,Intact Male,6 years
+A773330,*Rigatoni,Cat,At Vet,Intact Male,1 month
+A773521,,Dog,Suffering,Intact Female,1 month
+A773524,*Gabriel,Cat,Suffering,Intact Male,1 month
+A773535,,Cat,Suffering,Intact Male,1 month
+A773596,*Sophie,Cat,Suffering,Intact Female,3 weeks
+A773792,,Cat,Suffering,Intact Male,4 weeks
+A773800,,Dog,Suffering,Intact Female,1 month
+A773863,,Cat,Suffering,Intact Male,4 weeks
+A773947,Bruno,Dog,Behavior,Neutered Male,2 years
+A774325,Mateo,Dog,Aggressive,Neutered Male,2 years
+A774411,,Cat,Medical,Intact Female,2 months
+A774484,,Cat,Rabies Risk,Intact Female,1 year
+A774776,,Dog,Suffering,Intact Male,1 year
+A774879,,Cat,Suffering,Intact Female,1 month
+A774890,,Dog,Suffering,Intact Male,2 years
+A775100,,Dog,Suffering,Intact Male,1 month
+A775638,Little Bit,Dog,Suffering,Unknown,15 years
+A775745,,Cat,Rabies Risk,Intact Male,2 months
+A775765,,Cat,Suffering,Intact Male,1 year
+A775790,,Cat,Rabies Risk,Intact Female,2 years
+A775815,,Dog,Suffering,Intact Male,4 weeks
+A775831,Prince,Dog,Suffering,Intact Male,11 years
+A775833,*Birdie,Cat,Suffering,Spayed Female,5 years
+A776021,*Hope,Dog,Medical,Intact Female,8 years
+A776177,,Cat,,Intact Female,4 months
+A776232,,Cat,Medical,Intact Female,2 years
+A776244,,Cat,,Intact Male,4 months
+A776400,,Cat,Suffering,Neutered Male,10 years
+A776499,,Dog,Suffering,Neutered Male,10 years
+A776959,,Cat,Suffering,Intact Female,1 year
+A778253,Sky,Dog,Suffering,Spayed Female,1 year
+A778285,,Cat,Suffering,Intact Female,1 month
+A778401,,Cat,Suffering,Unknown,1 year
+A778518,,Cat,Suffering,Intact Female,6 years
+A778571,,Cat,Suffering,Spayed Female,5 years
+A778898,,Dog,Suffering,Intact Male,1 month
+A779002,Zeus,Dog,Behavior,Neutered Male,3 years
+A779241,,Cat,Suffering,Intact Female,8 years
+A779325,,Dog,Suffering,Intact Male,5 years
+A779336,,Dog,Suffering,Intact Female,5 years
+A779387,,Cat,Suffering,Neutered Male,2 years
+A779797,,Cat,Suffering,Intact Male,4 months
+A779903,,Cat,Suffering,Intact Male,5 months
+A780265,,Dog,Suffering,Intact Male,2 months
+A780403,Pulguis,Dog,,Intact Male,5 months
+A780441,Junior,Dog,Aggressive,Neutered Male,2 years
+A780510,,Cat,Suffering,Intact Male,2 months
+A780563,Xena,Dog,Suffering,Spayed Female,10 years
+A780627,,Cat,Suffering,Intact Female,5 years
+A780651,Bear,Cat,Suffering,Intact Male,3 months
+A780655,,Dog,Suffering,Intact Male,1 year
+A780855,,Cat,Suffering,Unknown,2 years
+A780899,Cheetah,Cat,Suffering,Unknown,1 year
+A780915,Gatsby,Cat,Suffering,Neutered Male,18 years
+A780952,,Cat,Suffering,Intact Female,1 month
+A780980,,Dog,Suffering,Intact Female,4 months
+A781198,,Cat,Suffering,Intact Male,1 year
+A781205,,Cat,Suffering,Spayed Female,2 years
+A781249,,Cat,Suffering,Intact Female,5 months
+A781312,,Cat,Suffering,Neutered Male,5 years
+A781407,,Cat,Suffering,Intact Female,8 years
+A781769,,Cat,Suffering,Neutered Male,1 year
+A781938,Sandy,Dog,Suffering,Intact Female,6 years
+A781964,,Cat,Suffering,Intact Female,4 weeks
+A782089,,Cat,Suffering,Intact Female,2 years
+A782155,,Cat,Suffering,Intact Male,4 months
+A782197,*Boop,Cat,At Vet,Intact Female,1 month
+A782393,,Cat,Rabies Risk,Intact Female,1 month
+A782616,,Cat,Suffering,Intact Male,1 month
+A782618,,Dog,Suffering,Neutered Male,1 year
+A782913,,Cat,Suffering,Intact Male,3 months
+A783127,,Cat,Suffering,Intact Female,1 month
+A783174,,Cat,Rabies Risk,Intact Female,1 year
+A783388,,Cat,Rabies Risk,Unknown,2 months
+A783838,,Cat,Suffering,Intact Female,1 year
+A784020,,Dog,,Unknown,2 years
+A784033,,Cat,Suffering,Intact Female,2 months
+A784617,Milo,Dog,At Vet,Intact Male,2 months
+A785023,,Cat,Suffering,Intact Female,10 years
+A785181,,Cat,Suffering,Intact Male,1 year
+A785584,,Cat,Rabies Risk,Unknown,2 years
+A785677,,Dog,Suffering,Intact Female,7 years
+A786543,*Louann,Dog,Suffering,Intact Female,3 years
+A786582,,Cat,Medical,Intact Female,4 months
+A786671,,Dog,Suffering,Intact Female,14 years
+A787133,,Dog,Suffering,Intact Male,8 years
+A787148,,Cat,Suffering,Unknown,3 years
+A787557,,Dog,Suffering,Intact Male,2 years
+A787571,,Cat,At Vet,Unknown,6 years
+A788160,,Cat,Rabies Risk,Intact Female,6 months
+A788261,Fran,Dog,Suffering,Spayed Female,1 year
+A788270,,Dog,Medical,Intact Male,1 month
+A788384,Chinin,Cat,Suffering,Unknown,8 years
+A788473,,Cat,Suffering,Intact Male,3 years
+A788522,,Cat,Suffering,Intact Female,2 months
+A788533,,Dog,Suffering,Unknown,1 year
+A788721,,Cat,,Intact Male,NULL
